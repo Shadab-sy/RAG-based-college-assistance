@@ -1,0 +1,4276 @@
+--- PAGE 1 ---
+
+1 
+ 
+ 
+ 
+ 
+ 
+ AC – 6.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item No. – 28/6/2024 
+As Per NEP 2020 
+ 
+ 
+ 
+ 
+University of Mumbai 
+ 
+ 
+ 
+ 
+ 
+ 
+Bachelor of Engineering 
+ 
+ First Year Engineering (Semester I & II), Revised Course 
+ (NEP-2020 Scheme) from Academic Year 2024-25 
+ (Common for All Branches of Engineering) 
+ 
+A- 
+U.G. Certificate in Major Discipline of Engineering/Technology 
+B- 
+U.G. Diploma in Major Discipline of Engineering/Technology 
+C- 
+B.Voc/B.S.c. in Major Discipline of Engineering/Technology 
+D- 
+B.E. in Major Discipline of Engineering/Technology 
+E- 
+B.E. ( Hons.) in Major Discipline of Engineering/Technology 
+F- 
+B.E. (Hons. With Research) in Major Discipline of Engineering/Technology 
+Under 
+FACULTY OF SCIENCE & TECHNOLOGY 
+ Ref: GR dated 20th April, 2023 for Credit Structure of UG 
+ 
+ (As per AICTE & NEP 2020 Guidelines with effect 
+ from the Academic Year 2024-25 Progressively)
+
+--- PAGE 2 ---
+
+2 
+ 
+ 
+ 
+ 
+Preamble 
+ 
+To meet the challenge of ensuring excellence and NEP 2020 policy in engineering education, the issue of quality needs to 
+be addressed, debated, and taken forward systematically. Accreditation is the principal means of quality assurance in 
+higher education. The major emphasis of the accreditation process is to measure the outcomes of the program that is being 
+accredited. In line with this Faculty of Science and Technology (in particular Engineering) of the University of Mumbai 
+has taken the lead in incorporating the philosophy of NEP 2020 education in the process of curriculum development. 
+ 
+The First Year Engineering course is a broad foundation training program to impart scientific and logical thinking Training 
+to learners in general with a choice of course selection in the Basic sciences and Engineering Sciences. Simultaneously 
+NEP- 2020 objectives demand nurturing the basic skills required for familiarizing within the respective chosen Branch of 
+Engineering by the learner. Keeping this in view, a pool of courses is offered in Basic sciences covering fundamentals 
+required to understand modern engineering practices and emerging trends in technology. Considering the change in 
+pedagogy and the convenience of the stress-free learning process, in the course work under heads of Engineering Sciences, 
+a choice-based subject pool is offered in the second semester. Essentially to give a glimpse of trends in the industry under 
+vocational skill practices, the pool is offered to nurture and develop creative skills in contemporary industrial practices. 
+Criteria met in the structure is the opportunity for learners to choose the course of their interest in all disciplines. 
+ 
+Basic sciences cover Applied Physics and Elective Physics, Applied Chemistry and Elective Chemistry, and Applied 
+Mathematics where a pool of subjects are given for selection, the rationale for the same is that generalized basic science 
+courses are not feasible from learners' point of view. Considering the present scenario, diverse choices need to be made 
+available to fulfill the expectation of a learner to aspire for a career in the field of current trends of Technology and 
+interdisciplinary research. Ability enhancement can be achieved in Undergraduate training by giving an objective viewpoint 
+to the learning process and transitioning a learner from a rote learner to a creative professional, for the purpose Design 
+Thinking is introduced in the First Semester to orient a journey learner to become a skilled professional. Considering the 
+NEP-2020 structure of award of Certificate & Diploma at multiple exit-point pools of Vocational skills is arranged for 
+giving exposure to the current Industry practices. 
+ 
+Faculty resolved that course objectives and course outcomes are to be clearly defined for every course so that all faculty 
+members in affiliated higher education institutes understand the depth and approach of the course to be taught, which will 
+enhance the learner’s learning process. NEP 2020 grading system enables a much-required shift in focus from teacher-
+centric to continuous-based learner-centric education since the workload estimated is based on the investment of time in 
+learning and not in teaching. It also focuses on continuous evaluation which will enhance the quality of education. Credit 
+assignment for courses is based on a 15-week teaching-learning process for NEP 2020, however, the content of courses is 
+to be taught in 12-13 weeks and the remaining 2-3 weeks are to be utilized for revision, tutorial, guest lectures, coverage 
+of content beyond the syllabus, etc. 
+ 
+There was a concern that in the present system, the first-year syllabus must not be heavily loaded to the learner and it is of 
+utmost importance that the learner entering into the first year of an engineering course should feel at ease by lowering the 
+burden of syllabus and credits. This is necessary for a learner to get accustomed to the new environment of a college and 
+to create a bond between the teacher and the learner. The present curriculum will be implemented for the First Year of 
+Engineering from the academic year 2024-25. Subsequently, this system will be carried forward for Second Year 
+Engineering in the academic year 2025-26, and for Third Year and Final Year Engineering in the academic years 2026-27, 
+and 2027-28, respectively. 
+ 
+ 
+ 
+Dr. Deven Shah 
+Associate Dean 
+Faculty of Science & Technology 
+ 
+Prof. Shivram S. Garje 
+Dean 
+Faculty of Science & Technology
+
+--- PAGE 3 ---
+
+3 
+ 
+ 
+ 
+ Program Structure for First Year Engineering 
+ 
+UNIVERSITY OF MUMBAI 
+(NEP 2020 With Effect from Academic Year 2024-2025) 
+ 
+Semester I 
+ 
+ 
+Course 
+Code 
+Course Description 
+Teaching Scheme 
+(Contact Hours) 
+ 
+ 
+Credit Assigned 
+ 
+Theory Practical Tutorial Theory 
+ 
+Tutorial 
+ 
+Practical 
+Total 
+Credits 
+BSC101 
+Applied Mathematics -I 
+2 
+-- 
+1 
+2 
+1 
+-- 
+3 
+BSC102 
+Applied Physics 
+2 
+-- 
+- 
+2 
+- 
+-- 
+2 
+BSC103 
+Applied Chemistry 
+2 
+- 
+- 
+2 
+- 
+- 
+2 
+ESC101 
+Engineering Mechanics 
+2 
+- 
+- 
+2 
+- 
+- 
+2 
+ESC102 
+Basic Electrical & Electronics 
+Engineering 
+3 
+-- 
+- 
+3 
+- 
+-- 
+3 
+BSL101 
+Applied Physics Lab 
+- 
+1 
+- 
+- 
+- 
+0.5 
+0.5 
+BSL102 
+Applied Chemistry Lab 
+- 
+1 
+- 
+- 
+- 
+0.5 
+0.5 
+ESL101 
+Engineering Mechanics Lab 
+- 
+2 
+- 
+- 
+- 
+1 
+1 
+ESL102 
+Basic Electrical & Electronics 
+Engineering Lab 
+-- 
+2 
+- 
+-- 
+- 
+1 
+1 
+AEC101 
+Professional and Communication 
+Ethics 
+2 
+-- 
+- 
+2 
+- 
+-- 
+2 
+AEL101 
+Professional and Communication 
+Ethics 
+-- 
+2 
+ 
+-- 
+-- 
+1 
+1 
+VSEC101 
+Engineering Workshop-I 
+- 
+2 
+- 
+- 
+- 
+1 
+1 
+VSEC102 
+C Programming 
+- 
+2*+2 
+- 
+- 
+- 
+2 
+2 
+CC101 
+Induction cum Universal Human 
+Values 
+2# 
+- 
+- 
+2 
+- 
+-- 
+2 
+Total 
+15 
+14 
+1 
+15 
+01 
+07 
+23 
+ 
+* Two hours of practical class to be conducted for full class as demo/discussion. 
+# Course evaluation is activity-based which may be an individual or group of four students. 
+Theory / Tutorial 1 credit for 1 hour and Practical 1 credit for 2 hours
+
+--- PAGE 4 ---
+
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Semester I 
+ 
+Course 
+Code 
+Course Description 
+Examination scheme 
+Internal Assessment Test 
+(IAT) 
+End 
+Sem. 
+Exam 
+Marks 
+End Sem. 
+Exam 
+Duration 
+(Hrs) 
+Term 
+Work 
+(Tw) 
+Oral 
+& 
+Pract. 
+ 
+Total 
+IAT-I IAT-II 
+Total 
+(IAT-I) +
+IAT-II) 
+BSC101 
+Applied Mathematics -I 
+20 
+20 
+40 
+60 
+02 
+25 
+-- 
+125 
+BSC102 
+Applied Physics 
+15 
+15 
+30 
+45 
+1.5 
+-- 
+-- 
+75 
+BSC103 
+Applied Chemistry 
+15 
+15 
+30 
+45 
+1.5 
+-- 
+-- 
+75 
+ESC101 
+Engineering Mechanics 
+20 
+20 
+40 
+60 
+02 
+-- 
+-- 
+100 
+ESC102 
+Basic Electrical & Electronics 
+Engineering 
+20 
+20 
+40 
+60 
+02 
+-- 
+-- 
+100 
+BSL101 
+Applied Physics Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25 
+BSL102 
+Applied Chemistry Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25 
+ESL101 
+Engineering Mechanics Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+25 
+50 
+ESL102 
+Basic Electrical & Electronics 
+Engineering Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+25 
+50 
+AEC101 
+Professional and Communication 
+Ethics 
+15 
+15 
+30 
+45 
+1.5 
+-- 
+-- 
+75 
+AEL101 
+Professional and Communication 
+Ethics 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25 
+VSEC101 Engineering Workshop-I 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25 
+VSEC102 C Programming 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+25 
+50 
+CC101 
+Induction cum Universal Human 
+Values 
+-- 
+-- 
+-- 
+-- 
+-- 
+- 
+-- 
+- 
+Total 
+105 105 
+210 
+315 
+10.5 
+200 
+75 
+800
+
+--- PAGE 5 ---
+
+9 
+ 
+ 
+Course 
+Teaching Scheme 
+Credits Assigned 
+Course Name 
+(Contact Hours) 
+Code 
+Theory 
+Pract Tut. 
+Theory 
+TW/Pract Tut. 
+Total 
+BSC101 Applied Mathematics-I 
+02 
+-- 
+01 
+02 
+-- 
+01 
+03 
+Course 
+Code 
+Course Name 
+ 
+Examination Scheme 
+Theory 
+Exam 
+Duration 
+(in Hrs) 
+Term 
+Work Pract Oral 
+Total 
+Internal Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+IAT-I IAT-II 
+IAT-I + 
+IAT-II 
+(Total) 
+BSC101 Applied Mathematics-I 
+20 
+20 
+40 
+60 
+ 02 
+25 
+-- 
+-- 
+125 
+ 
+ 
+Course Objectives: The course is aimed 
+ 
+1. To develop the basic Mathematical skills of engineering students that are imperative for 
+effective understanding of engineering subjects. The topics introduced will serve as basic tools 
+for specialized studies in many fields of engineering and technology. 
+ 
+2. To provide hands-on experience using SCILAB software to handle applications to real-life 
+problems. 
+ 
+Course Outcomes: Students will be able to 
+ 
+1. Apply the basic concepts of Complex Numbers and will be able to use them to analyze for 
+engineering problems. 
+2. Apply hyperbolic functions and logarithms in subjects like electrical circuits and 
+electromagnetic wave theory for cutting-edge tools and technology. 
+3. Apply the basic concepts of partial differentiation of function of several variables and will be 
+able to use in subjects like Electromagnetic Theory, Heat and Mass Transfer, etc. 
+4. Apply the concept of Maxima, Minima, and Successive differentiation and will be able to use 
+it for optimization and tuning the systems in emerging and computing areas. 
+5. Apply the concept of Matrices and be able to use it for solving the KVL and KCL in electrical 
+networks in emerging and telecommunications areas. 
+6. Apply the concept of Numerical Methods for solving engineering problems with help of 
+SCILAB software.
+
+--- PAGE 6 ---
+
+10 
+ 
+Module 
+Detailed Contents 
+Hrs. 
+CO 
+Mapping 
+01 
+Complex Numbers 
+Pre-requisite: Review of Complex Numbers‐Algebra of 
+Complex Numbers, Cartesian, polar and exponential form of 
+complex number, Statement of D’Moivre’s Theorem. 
+1.1. Expansion of sinnθ, cosnθ in terms of sines and cosines of 
+multiples of θ and Expansion of sinnθ, cosnθ in powers of 
+sinθ, cosθ. 
+1.2. Powers and Roots of a complex number. 
+# Self-learning topic: Basic of Complex Number. 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+CO1 
+02 
+ Hyperbolic Functions & Logarithms of Complex Numbers 
+2.1. Circular functions of complex number and Hyperbolic 
+functions. Inverse 
+ Circular and Inverse Hyperbolic Functions. Separation of 
+real and imaginary 
+ parts of all types of Functions. (Simple Examples) 
+2.2. 
+Logarithm of Complex Number (Simple Examples) 
+ 
+# Self-learning topic: Applications of complex numbers in 
+Electrical circuits. 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+ 03 
+Partial Differentiation 
+3.1.Partial Differentiation: Function of two and three 
+variables, Partial derivatives of first and higher order. 
+Differentiation of composite function. 
+3.2.Euler’s Theorem on Homogeneous functions with two 
+independent variables (with proof). Deductions from 
+Euler’s Theorem. (without proof). 
+ 
+# Self-learning topics: Total differentials, implicit functions, 
+Euler’s Theorem 
+ on Homogeneous functions with three independent variables. 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+04 
+Applications of Partial Differentiation and Successive 
+Differentiation. 
+ 
+4.1.Maxima and Minima of a function of two independent 
+variables, 
+4.2.Successive differentiation: nth derivative of standard 
+functions. Leibnitz’s Theorem (without proof) and 
+simple examples. 
+# Self-learning topics: Jacobian’s of two and three independent 
+variables 
+ (simple problems) Lagrange’s Multiplier method. 
+1 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+05 
+Matrices 
+Pre-requisite: Inverse of a matrix, addition, multiplication, and 
+transpose of a matrix, symmetric, skew-symmetric Matrix (Only 
+ 
+3
+
+--- PAGE 7 ---
+
+11 
+ 
+Definition). 
+5.1.Types of Matrices (Hermitian, Skew Hermitian, Unitary, 
+Orthogonal Matrices and 
+ properties of Matrices (without proof)). The rank of a 
+Matrix using Echelon form, reduction to 
+ normal form, and PAQ form (Only 3X3 Matrix) 
+5.2.System of homogeneous and non –non-homogeneous 
+equations, their consistency, and solutions. 
+# Self-learning topics: Application of inverse of a matrix to 
+coding theory. 
+ Reduction to normal form and PAQ form.( m x n Matrix) 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+06 
+Numerical Solutions of Transcendental Equations and 
+System 
+of Linear Equations and Expansion of Function. 
+6.1.Solution of Transcendental Equations: Solution by 
+Newton Raphson method and Regula –Falsi method. 
+6.2.Solution of a system of linear algebraic equations, by 
+(1) Gauss Jacobi Iteration 
+Method, (2) Gauss Seidel Iteration Method. 
+# Self-learning topics: Indeterminate forms, L‐ Hospital Rule, 
+Gauss Elimination Method, Gauss Jordan Method. 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+CO6 
+ 
+References: 
+1. Higher Engineering Mathematics, Dr.B.S.Grewal, Khanna Publication 
+2. Advanced Engineering Mathematics, Erwin Kreyszig, Wiley EasternLimited, 9thEd. 
+3. Engineering Mathematics by Srimanta Pal and Subodh, C.Bhunia, Oxford University Press 
+4. Matrices, Shanti Narayan, S. Chand publication. 
+5. Applied Numerical Methods with Matlab for Engineers and Scientists by Steven Chapra, 
+ McGraw Hill 
+6. Elementary Linear Algebra with Application by Howard Anton and Christ Rorres. 6th 
+edition. 
+John Wiley & Sons, INC. 
+7. A textbook of Engineering Mathematics by N.P. Bali & Manish Goyal. Laxmi Publication. 
+8. A textbook of Applied Mathematics Vol-I & Vol-II by P. N. Wartikar & J.N. Wartikar. 
+ 
+Term Work: 
+ 
+General Instructions: 
+1. 
+Batch-wise tutorials are to be conducted. The number of students per batch should be as per 
+ University pattern for practicals. 
+2. Students must be encouraged to write SCILAB Programs in tutorial class only. Each Student has 
+to write at least 2 SCILAB tutorials (including print out) and at least 6 class tutorials on entire 
+syllabus. 
+3. SCILAB Tutorials will be based on (i) Gauss Jacobi Iteration Method (ii) Guass Seidal Iteration 
+method (iii) Newton Raphson Method (iv)Regula –Falsi method.
+
+--- PAGE 8 ---
+
+12 
+ 
+ 
+The distribution of Term Work marks will be as follows – 
+1. Attendance (Theory and Tutorial) 05 marks 
+2. Class Tutorials on entire syllabus 10 marks 
+3. SCILAB Tutorials 
+ 10 marks 
+ 
+ 
+Assessment: 
+Internal Assessment Test (IAT) for 20 marks each: 
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to 
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to 
+50% of the syllabus content must be covered in the IAT-II. 
+End Semester Theory Examination: 
+ 
+➢ Question paper format 
+• Question Paper will comprise a total of six questions each carrying 15 marks Q.1 will 
+be compulsory and should cover the maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) of each 
+question must be from different modules. For example, if Q.2 has part (a) from 
+Module 3 then part (b) must be from any other Module randomly selected from all 
+the modules) 
+• A total of four questions need to be answered
+
+--- PAGE 9 ---
+
+13 
+ 
+ 
+ 
+ 
+Rationale: 
+Most of the engineering branches are being off-spring of basic sciences where physics is playing a 
+pivotal role in concept and understanding of foundation of core engineering branches. This syllabus is 
+developed by keeping in mind, needs of all branches that we offer in University of Mumbai. In the 
+distribution of modules, core physics and its applied form are given priority. Further, it is ensured that 
+these modules will cover prerequisites needed for engineering courses to be introduced in higher 
+semesters as core subjects or as interdisciplinary subjects in respective branches. 
+ 
+Course Objectives: 
+1. To provide students with a basic understanding of laser operation. 
+2. To explain the basic working principle of Optical fiber and its use in communication 
+technology. 
+3. To demonstrate principles of interference in thin film. 
+4. To describe Maxwell’s equations and their significance. 
+5. To build a foundation of quantum mechanics needed for modern technology. 
+6. To give exposure to the concept of Fermi level in semiconductors. 
+ 
+Course Outcomes: 
+1. Learners will be able to ILLUSTRATE the use of laser in LiDAR and Barcode reading. 
+2. Learners will be able to APPLY the foundation of fiber optics in the development of modern 
+communication technology 
+3. Learners will be able to determine the wavelength of light and refractive index of liquid using 
+the interference phenomenon. 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+BSC102 
+Applied Physics 
+2 
+-- 
+- 
+2 
+-- 
+- 
+2 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract / 
+Oral 
+Total 
+Internal 
+Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I 
+ 
+ 
+IAT-II 
+IAT-I + 
+IAT-II 
+(Total) 
+BSC102 
+Applied Physics 
+15 
+15 
+30 
+45 
+02 
+-- 
+-- 
+75
+
+--- PAGE 10 ---
+
+14 
+ 
+4. Learners will be able to ARTICULATE the significance of Maxwell’s equations. 
+5. Learners will be able to RELATE the foundations of quantum mechanics with the 
+development of modern technology. 
+6. Learner will be able to CLASSIFY semiconductors and EXPLAIN variation of Fermi level 
+with temperature and doping concentration. 
+ 
+DETAILED SYLLABUS: 
+ 
+Name of 
+Module 
+Detailed Content 
+Hours 
+CO 
+Mapping 
+ 
+Prerequisite 
+Basic knowledge of optics and atomic structure, 
+Wavefront and Huygens principle, reflection and 
+refraction, Interference by division of wavefront, 
+Refractive index of a material, Snell’s law, Basics of 
+vector algebra, partial differentiation concepts, Dual 
+nature of radiation, Photoelectric effect, Matter 
+waves, Davisson-Germer experiment. 
+Intrinsic and extrinsic semiconductors, electrical 
+resistivity and conductivity concepts 
+-- 
+-- 
+I 
+Lasers 
+Lasers: Spontaneous and stimulated emission, 
+population inversion, pumping, active medium & 
+active center, resonant cavity, coherence length and 
+coherence time, Characteristics of lasers, He-Ne 
+laser: construction and working. Fiber 
+laser Construction and working 
+Application: 
+(i)Elementary knowledge of LiDAR(ii) Barcode 
+reader (iii) Application of 
+laser in metal work 
+04 
+CO1 
+II 
+Fibre Optics 
+Optical fibers: Critical angle, acceptance angle, 
+acceptance cone, numerical aperture, total internal 
+reflection andpropagation of light, Types of optical 
+fibers: Single mode & multimode, step index & 
+graded index, attenuation,attenuation coefficient, 
+factors affecting attenuation, Fibre Optic 
+Communication System, Advantages of optical fiber 
+04 
+CO2
+
+--- PAGE 11 ---
+
+15 
+ 
+communication, numerical 
+III 
+Interfenence 
+In Thin Films 
+Interference in thin film of uniform thickness, 
+conditions of maxima and minima for reflected 
+system, Conditions for maxima and minima for 
+wedge shaped film (qualitative), engineering 
+applications – 
+(i) Newton’s rings for determination of unknown 
+monochromatic wavelength and refractive Index of 
+transparent liquid (ii) AntiReflecting Coating 
+04 
+CO3 
+IV 
+Electrodyna
+mics 
+Vector Calculus: Gradient, Divergence, Curl. 
+Gauss’s law, Amperes’ circuital Law, Faraday’s law, 
+Divergence theorem, Stokes theorem Maxwell’s 
+equations in point form, Integral form and their 
+significance(Cartesian coordinate only) 
+04 
+CO4 
+V 
+Quantum 
+Physics 
+de Broglie hypothesis of matter waves, de Broglie 
+wavelength for electron, Properties of matter waves, 
+Wave function and probability density, 
+mathematicalconditions for wave function, problems 
+on de Broglie wavelength, Need and significance of 
+Schrödinger’sequations, Schrödinger’s time 
+independent and time dependent equations, Energy of 
+a particle enclosed in a rigidbox and related 
+numerical problems, Quantum mechanical tunneling, 
+Principles of quantum computing: concept of Qubit. 
+06 
+CO5 
+VI 
+Basics Of 
+Semiconduct
+or Physics 
+Direct and Indirect Band Gap Semiconductors, 
+Electrical Conductivity of Semiconductors, Drift 
+Velocity, Mobility and Conductivity in Conductors 
+Fermi- Dirac distribution function, Position of Fermi 
+Level in Intrinsic and Extrinsic Semiconductors. 
+04 
+CO6 
+Text Books: 
+1. A Text book of Engineering Physics -Dr. M. N. Avadhanulu, Dr. P. G. Kshirsagar, S. Chand, 
+Revised Edition 2014 
+2. Modern Engineering Physics - A. S. Vasudeva, S. Chand, Revised Edition 2013 
+3. Engineering Physics D. K Bhattacharya,PoonamTandon, Oxford Higher Education, 1st Edition 
+2015
+
+--- PAGE 12 ---
+
+16 
+ 
+4. Engineering Physics -R. K. Gaur,S. L. Gupta, DhanpatRai Publications, 2012 
+5. Engineering Physics -V. Rajendran, McGraw Hill Educations, 2017 
+6. A Textbook of Nanoscience and Nanotechnology, T. Pradeep Tata McGraw Hill Education 
+Pvt. Ltd., 2012 
+References: 
+1. Concepts of Modern Physics - ArtherBeiser, ShobhitMahajan, S. Choudhury, McGraw Hill, 
+7thEdition 2017 
+2. Fundamentals of optics - Francis A. Jenkins, Harvey E. White, McGraw Hill Publication, India, 
+4th Edition 
+3. Fundamentals of Physics, Halliday and Resnick, Wiley publication 
+4. Introduction to Electrodynamics, D. J. Griffiths, Pearson PublicationOnline 
+References: 
+Sr. No. 
+Website Name 
+1. 
+https://archive.nptel.ac.in/courses/115/102/115102124/ 
+2. 
+https://archive.nptel.ac.in/courses/115/102/115102025/ 
+3. 
+https://archive.nptel.ac.in/courses/115/105/115105132/ 
+ 
+Assessment: 
+Internal Assessment Test (IAT) for 15 marks each: 
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to 
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to 
+50% of the syllabus content must be covered in the IAT-II. 
+End Semester Theory Examination: 
+ 
+Question paper format 
+• Question Paper will comprise a total of five questions each carrying 15 marks Q.1 
+will be compulsory and should cover the maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) of each 
+question must be from different modules. For example, if Q.2 has part (a) from 
+Module 3 then part (b) must be from any other Module randomly selected from all 
+the modules) 
+• A total of three questions need to be answered 
+ 
+ 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+BSL101 
+Applied Physics 
+Lab 
+-- 
+1 
+- 
+-- 
+0.5 
+- 
+0.5
+
+--- PAGE 13 ---
+
+17 
+ 
+ 
+ 
+ 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract / 
+Oral 
+Total 
+Internal 
+Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I 
+ 
+ 
+IAT-II 
+IAT-I + 
+IAT-II 
+(Total) 
+BSL101 
+Applied Physics 
+Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25 
+ 
+Lab Objectives: 
+1. To develop scientific understanding of the physics concepts. 
+2. To develop the ability to explain the processes and applications related to science subjects. 
+3. To apply skills and knowledge in real life situations. 
+4. To improve the knowledge about the theory concepts of Physics learned in the class. 
+5. To improve ability to analyse experimental result and write laboratory report. 
+6. To develop understanding about inferring and predicting. 
+ 
+Lab Outcomes: Learners will be able to.. 
+1. Determine wavelength / divergence of laser beam. 
+2. Determine parameters like numerical aperture / power attenuation of an optical fibre. 
+3. Perform experiments based on interference in thin film and determine radius of curvature of 
+lens / diameter of wire / thickness of paper. 
+4. Calculate basic parameters / constants using semiconductors. 
+5. Determine energygap / resistivity of a semiconductor. 
+6. Learner to understand the concept for virtual lab as per syllabus. 
+ 
+List of Experiments. (Minimum five experiments required) 
+Sr No 
+List of Experiments 
+Hrs 
+LO Mapping 
+01 
+Determination of wavelength using Diffraction grating. (Laser 
+source) 
+01 
+LO1 
+02 
+Study of divergence of laser beam 
+01 
+LO1 
+03 
+Determination of Numerical Aperture of an optical fibre. 
+01 
+LO2 
+04 
+Measuring optical power attenuation in your plastic optical fiber 
+01 
+LO2 
+05 
+Determination of radius of curvature of a lens using Newton’s ring 
+set up. 
+01 
+LO3 
+06 
+Determination of diameter of wire/hair or thickness of paper using 
+Wedge shape film method. 
+01 
+LO3 
+07 
+Determination of ‘h’..photo cell 
+01 
+LO4 
+08 
+Determination of ‘h’ using LED 
+01 
+LO4 
+09 
+Determination of energy band gap of semiconductor. 
+01 
+LO5
+
+--- PAGE 14 ---
+
+18 
+ 
+ 
+Term Work Marks: 25 Marks (Total marks) = 10 Marks (Experiment) + 10 Marks Project + 5 
+Marks (Attendance) 
+Project work will be extended to semester-2 as well. In semester 1, a group of four students will be 
+formed; a domain may be provided by faculty, the group will frame a problem statement in consultation 
+with faculty. A PPT presentation with problem statement, preliminary literature survey, execution 
+plan and a probable outcome is to be considered for awarding marks. Proper rubrics must be framed 
+by faculty member 
+ 
+ 
+ 
+ 
+ 
+Rationale: 
+Chemical science has contributed in many ways to most of the Engineering branches where 
+“Environmental Chemistry” is the modern approach to learn impact of Technology on habitat and 
+can be common to all Core Groups, “Engineering Materials” can be prerequisites to many subjects 
+of all core groups and Impact of corrosion on metals as engineering materials is the important area of 
+concern. “Conventional and Non Conventional Energy Study” is the matter of general approach to 
+all Core groups as Energy issue is the most recent concern even for designing computational engines 
+(Include hardware & software energy efficient). 
+ 
+Course Objectives: 
+1) To study Coal as a conventional source of energy. 
+2) To study the effect of corrosion by different mechanisms on metals and methods of corrosion 
+control. 
+10 
+Determination of resistivity by four probe method. 
+01 
+LO5 
+11 
+Any other experiment based on syllabus may be included, which 
+would help the learner to understand concept. Virtual lab may be 
+developed and used for performing the experiments, after defining 
+a suitable LO 
+01 
+LO6 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+BSC103 Applied Chemistry 
+2 
+-- 
+- 
+2 
+-- 
+- 
+2 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract / 
+Oral 
+Total 
+Internal 
+Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I 
+ 
+ 
+IAT-II 
+IAT-I + 
+IAT-II 
+(Total) 
+BSC103 Applied Chemistry 
+15 
+15 
+30 
+45 
+02 
+-- 
+-- 
+75
+
+--- PAGE 15 ---
+
+19 
+ 
+3) To recognise importance of alloys and can apply the phase rule on it to study the effect of 
+temperature and composition. 
+4) To introduce important properties of polymers as Engineering material. 
+5) To recognise the composition, properties and functions of various composite materials. 
+6) To study importance of Green Chemistry by comparative study of conventional and Green 
+routes of syntheses, solvents and fuels. 
+Course Outcomes: Student will be able to - 
+1) Determine the quality of coal and quantify the oxygen required for combustion of coal. 
+2) Apply different methods to minimize corrosion in industries. 
+3) Interpret various phase transformations of alloy using thermodynamics. 
+4) Use the polymers for specific engineering applications on the basis of the properties. 
+5) Identify different types of composite materials for engineering applications. 
+6) Apply the principles of Green chemistry and study environmental impact for sustainable 
+development 
+Prerequisite: 
+1) Knowledge about basic difference in Conventional and non-conventional energy sources. 
+2) Knowledge about concepts of Electrochemistry. 
+3) Knowledge of basic properties of metals and nonmetals. 
+4) Knowledge of 12 principles of Green Chemistry 
+DETAILED SYLLABUS: 
+Sr. 
+No. 
+Name of 
+Module 
+Detailed Content 
+Hours 
+CO 
+Mapping 
+I 
+Fuels and 
+Combustion 
+A) cFuel: - Definition, Characteristics of good fuel. 
+B) Calorific value (Definition, Types, 
+Determination, Dulong’s formula, Numerical) 
+C) Coal: - Analysis of coal – Proximate analysis, 
+Ultimate analysis, Numerical) 
+D) Combustion of coal – Numerical 
+04 
+CO1 
+II 
+Corrosion 
+A) Introduction: - Definition, Types of Corrosion – 
+i) Dry or Atmospheric Corrosion, ii) Wet or 
+Electrochemical corrosion (In Acidic medium, In 
+Neutral medium) 
+B) Factors affecting rate of corrosion:- i) Position of 
+metal in galvanic series, ii) Purity of Metal, iii) 
+Nature of Corrosion product, iv) Temperature, v) 
+pH of medium, vi) concentration of medium, vii) 
+moisture, viii) Relative Cathodic and Anodic 
+area, ix) overvoltage 
+C) Methods to control corrosion: - i) Selection of 
+metal, ii) Proper Designing, iii) Cathodic 
+protection, iv) Use of Corrosion Inhibitors, v) 
+Metallic Coating 
+D) Corrosion in Electronic devices 
+04 
+CO2 
+III 
+Alloys 
+A) Purpose of making alloys. 
+B) i) Gibbs Phase rule – Statement, Terms involved 
+04 
+CO3
+
+--- PAGE 16 ---
+
+20 
+ 
+with examples. 
+ii) Reduced phase rule, Two-component system (Pb-
+Ag) & Numerical. 
+ iii) Merits and Limitations of Phase rule. 
+ 
+IV 
+Introductio
+n to 
+Polymers 
+A) Macro-molecular science, basic concept of 
+polymers, Chemical bonding in polymers, 
+Classification of Polymers. 
+B) Properties of Polymers:- i) Molecular weight - 
+Number average molecular weight, Weight 
+average molecular weight, Numerical, ii) 
+Crystallinity - Crystalline and amorphous 
+polymers – Glass transition temperature, iii) 
+Mechanical Properties: Hardness, tensile 
+strength, creep, fatigue, impact resistance 
+(introduction), iv) Electrical properties: 
+dielectric strength, insulation resistance, surface 
+resistivity (Introduction), v) Optical properties: 
+refractive index, transmittance, photoelectric 
+property, colour 
+05 
+CO4 
+V 
+Introductio
+n to 
+Composites 
+A) Definition, Characteristics of Composites, 
+B) Constituents of Composites – Matrix Phase and 
+Dispersed Phase (Definition and Functions) 
+C) Classification of Composites 
+04 
+CO5 
+VI 
+Green 
+Chemistry 
+for 
+sustainable 
+developmen
+t 
+A) Comparative study of synthesis of following 
+industrially important molecules by 
+conventional and green route:- i) Indigo dye, ii) 
+Adipic acid, iii) Carbaryl 
+B) Green Solvents: - characteristics and 
+applications of Supercritical solvents and ionic 
+liquids 
+C) Green Fuels:- Synthesis and Advantages of i) 
+Biodiesel, ii) Ethanol 
+ 
+05 
+CO6 
+Recommended Books: 
+1. Engineering Chemistry, Jain and Jain, Dhanpat Rai Publication 
+2. A textbook of Engineering Chemistry, S. S. Dara, S. Chand and Company 
+3. Polymer science: Vasant Gowarikar, Wiley Estern Ltd, new Delhi 
+4. Green Chemistry: V. K. Ahluwalia 
+ 
+Online References: 
+Sr. No. 
+Website Name 
+1. 
+https://archive.nptel.ac.in/courses/103/106/105106205/ 
+2. 
+https://courses.nptel.ac.in/noc20_ch41/preview 
+ 
+Assessment: 
+Internal Assessment Test (IAT) for 15 marks each:
+
+--- PAGE 17 ---
+
+21 
+ 
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to 
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to 
+50% of the syllabus content must be covered in the IAT-II. 
+End Semester Theory Examination: 
+ 
+Question paper format 
+• Question Paper will comprise a total of five questions each carrying 15 marks Q.1 
+will be compulsory and should cover the maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) of each 
+question must be from different modules. For example, if Q.2 has part (a) from 
+Module 3 then part (b) must be from any other Module randomly selected from all 
+the modules) 
+• A total of three questions need to be answered. 
+ 
+ 
+ 
+Lab Objectives: 
+1. To apply knowledge acquired during the theory class in carrying out the experiments for 
+qualitative and quantitative determination. 
+2. To analyse experimental results and write laboratory report. 
+ 
+Lab Outcomes: After completion of experiment, the learners will be able to: 
+1. Understand the significance of proximate analysis of coal and determine quality of coal sample. 
+2. Learn various quantitative analytical techniques to determine % of elements from alloy samples. 
+3. Synthesize biodiesel at laboratory level and calculate % atom economy from Green chemistry 
+point of view. 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+BSL102 Applied Chemistry 
+Lab 
+-- 
+1 
+- 
+-- 
+0.5 
+- 
+0.5 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract / 
+Oral 
+Total 
+Internal 
+Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I 
+ 
+ 
+IAT-II 
+IAT-I + 
+IAT-II 
+(Total) 
+BSL102 
+Applied Chemistry 
+Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25
+
+--- PAGE 18 ---
+
+22 
+ 
+4. Learn the effect of various factors on the rate of corrosion. 
+5. Synthesize bioplastic at laboratory level using from Green chemistry. 
+6. Quantitative determination of N2 / Flue gas. 
+ 
+Prerequisite: 
+1. Knowledge of basic safety practices in the Chemistry Laboratory 
+2. Knowledge of Proximate analysis of coal 
+3. Knowledge of volumetric analysis 
+ 
+List of Experiments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assessment: 
+Term Work: Term Work shall consist of at least 5 to 6 practicals based on the above list. Also, 
+Term work Journal must include at least 4 assignments. 
+Term Work Marks: 25 Marks (Total marks) = 15 Marks (Experiment) + 5 Marks (Assignments) + 
+5 Marks (Attendance) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr No 
+List of Experiments 
+Hrs 
+LO 
+Mapping 
+01 
+Determination of moisture content of coal 
+01 
+LO1 
+02 
+Determination of ash content of coal 
+01 
+LO1 
+03 
+Determination of Zn in Brass 
+01 
+LO2 
+04 
+Synthesis of Biodiesel from vegetable oil 
+02 
+LO3 
+05 
+Determination of Cu in Brass 
+01 
+LO2 
+06 
+Flue gas analysis by Orsats Apparatus 
+02 
+LO6 
+07 
+Synthesis of biodegradable plastics 
+02 
+LO5 
+08 
+Determination of nitrogen by Kjeldahl’s method 
+02 
+LO6 
+09 
+To compare rate of corrosion of various metals in acidic 
+medium 
+01 
+LO4 
+Sr No 
+List of Assignments / Tutorials 
+LO 
+Mapping 
+01 
+Numerical based on calorific value determination, proximate and 
+ultimate analysis of coal 
+LO1 
+02 
+Phase Diagram on Electrochemical corrosion in different medium 
+LO4 
+03 
+Diagrams and numerical based on two component system 
+LO2 
+04 
+Numerical based on average molecular weight of polymers 
+LO5 
+05 
+Synthesis of at least two Industrially important molecules 
+LO3, LO5
+
+--- PAGE 19 ---
+
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rationale: 
+Engineering mechanics is a branch of science that deals with the behavior of solid bodies when 
+subjected to external forces or loads and the effects of these forces on the bodies. It is a fundamental 
+discipline within engineering and provides the basis for understanding and analyzing various types of 
+structures and mechanisms. 
+ 
+Course Objectives: 
+1. To acquaint with basic principles of centroid and its application 
+2. To familiarize with the concepts of force, moment, Resultant and Equilibrium of system of 
+coplanar force. 
+3. To acquaint with the basic concept of friction and its application in real-life problems. 
+4. To understand the parameters required to quantify the Kinematics of Particle and Rigid 
+body. 
+5. To understand the parameters required to quantify the Kinetics of rigid body. 
+6. To acquaint with the basics of Robot kinematics 
+ 
+Course Outcomes: 
+1. Determine the equivalent force-couple system for a given system of forces.(L3) 
+2. Demonstrate the understanding of Centroid and its significance and locate the same. (L3) 
+3. Illustrate the concept of force, moment and apply the same along with the 
+concept of equilibrium in two- and three-dimensional systems with the help of FBD. 
+(L3) 
+4. Calculate position, velocity and acceleration etc. of particle/rigid body using principles of 
+kinematics (L3) 
+5. Analyze particles in motion using force and acceleration, work-energy and impulse- 
+momentum principles (L4) 
+ 
+ 
+Course 
+Code 
+ 
+ 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I 
+IAT-
+II 
+IAT-I + 
+IAT-II 
+(Total) 
+ESC101 
+Engineering 
+Mechanics 
+20 
+20 
+40 
+60 
+02 
+-- 
+-- 
+100 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+ESC101 
+Engineering 
+Mechanics 
+02 
+- 
+- 
+02 
+- 
+- 
+02
+
+--- PAGE 20 ---
+
+24 
+ 
+6. Establish the relation between robot joints and parameters (L2) 
+ 
+ 
+DETAILED SYLLABUS: 
+Sr. 
+No. 
+Name of 
+Module 
+Detailed Content 
+Hours 
+CO 
+Mapping 
+0 
+Prerequisite 
+Resolution of a force. Use of trigonometry functions. 
+Parallelogram law of forces. Law of triangle. Polygon 
+law of forces, Lami’s theorem. Concepts of Vector 
+Algebra. 
+Uniformly accelerated motion along a straight line, 
+motion under gravity, projectile motion, Time of flight, 
+Horizontal range, Maximum height of a projectile. 
+Law of conservation of Energy, Law of conservation of 
+Momentum, and Collision of Elastic Bodies. Work-
+Energy Principle 
+(Note: There will be no questions from the prerequisite 
+in the theory examination) 
+01 
+CO1 
+I 
+System of 
+Forces 
+Classification 
+of 
+force 
+systems, 
+Principle 
+of 
+transmissibility, composition and resolution of forces. 
+Resultant of coplanar force system (Concurrent forces, 
+parallel forces and general system of forces). Moment 
+of force about a point, Couples, Varignon’s Theorem. 
+Resultant of Non-Coplanar (Space Force): Concurrent 
+force system 
+04 
+CO1 
+II 
+Centroid 
+Centroids of plane laminas: Plane lamina consisting 
+of primitive geometrical shapes. 
+03 
+CO2 
+III 
+Equilibrium of 
+Force system 
+and Friction 
+3.1 Equilibrium: 
+Conditions of equilibrium for concurrent forces, 
+parallel forces and general forces, Couples. Equilibrium 
+of rigid bodies, free body diagrams. 
+3.2 Equilibrium of Beams: 
+Types of beams, simple and compound beams, type of 
+supports and reaction: Determination of reactions at 
+supports for various types of loads on beams. 
+(Excluding problems on internal hinges) 
+3.3 Friction: 
+ Laws of friction. Cone of friction. angle of repose, 
+angle of friction, equilibrium of bodies on a 
+horizontal and inclined plane. 
+06 
+CO3 
+IV 
+Kinematics of 
+particle and 
+rigid bodies 
+4.1 Motion of particle with variable acceleration. 
+Motion along plane curved path. velocity and 
+acceleration in terms of rectangular components, 
+tangential and normal component of acceleration. 
+4.2 Introduction to general plane motion, problem 
+based on Instantaneous center (ICR) method for 
+general plane motion (up to 2 linkage mechanism 
+and no relative velocity method) 
+05 
+CO4
+
+--- PAGE 21 ---
+
+25 
+ 
+V 
+Kinetics of 
+particle 
+5.1 Force and Acceleration: -Introduction to basic 
+concepts, D’Alembert’s Principle, concept of Inertia 
+force, Equations of dynamic equilibrium. 
+5.2 Principle of linear impulse and momentum. Impact 
+and collision: Law of conservation of momentum, 
+Coefficient of Restitution. Direct Central Impact and 
+Oblique Central Impact. Loss of Kinetic Energy in 
+collision of inelastic bodies. 
+05 
+CO5 
+VI 
+Introduction to 
+Robot 
+Kinematics 
+Fundamental of Robot Mechanics, Degree of 
+Freedom, 
+D-H 
+Parameters, 
+robot 
+kinematics 
+(Forward), Homogeneous transformation (limited 
+to 2 DOF Serial robot) 
+02 
+CO6 
+ 
+Text Books: 
+1. Engineering Mechanics by A K Tayal, Umesh Publication. 
+2. Engineering Mechanics by Kumar, Tata McGraw Hill 
+3. Engineering Mechanics by Beer &Johnston, Tata McGraw Hill 
+ 
+References: 
+1. Engineering Mechanics by R. C. Hibbeler. 
+2. Engineering Mechanics by F. L. Singer, Harper& Raw Publication 
+3. Engineering Mechanics by Macklin & Nelson, Tata McGraw Hill 
+4. Engineering Mechanics by Shaum Series 
+5. Engineering Mechanics (Statics) by Meriam and Kraige, Wiley Bools 
+6. Engineering Mechanics (Dynamics) by Meriam and Kraige, Wiley Bools 
+7. Introduction to Industrial Robotics by Ramchandran Nagrajan, Pearson publication 
+ 
+Online References: 
+Sr. No. 
+Website Name 
+3. 
+https://archive.nptel.ac.in/courses/112/106/112106286/ 
+4. 
+https://onlinecourses.nptel.ac.in/noc21_me70/preview 
+3. 
+https://archive.nptel.ac.in/courses/112/106/112106180/ 
+ 
+Assessment: 
+Internal Assessment Test (IAT) for 20 marks each: 
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to 
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to 
+50% of the syllabus content must be covered in the IAT-II. 
+ 
+End Semester Theory Examination: 
+ 
+➢ Question paper format 
+• Question Paper will comprise a total of six questions each carrying 15 marks 
+Q.1 will be compulsory and should cover the maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) of each 
+question must be from different modules. For example, if Q.2 has part (a) from
+
+--- PAGE 22 ---
+
+26 
+ 
+Module 3 then part (b) must be from any other Module randomly selected from all 
+the modules). 
+• A total of four questions needs to be answered 
+ 
+ 
+ 
+ 
+ 
+Lab Objectives: 
+1. To acquaint with basic principles of centroid and its application 
+2. To familiarize with the concepts of force, moment, Resultant and Equilibrium of system of 
+coplanar force. 
+3. To acquaint with the basic concept of friction and its application in real-life problems. 
+4. To understand the parameters required to quantify the Kinematics of Particle and Rigid body. 
+5. To understand the parameters required to quantify the Kinetics of rigid body. 
+6. To acquaint with the basics of Robot kinematics 
+ 
+Lab Outcomes: 
+1. Determine the equivalent force-couple system for a given system of forces (L3) 
+2. Demonstrate the understanding of Centroid and its significance and locate the same. (L3) 
+3. Illustrate the concept of force, moment and apply the same along with the concept of 
+equilibrium in two- and three-dimensional systems with the help of FBD. (L3) 
+4. Calculate position, velocity and acceleration etc of particle and rigid body using principles of 
+kinematics. (L3) 
+5. Analyze particles in motion using force and acceleration, work-energy and impulse- 
+momentum principles (L4) 
+6. Establish the relation between robot joints and parameters (L2) 
+List of Experiments: 
+Minimum six experiments from the following list of which a minimum one should be from 
+dynamics. 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+ESL101 
+Engineering 
+Mechanics Lab 
+-- 
+02 
+- 
+-- 
+01 
+- 
+01 
+ 
+ 
+Course 
+Code 
+ 
+ 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-
+I 
+IAT-
+II 
+IAT-I 
++ IAT-
+II 
+(Total) 
+ESL101 
+Engineering 
+Mechanics Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+25 
+50
+
+--- PAGE 23 ---
+
+27 
+ 
+ 
+ 
+ 
+Term Work: Term Work shall consist of at least 6 practical’s and 8 assignments based on the above 
+list 
+Term Work Marks: 25 Marks (Total marks) = 10 Marks (Experiment) + 10 Marks (Assignments) + 
+5 Marks (Attendance) 
+Oral Exam: An Oral exam will be held based on entire syllabus. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr No 
+List of Experiments 
+Hrs 
+CO 
+mapping 
+01 
+Verification of Polygon law of coplanar forces 
+01 
+LO1 
+02 
+Verification of the Principle of Moments (Bell crank lever) 
+01 
+LO3 
+03 
+Determination of support reactions of a Simply Supported Beam. 
+01 
+LO3 
+04 
+Determination of coefficient of friction) using inclined plane 
+01 
+LO3 
+05 
+Verification of the equations of equilibrium for non-concurrent 
+non-parallel (General) force system. 
+02 
+LO3 
+06 
+Collision of elastic bodies (Law of conservation of momentum). 
+02 
+LO5 
+07 
+Kinematics of particles. (Uniform motion of a particle, Projectile 
+motion, motion under gravity) 
+02 
+LO4 
+08 
+Kinetics of particles. (collision of bodies) 
+02 
+LO5 
+Sr No 
+List of Assignments / Tutorials 
+Hrs 
+CO 
+mapping 
+01 
+Resultant of Coplanar force system 
+02 
+LO1 
+02 
+Resultant of non-coplanar force system: Concurrent force system 
+01 
+LO1 
+03 
+Centroid of Composite plane Laminas 
+01 
+LO2 
+04 
+Equilibrium of System of Coplanar Forces including support reaction 
+of beams 
+02 
+LO3 
+05 
+Equilibrium of bodies on inclined plane and problems involving 
+ladder. 
+02 
+LO3 
+06 
+Kinematics of particles (Variable acceleration) 
+02 
+LO4 
+07 
+Kinetics of particles (D’Alembert’s Principle, Impulse momentum 
+Principle, Impact and Collisions.) 
+02 
+LO5 
+08 
+Homogeneous transformation, Direct Kinematics of robot 
+02 
+LO6 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+ESC102 
+Basic Electrical 
+and Electronics 
+Engineering 
+3 
+-- 
+- 
+3 
+-- 
+- 
+3
+
+--- PAGE 24 ---
+
+28 
+ 
+ 
+ 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+ 
+ 
+ 
+IAT-
+I 
+IAT-
+II 
+IAT-I 
++ IAT-
+II 
+(Total) 
+ESC102 
+Basic Electrical and 
+Electronics 
+Engineering 
+20 
+20 
+40 
+60 
+2 
+- 
+- 
+100 
+ 
+Course Objectives: 
+1. To provide knowledge on fundamentals of DC circuits 
+2. To provide knowledge of single phase and three phase AC circuits. 
+3. To inculcate fundamental knowledge of 1-Φ transformer. 
+4. To provide basic knowledge on fundamentals of DC and AC machines. 
+5. To provide knowledge of special purpose Diodes. 
+6. To provide knowledge of Transistor. 
+ 
+Course Outcomes: 
+1) Apply various network theorems to determine the circuit response / behavior. 
+2) Evaluate and analyze 1-Φ and 3-Φ AC circuits. 
+3) Understand the construction, operation and applications of 1-Φ transformers. 
+4) Illustrate the working principle of 3-Φ, 1-Φ Induction motors and DC Motors. 
+ 5) Study the construction, operation and applications of some special purpose Diodes. 
+ 6) Study construction, operation and applications of some Transistors. 
+ 
+DETAILED SYLLABUS: 
+Sr. 
+No. 
+Name of 
+Module 
+Detailed Content 
+Hours 
+CO 
+Mapping 
+0 
+Prerequisite 
+Resistance, inductance, capacitance, series and parallel 
+connections of resistance, concepts of voltage, current, 
+power and energy and its units. Magnetic circuits, 
+MMF, Magnetic field strength, reluctance. 
+ 
+ 
+I 
+ 01 
+DC Circuits: (Only independent sources) Kirchhoff’s 
+Laws, Ideal and Practical Voltage and Current 
+Sources, Source Transformation, Mesh and Nodal 
+Analysis (no super node and super mesh) Star-Delta / 
+Delta-Star Transformations, Superposition Theorem, 
+Thevenin’s Theorem, Norton’s Theorem and 
+Maximum Power Transfer Theorem. 
+10 
+CO1 
+II 
+ 02 
+AC Circuits: Generation of alternating voltage, basic 
+definitions, average and RMS values, phasor and phase 
+difference, sums on phasors, Single-phase ac series 
+12 
+CO2
+
+--- PAGE 25 ---
+
+29 
+ 
+and parallel circuits consisting of R, L, C, RL, RC, 
+RLC combinations, definitions - real, reactive and 
+apparent power, admittance (Y), Series and parallel 
+resonance (only theory). Generation of Three-Phase 
+Voltages, voltage & current relationships in Star and 
+Delta Connections. 
+III 
+03 
+Single Phase Transformer: (Numerical are not 
+expected) Working principle of single-phase 
+transformer, types of single- phase transformer, 
+transformation ratio, actual (practical) and ideal 
+transformer, Transformer losses, efficiency, 
+applications of transformer. 
+04 
+CO3 
+IV 
+04 
+Electrical Machines: (Numerical are not expected) 
+principle of operation, constructional details, 
+classification and applications of DC Motor, three-
+phase induction motor, Single-Phase induction motors 
+and BLDC motor 
+05 
+CO4 
+V 
+ 05 
+Special Purpose Diodes: (Numerical are not expected) 
+Characteristics and operation of Zener Diode and 
+application as a voltage regulator. Basic and structure 
+of LED. Application of LED in indicative and lighting 
+displays. 
+04 
+CO5 
+VI 
+ 06 
+Introduction to Transistors: (Numerical are not 
+expected) structure and operation of BJT. BJT 
+configurations (only common emitter). FET structure 
+and operation. Application of BJT and FET in 
+amplification, switching and oscillators. 
+ 
+04 
+CO6 
+ 
+Text Books: 
+1. V. N. Mittal and Arvind Mittal “Basic Electrical Engineering” Tata McGraw Hill, (Revised Edition) 
+2. Vincent Del Toro “Electrical Engineering Fundamentals”, PHI Second edition, 2011 
+3. Edward Hughes “Hughes Electrical and Electronic Technology”, Pearson Education (Tenth edition) 
+4. D P Kothari and I J Nagrath “Theory and Problems of Basic Electrical Engineering”, PHI 13th 
+edition 2011. 
+5. M. Naidu,S. Kamakshaiah “Introduction to Electrical Engineering” McGraw-Hill Education, 2004. 
+6. B.R Patil “Basic Electrical Engineering” Oxford Higher Education, 
+7. Electronic Devices and Circuit Theory" by Robert L. Boylestad and Louis Nashelsky 
+ 
+References: 
+1. B.L. Theraja “Electrical Engineering “ Vol-I and II 
+2. S.N. Singh, “Basic Electrical Engineering” PHI, 2011Book 
+ 
+Assessment: 
+Internal Assessment Test (IAT) for 20 marks each: 
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to 
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to 
+50% of the syllabus content must be covered in the IAT-II. 
+End Semester Theory Examination:
+
+--- PAGE 26 ---
+
+30 
+ 
+➢ Question paper format 
+• Question Paper will comprise a total of six questions each carrying 15 marks Q.1 will 
+be compulsory and should cover the maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) of each 
+question must be from different modules. For example, if Q.2 has part (a) from 
+Module 3 then part (b) must be from any other Module randomly selected from all 
+the modules) 
+• A total of four questions need to be answered 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+ 
+ 
+ 
+IAT-
+I 
+IAT-
+II 
+IAT-I 
++ IAT-
+II 
+(Total) 
+ESL102 
+Basic Electrical and 
+Electronics 
+Engineering Lab 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+25 
+50 
+ 
+Lab Objectives: 
+1. To impart the basic concept of network analysis and its application. 
+2. To provide the basic concept of AC circuit analysis and its application. 
+3. To illustrate the operation of the transformer. 
+4. To illustrate the operation of machines. 
+5. To explain the Zener diode voltage regulation characteristic. 
+6. To explain the BJT and FET as switches and amplifiers. 
+ 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+ESL102 
+Basic Electrical 
+and Electronics 
+Engineering Lab 
+-- 
+2 
+- 
+-- 
+1 
+- 
+1
+
+--- PAGE 27 ---
+
+31 
+ 
+Lab Outcomes: 
+1) Interpret and analyze the behavior of DC circuits using network theorems. 
+2) Perform and infer experiments on single-phase and three-phase AC circuits 
+3) Illustrate the performance of a single-phase transformer 
+4) Illustrate the performance of A.C. machine and DC Motor 
+5) Perform an experiment on voltage regulation characteristics of Special diode 
+6) Perform an experiment on the VI characteristic Transistor. 
+ 
+List of Experiments. 
+ 
+ 
+ 
+Online Resources: 
+Sr. No. 
+Website Name 
+5. 
+All About Circuits (https://www.allaboutcircuits.com) 
+Sr No 
+List of Experiments 
+Hrs 
+LO Mapping 
+01 
+Basic safety precautions. Introduction and use of measuring 
+instruments - voltmeter, ammeter, multi-meter, oscilloscope. Real-
+life resistors, capacitors, and inductors 
+01 
+LO1 
+02 
+To measure output voltage across load resistor/current through load 
+resistor and verify the result using Mesh and Nodal analysis 
+01 
+LO1 
+03 
+Verification of Superposition Theorem. 
+02 
+LO1 
+04 
+Verification Thevenin’s and Norton's theorem 
+02 
+LO1 
+05 
+Verification Maximum Power Transfer Theorem. 
+02 
+LO1 
+06 
+To find the resistance and inductance of a coil connected in series 
+with a pure resistance using the voltmeter method 
+02 
+LO2 
+07 
+To measure the relationship between phase and line, currents and 
+voltages in three-phase system (star & delta) 
+02 
+LO2 
+08 
+To demonstrate cut-out sections of the single-phase transformer. 
+02 
+LO3 
+09 
+To demonstrate cut-out sections of the DC machine 
+02 
+LO4 
+10 
+To plot Zener diode voltage regulation characteristics 
+02 
+LO5 
+11 
+To demonstrate the application of LED in indicative and lighting 
+display 
+02 
+LO5 
+12 
+To demonstrate the application of BJT as a switch 
+02 
+LO5 
+13 
+To demonstrate BJT/FET as an amplifier 
+02 
+LO6 
+Sr No 
+List of Assignments / Tutorials 
+Hrs 
+LO 
+Mapping 
+01 
+Assignment on Basic electrical safety practices 
+02 
+LO1 
+02 
+Numerical assignment on Mesh analysis and nodal analysis 
+LO1 
+03 
+Numerical assignment on Thevenin, Norton, and maximum power 
+transfer theorem 
+LO1 
+04 
+Numerical assignment on series and parallel circuits 
+LO2 
+05 
+Assignment on single-phase transformer 
+LO2 
+06 
+Assignment on DC and AC machine 
+LO4 
+07 
+Assignment on special purpose diodes 
+LO5 
+08 
+Assignment on BJT and FET 
+LO6
+
+--- PAGE 28 ---
+
+32 
+ 
+6. 
+Circuit Lab (https://www.circuitlab.com) 
+3. 
+Tinkercad (https://www.tinkercad.com) 
+ 
+ 
+Assessment: 
+Term Work: Term Work shall consist of at least 08 to 10 practicals based on the above list. Also, 
+Term work Journal must include at least 6 assignments. 
+Term Work Marks: 25 Marks (Total marks) = 15 Marks (Experiment) + 5 Marks (Assignments) + 
+5 Marks (Attendance) 
+Practical& Oral Exam: An Oral & Practical exam will be held based on the above syllabus. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory Pract. Tut. Theory Pract. Tut. Total 
+AEC101 
+Professional 
+Communication and 
+Ethics 
+02 
+- 
+- 
+02 
+- 
+- 
+02 
+ 
+ 
+ 
+ 
+ 
+Course 
+Code 
+ 
+ 
+ 
+ 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal 
+Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I IAT-II IAT-I + 
+IAT-II 
+(Total) 
+AEC101 
+Professional 
+Communication 
+and Ethics 
+15 
+15 
+30 
+45 
+1.5 
+-- 
+-- 
+75 
+ 
+Rationale 
+ 
+This course has been designed to hone the communicative abilities of First Year Engineering students 
+by providing them skill-based training on LSRW (Listening-Speaking-Reading-Writing) to prepare
+
+--- PAGE 29 ---
+
+33 
+ 
+them for a career in the industry and for competitive exams pertaining to higher studies. 
+Course Objectives - The learners should be able to: 
+1. Effectively evaluate the dynamics of communication and navigate professional arenas 
+2. Competently acquire active listening skills by comprehending various types of Speech Acts 
+3. Critically analyse communication barriers, audience and purpose to speak proficiently 
+4. Minutely comprehend extensive texts, technical and non-technical, to execute relevant tasks 
+5. Efficiently organize and create purposeful technical writing for professional transaction 
+6. Successfully manage teams, by applying ethical standards to deliver synergistic solutions 
+ 
+Course Outcomes - The learners will be able to: 
+ 
+1. Evaluate the dynamics of communication and effectively navigate professional arenas 
+2. Acquire active listening skills by comprehending various types of Speech Acts 
+3. Analyse different communication barriers, audience and purpose, and speak proficiently 
+4. Comprehend extensive texts, technical and non-technical, to execute relevant tasks 
+5. Organize and create purposeful technical writing for professional transactions 
+6. Manage teams successfully, by applying ethical standards to deliver synergistic solutions 
+ 
+DETAILED SYLLABUS: 
+Sr. 
+No. 
+Name 
+of 
+Module 
+Detailed Content 
+Hours CO 
+Mapping 
+01 
+Module 1- 
+Fundamentals 
+of 
+Communication 
+1.1. Basic Concepts of Communication 
+• Definition, Objectives, Postulates 
+ 
+1.2. Process of Communication 
+• Stimulus, Sender, Encoding, Message, 
+Medium, Channel, Receiver, Decoding, 
+Feedback 
+ 
+1.3. Methods of Communication 
+• 
+Verbal (Written & Spoken). 
+• 
+Non-verbal cues perceived through the five 
+senses 
+(Visual, 
+Auditory, 
+Tactile, 
+Olfactory, Gustatory) 
+• 
+Non-verbal cues transmitted cues through 
+(The body, Voice, Space, Time, Silence) 
+ 
+1.4. Barriers to Communication 
+• 
+Mechanical, 
+Physical, 
+Semantic 
+& 
+Linguistic, Psychological, Socio-cultural 
+ 
+1.5. Organisational Communication 
+• 
+Formal (Upward, Downward, Horizontal). 
+• 
+Informal (Grapevine) 
+ 
+08 
+CO1
+
+--- PAGE 30 ---
+
+34 
+ 
+02 
+Module 2 - 
+Developing 
+Basic Listening 
+Skills 
+2.1. Concepts of Active Listening 
+• Listening for Details 
+• Listening for Gist 
+• Listening for Inference 
+(For details please refer to Lab. Syllabus) 
+ 
+2.2. Enhancing Listening Proficiency Using 
+Language Labs or on Open Source Platforms 
+02 
+ 
+ 
+ 
+CO2 
+03 
+Module 3 - 
+Developing 
+Basic Speaking 
+Skills 
+ 3.1. Conversational Activities - Monologues 
+• Introducing yourself, Introducing others, 
+One-minute impromptu speeches, Scaffolded 
+story telling 
+ 
+ 3.2. Conversational Activities - Dialogues 
+• Role 
+plays 
+on 
+everyday 
+interactions, 
+Interviews (Find out if…), Information Gap 
+Activities, Picture descriptions and feedback, 
+Situational conversations. 
+ 
+ 3.3. Conversational Activities - Pronunciation, 
+Stress & Rhythm, Intonation 
+• Neutralisation of accent, Word stress, 
+Rhythm 
+& 
+Pauses, 
+Tonal 
+variations/inflections 
+ 
+(For details please refer to Lab. Syllabus) 
+02 
+CO3
+
+--- PAGE 31 ---
+
+35 
+ 
+04 
+Module 4 -
+Developing 
+Basic Reading 
+Skills 
+4.1. Verbal Aptitude 
+• Root Words, Meanings, Word Forms, 
+Synonyms, 
+Antonyms, 
+Collocations, 
+Prefixes, Suffixes at a similar difficulty 
+level 
+of 
+entrance 
+tests 
+like CAT/GRE/GMAT & proficiency 
+tests like TOEFL/IELTS 
+ 
+4.2. Grammar 
+• Identifying Common Errors (Subject-verb 
+agreement, Articles. Prepositions, 
+Misplaced modifiers and Punctuations) 
+Redundancies, Idioms, Cliches at a similar 
+difficulty level of entrance tests 
+like CAT/GRE/GMAT & proficiency 
+tests like TOEFL/IELTS 
+ 
+4.3. Techniques to Improve Reading Fluency 
+and Comprehension 
+• 
+Intensive Reading 
+• 
+Extensive Reading 
+• 
+Skimming 
+• 
+Scanning 
+• 
+SQ5R Method (Survey, Question, Reading, 
+Recording, Recall, Review and Revise) 
+ 
+4.4. Reading & Summarisation Skills 
+• Summarising text to Graphic Organisers 
+(GO) and visa-versa. Venn diagrams, 
+Radial 
+Diagrams 
+(Mindmaps), 
+Tree 
+Diagrams, Cyclic Diagrams, Flow Charts, 
+Timelines, Matrix (Tables), Pyramids 
+• Summarising text in point form 
+• Summarising text in one-sentence central 
+idea 
+02 
+CO4 
+05 
+Module 5 - 
+Developing 
+Basic Writing 
+Skills 
+5.1. Coherence & Cohesion in Writing 
+• Basic Units of Writing (Words, Sentences, 
+Paragraphs) 
+• Coherence (Structure of written pieces, CSI 
+Order of Organisation) 
+• Cohesive 
+Devices 
+(Referencing, 
+Repetition, 
+Substitution, 
+Ellipsis, 
+Transition Signals). 
+• Structure of a Paragraph (Topic Sentence, 
+Supporting Ideas, Concluding Sentence). 
+ 
+5.2. Seven Cs of Business Writing 
+• Completeness, 
+Conciseness, 
+Consideration, 
+Concreteness, 
+Clarity, 
+Courtesy, Correctness. 
+09 
+CO5
+
+--- PAGE 32 ---
+
+36 
+ 
+ 
+5.3. Format & Types of Formal Letters 
+• Parts of a Formal Letter in Complete Block 
+Style 
+• Request/Permission Letter 
+• Claim and Adjustment Letter 
+• Sales Letter 
+• E-mails 
+ 
+5.4. Writing User Instructions 
+• Styles 
+of 
+Instruction 
+Presentation 
+(Impersonal, Indirect, Direct, Imperative) 
+• Describing general function/purpose of an 
+object/process, 
+• Drawing labelled diagrams 
+• Describing labelled parts 
+• Writing User Instructions 
+• Writing Special Notices (Note, Caution, 
+Warning, Danger) 
+ 
+5.5. Content Creation for Social Media and e-
+Commerce Platforms 
+• 
+Blogs 
+• 
+Poetry 
+• 
+Keynote speeches 
+• 
+Podcast titles 
+• 
+Landing pages 
+• 
+Social media posts 
+• 
+YouTube video description 
+• 
+Screenwriting/Script Writing 
+ 
+(Ensure minimum 3 of these categories are 
+covered in the form of competitions) 
+ 
+06 
+Module 6 - 
+Ethical and 
+Managerial 
+Skills for 
+Engineers 
+6.1.Team building 
+• Five stages of Team, (Forming, Storming, 
+Norming, Performing and Adjourning) 
+ 
+6.2.Goal setting 
+• SMART goals – short term and long-term 
+goals 
+ 
+6.3.Ethical Considerations for Professional 
+Integrity 
+• Fairness and Honesty 
+• Difference between Values and Ethics 
+• Ethical principles 
+• Ethical use of AI Tools 
+• Plagiarism and copyright infringement 
+03 
+CO6
+
+--- PAGE 33 ---
+
+37 
+ 
+• Ethical-dilemma case studies 
+ 
+References: 
+1. Communication Skills by Sanjay Kumar & Pushp Lata 
+2. Business Communication with Writing Improvement Exercises. Hemphill, McCormick and 
+Hemphill 
+3. Business Communication: Building Critical Skills by Locker, Kitty O. Kaczmarek, Stephen Kyo 
+4. Effective Business Communication by Herta Murphy 
+5. Technical Communication: Principles and Practice by Raman and Sharma 
+6. Effective Technical Communication: A Guide for Scientists and Engineers by Rizvi 
+7. Oxford Guide to Effective Writing & Speaking by John Seely 
+8. English Grammar by Raymond Murphy 
+9. Word Power Made Easy by Norman Lewis 
+Online References: 
+1. https://bbclearningenglish.org 
+2. https://www.bbc.co.uk/learningenglish 
+ 
+Assessment: 
+Internal Assessment Test (IAT) for 15 marks each: 
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to 
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to 
+50% of the syllabus content must be covered in the IAT-II. 
+End Semester Theory Examination: 
+ 
+Question paper format 
+• Question Paper will comprise a total of five questions each carrying 15 marks Q.1 
+will be compulsory and should cover the maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) of each 
+question must be from different modules. For example, if Q.2 has part (a) from 
+Module 3 then part (b) must be from any other Module randomly selected from all 
+the modules) 
+• A total of three questions need to be answered. 
+ 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory Pract. Tut. Theory Pract. Tut. Total 
+ AEL101 
+Professional 
+Communication and Ethics 
+- 
+2 
+- 
+- 
+1 
+- 
+1
+
+--- PAGE 34 ---
+
+38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course 
+Code 
+ 
+ 
+ 
+ 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I IAT-II 
+IAT-I + IAT-
+II (Total) 
+AEL101 
+Professional 
+Communication 
+and Ethics 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25 
+ 
+Lab Objectives: The learners should be able to: 
+1. Effectively evaluate the dynamics of communication and navigate professional arenas 
+2. Competently acquire active listening skills by comprehending various types of Speech Acts 
+3. Critically analyse communication barriers, audience and purpose to speak proficiently 
+4. Minutely comprehend extensive texts, technical and non-technical, to execute relevant tasks 
+5. Efficiently organize and create purposeful technical writing for professional transactions 
+6. Successfully manage teams, by applying ethical standards to deliver synergistic solutions 
+ 
+Lab Outcomes: The learners will be able to: 
+1. Apply the understanding of communication dynamics and navigate professional arenas 
+2. Appreciate other’s point of view and apply effective listening strategies 
+3. Analyse different communication barriers, audience and purpose to speak proficiently 
+4. Comprehend extensive technical and non-technical texts to execute specific tasks 
+5. Plan and create purposeful technical writing for professional transactions 
+6. Employ ethical standards and managerial skills in various professional situation 
+ 
+DETAILED SYLLABUS: 
+ 
+Sr. 
+No. 
+Module 
+No. 
+Practical/ 
+Tutorial 
+Detailed Content 
+Hours 
+LO 
+Mapping 
+1 
+Fundamentals 
+of 
+Communication 
+ 
+1 
+1.1. Situational Application of 
+Fundamentals of Communication 
+ 
+1.2. Case Studies on Fundamentals 
+of Communication 
+02 
+LO1
+
+--- PAGE 35 ---
+
+39 
+ 
+2 
+Developing 
+Basic Listening 
+Skills 
+2 
+2.1. Listening for Details 
+• Listen to a song and fill in the 
+blanks, Listen to a telephonic 
+conversation and fill in the 
+blanks, Listen to a 
+story/lecture/podcast and fill in 
+the blanks, Listen to a 
+monologue and complete the 
+sentences 
+ 
+2.2. Listening for Gist 
+• Listen to an audio recording and 
+identify the gist/main idea/theme 
+in the form of MCQs or 
+True/False statements 
+ 
+2.3. Listening for Inference 
+• Listen to short passages and 
+draw inferences in the form of 
+MCQs or True/False statements 
+ 
+2.4. Listening Comprehension Exercises 
+in the Language Lab or on Open 
+Source Platforms 
+• Listening to a telephonic 
+conversation, Listen to a Podcast 
+ 
+Examples of the Activities That Can Be 
+Done under the Above 4 Heads: 
+ 
+Listen to a Formal Speech 
+• Martin Luther King Jr., 
+• Swami Vivekananda 
+• Dr.A.P.J.Abdul Kalam 
+• John F. Kennedy 
+• Mr.Ratan Tata 
+• Steve Jobs 
+ 
+Note-taking & Designing Quizzes 
+• Listen to a lecture, take notes 
+and prepare a quiz for others 
+ 
+Dictations 
+• Take old-fashioned dictation 
+with special focus on 
+punctuations and spellings 
+ 
+04 
+LO2
+
+--- PAGE 36 ---
+
+40 
+ 
+Draw a Story 
+• Listen to a descriptive passage 
+read out by the teacher on a 
+scenery/item and draw a picture 
+based on what you hear 
+ 
+Labelling a Map, Plan, Diagram, Table 
+& Flow Charts 
+• Listen to your teacher and write 
+labels on a plan (e.g. of a 
+building), map (e.g. of part of a 
+town) diagram (e.g. of a piece of 
+equipment), table (e.g. 
+place/time/price), flow chart 
+(e.g. a process which has clear 
+stages). 
+3 
+Developing 
+Basic Speaking 
+Skills 
+3 
+3.1. Conversational Activities - 
+Monologues 
+• Introducing yourself, 
+Introducing others, One-minute 
+impromptu speeches, Scaffolded 
+story telling 
+ 
+3.2. Conversational Activities - 
+Dialogues 
+• Role plays on everyday 
+interactions, Interviews (Find 
+out if…), Information Gap 
+Activities, Picture descriptions 
+and feedback, Situational 
+conversations. 
+ 
+3.3. Conversational Activities - 
+Pronunciation, Stress and Rhythm, 
+Intonation 
+• Neutralisation of accent, Word 
+stress, Rhythm & Pauses, Tonal 
+variations/inflections 
+ 
+Suggested Examples of Functional 
+Communication Activities That Can Be 
+Done under the Above 3 Heads: 
+• 
+Asking for and giving information 
+• 
+Taking initiative 
+• 
+Seeking and giving favour/offers 
+• 
+Requesting and responding to 
+requests 
+• 
+Apologizing and forgiving 
+• 
+Seeking and giving permission 
+04 
+LO3
+
+--- PAGE 37 ---
+
+41 
+ 
+• 
+Congratulating people on their 
+success 
+• 
+Expressing opinions, likes and 
+dislikes, agreements and 
+disagreements 
+• 
+Expressing condolences 
+• 
+Asking questions and responding 
+politely 
+• 
+Giving instructions 
+• 
+Agreeing and disagreeing 
+• 
+Asking for and giving advice and 
+suggestions 
+• 
+Expressing sympathy 
+• 
+Using mobile phone 
+• 
+Live commentary on videos on mute 
+• 
+Debates 
+ 
+4 
+Developing 
+Basic Reading 
+Skills 
+4 
+4.1. Verbal Aptitude 
+Reading Fluency & Comprehension 
+Monitoring 
+• Reading short/long passages to 
+answer MCQs based on factual, 
+general and inferential 
+comprehension skills 
+• Reading short/long passages to 
+answer MCQs based on factual, 
+general 
+and 
+inferential 
+comprehension skills 
+(Passages should be of a technical 
+nature and minimum length of passages 
+should be 350-400 words) 
+ 
+4.2. Vocabulary Building Activities 
+ 
+Examples of Word Games: 
+• 
+Crosswords 
+• 
+Bingo 
+• 
+Word Ladders 
+• 
+Hangman 
+• 
+Word Association 
+04 
+LO4 
+ 
+ 
+4.3. Reading & Summarisation Skills 
+• 
+Summarising text to Graphic 
+Organisers and visa-versa 
+o Venn diagrams 
+o Radial Diagrams 
+(Mindmaps) 
+o Tree Diagrams 
+o Cyclic Diagrams 
+o Flow Charts 
+o Timelines
+
+--- PAGE 38 ---
+
+42 
+ 
+o Matrix (Tables) 
+o Pyramids 
+• 
+Summarising text in bullet points 
+• 
+Summarising text in one-sentence 
+central idea 
+5 
+Developing 
+Basic Writing 
+Skills 
+5 
+5.1. Mechanics of Writing - Paragraph 
+Writing 
+• 
+Building paragraphs developing 
+coherence (Structure of written 
+pieces, CSI Order of Organisation) 
+• 
+Coherence (Structure of written 
+pieces, CSI Order of Organisation) 
+• 
+Cohesive Devices (Referencing, 
+Repetition, Substitution, Ellipsis, 
+Transition Signals). 
+• 
+Structure of a Paragraph (Topic 
+Sentence, Supporting Ideas, 
+Concluding Sentence). 
+5.2. Write Letters and eMails 
+• 
+Request/Permission Letter 
+• 
+Claim & Adjustment Letter 
+• 
+Sales Letter 
+(Complete Block format applying the 
+seven Cs) 
+• 
+eMails 
+ 
+USE ONLY COMPLETE BLOCK 
+FORMAT 
+ 
+5.3 Writing User Instructions on: 
+Examples: 
+• 
+Installing a software 
+• 
+Ordering food on delivery apps 
+(Zomato, Swiggy) 
+• 
+Using payment system (Google Pay, 
+PhonePe, Paytm) 
+• 
+Using AI Tools (ChatGPT, Gemini, 
+ZeroGPT and GPTZero) 
+• 
+Electronic Devices/ Gadget (Gaming 
+Console, Smartwatch) 
+• 
+Home Appliances (Mixer-Grinder, 
+Microwave Oven, Air Fryer) 
+• 
+Tools (Chisel, Screw-driver) 
+ 
+5.4 Content Creation for Social Media 
+and e-Commerce Platforms 
+ 
+Examples 
+04 
+LO5
+
+--- PAGE 39 ---
+
+43 
+ 
+• 
+Blogs 
+• 
+Poetry 
+• 
+Keynote speeches 
+• 
+Podcast Titles 
+• 
+Landing Pages 
+• 
+Social media posts 
+• 
+YouTube Video Description 
+• 
+Screenwriting/Script Writing 
+ 
+(Ensure minimum 3 of these categories 
+are covered in the form of competitions) 
+ 
+6 
+Ethical and 
+Managerial 
+Skills for 
+Engineers 
+6 
+6.1. Ethics 
+• 
+Case Studies on Ethical dilemma 
+ 
+6.2. Team building 
+ 
+Examples 
+• 
+Newspaper Bridges/ Towers/ Dress 
+Building 
+• 
+Best out of waste 
+• 
+Obstacle Race 
+ 
+02 
+LO6 
+ 
+ 
+Nos. 
+List of Assignments 
+Details 
+Hrs. 
+01 
+Application-based 
+Assignment on 
+Communication Theory 
+Must include Methods and Barriers from Module 1 
+01 
+02 
+Consolidated Listening 
+Skills Activity Sheet with 
+Students’ Answers 
+At least 4 type of listening activities must be taken from 
+Module 2 
+ 
+01 
+03 
+Performance-based Oral 
+Activities (Refer below for 
+further details) 
+Should be based on Continuous Evaluation of minimum 
+5 activities from entire lab syllabus. Follow the 
+Common European Framework of Reference (CEFR) 
+Rubrics for assessment. 
+01 
+04 
+A. MCQ on Reading 
+Comprehension and 
+Summarisation with GO 
+ 
+B. Objective Test on 
+Verbal Aptitude & 
+Grammar 
+A. Must cover sub-topics under Module 4 
+ 
+ 
+ 
+B. Must be based on Module 4 at the same difficulty 
+level of entrance tests like CAT/GRE/GMAT & 
+proficiency tests like TOEFL/IELTS 
+01 
+05 
+Assignment on Writing 
+Skills 
+Must include 3 types of letters from Module 5 
+01 
+06 
+Application-based 
+Assignment on Ethics 
+Case studies on ethical dilemma from Module 6 
+01
+
+--- PAGE 40 ---
+
+44 
+ 
+ 
+ 
+References: 
+1. Communication Skills by Sanjay Kumar & Pushp Lata 
+2. Business Communication with Writing Improvement Exercises. Hemphill, McCormick and 
+Hemphill 
+3. Business Communication: Building Critical Skills by Locker, Kitty O. Kaczmarek, Stephen Kyo 
+4. Effective Business Communication by Herta Murphy 
+5. Technical Communication: Principles and Practice by Raman and Sharma 
+6. Effective Technical Communication: A Guide for Scientists and Engineers by Rizvi 
+7. Oxford Guide to Effective Writing & Speaking by John Seely 
+8. English Grammar by Raymond Murphy 
+9. Word Power Made Easy by Norman Lewis 
+Online References: 
+Sr. No. 
+Website Name 
+1. 
+https://bbclearningenglish.org 
+2. 
+https://www.bbc.co.uk/learningenglish 
+ 
+Term Work: Term Work shall consist of at least 6 practicals’ based on the above list. Also, Term 
+work Journal must include at least 9 assignments. 
+Term Work Marks: 25 Marks (Total marks) = 10 Marks (Experiment) + 10 Marks (Assignments) + 
+5 Marks (Attendance)
+
+--- PAGE 41 ---
+
+45 
+ 
+ 
+ 
+ 
+ 
+Lab Objectives 
+1. To impart training to help the students develop engineering skill sets. 
+2. To inculcate respect for physical work and hard labor. 
+3. To get exposure to the interdisciplinary engineering domain. 
+ 
+Lab Outcomes: Learners will be able to… 
+1. Develop the necessary skill required to handle/use different fitting tools. 
+2. Develop skill required for hardware maintenance. 
+3. Able to install an operating system and system drives. 
+4. Able to identify the network components and perform basic networking and crimping. 
+5. Able to prepare the edges of jobs and do simple arc welding. 
+6. Develop the necessary skill required to handle/use different plumbing tools and simple job. 
+ 
+Sr. No. 
+Detailed Content 
+Hrs. 
+LO 
+Mapping 
+Note: 
+Trade 1 and 2 are compulsory. Select any ONE trade topics out of 
+the topic at trade 3 to 5. Demonstrations and hands on experience 
+to be provided during the periods allotted for the same. Report on 
+the demonstration including suitable sketches is also to be 
+included in the term work 
+CO-1 is related to Trade-1 
+CO-2 to CO-4 is related to Trade-2 CO-5 is related to Trade-3 
+CO-6 is related to Trade-4 CO-7 is related to Trade-5 
+ 
+ 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+VSEC1
+01 
+Engineering 
+Workshop-I 
+- 
+2 
+- 
+- 
+- 
+- 
+1 
+ 
+ 
+Course 
+Code 
+ 
+ 
+Course Name 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal Assessment 
+Test (IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-
+I 
+IAT-
+II 
+IAT-I 
++ IAT-
+II 
+(Total) 
+VSEC101 
+Engineering 
+Workshop-I 
+-- 
+-- 
+-- 
+-- 
+-- 
+25 
+-- 
+25
+
+--- PAGE 42 ---
+
+46 
+ 
+CO evaluation is to be done according to the opted Trades in 
+addition to Compulsory Trades. 
+Trade-1 
+Fitting (Compulsory): 
+• Use and setting of fitting tools for chipping, cutting, filing, 
+marking, center punching, drilling, tapping. 
+• Term work to include one job involving following operations: filing to size, one simple male- female joint, drilling and 
+tapping 
+04 
+LO1 
+Trade-2 
+Hardware and Networking: (Compulsory) 
+• Dismantling of a Personal Computer (PC), Identification of 
+Components of a PC such as power supply, motherboard, 
+processor, hard disk, memory (RAM, ROM), CMOS battery, CD 
+drive, monitor, keyboard, mouse, printer, scanner, pen drives, 
+disk drives etc.  Assembling of PC, Installation of Operating 
+System (Any one) and Device drivers, Boot-up sequence. 
+Installation of application software (at least one)  Basic 
+troubleshooting and maintenance  Identification of network 
+components: LAN card, wireless card, switch, hub, router, 
+different types of network cables (straight cables, crossover 
+cables, rollover cables) Basic networking and crimping. NOTE: 
+Hands on experience to be given in a group of not more than four 
+students 
+06 
+LO2, 
+LO3, 
+LO4 
+Trade-3 
+Welding: 
+• Edge preparation for welding jobs. Arc welding for different job 
+like, Lap welding of two plates, butt welding of plates with simple 
+cover, arc welding to join plates at right angles. 
+06 
+ LO5 
+Trade 4 
+Plumbing: 
+• Use of plumbing tools, spanners, wrenches, threading dies, 
+demonstration of preparation of a domestic line involving fixing 
+of a water tap and use of coupling, elbow, tee, and union etc. 
+04 
+ 
+ LO6 
+Trade-5 
+Machine Shop: 
+• At least one turning job is to be demonstrated and simple 
+job to be made for Term Work in a group of 4 students. 
+ 06 
+ LO6 
+ 
+Term Work: Term Work shall consist of at least 3 Trade based on the above list. Also, Term work. 
+Term Work Marks: 25 Marks (Total marks) = 20 Marks (Workshop Experiment) + 5 Marks 
+(Attendance)
+
+--- PAGE 43 ---
+
+47 
+ 
+ 
+ 
+Course 
+Code 
+ 
+ Course Name 
+Teaching 
+Scheme 
+(Contact 
+Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+ Theory 
+Pract. 
+Tut. 
+Total 
+VSEC102 C Programming 
+-- 
+2*+2 
+- 
+ 
+2 
+- 
+2 
+ 
+ 
+Course 
+Code 
+ 
+ 
+Course 
+Name 
+Examination Scheme 
+Theory 
+Term 
+work 
+Pract 
+/ 
+Oral 
+Total 
+Internal 
+Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+ 
+ 
+ 
+IAT-I 
+IAT-
+II 
+IAT-I + 
+ IAT-II 
+(Total) 
+ 
+VSEC102 
+ 
+C Programming 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+25 
+ 
+25 
+ 
+50 
+ 
+Lab Objectives: This subject aims to provide students with an understanding of the role 
+computation can play in solving problems. The Course will be taught using C-Programming 
+Language. 
+ 
+1. Understand and use basic terminology in computer programming. 
+2. Use various data types in C programs effectively. 
+3. Design and implement programs involving decision structures, loops, and functions. 
+ 4. Design Implement Arrays, String, and Structure 
+5. Describe and utilize memory dynamics through the use of pointers. 
+6. Use different data structures and create/update basic data files in C. 
+ 
+Lab Outcomes: Learners will be able to 
+1. Illustrate the basic terminology used in computer programming. 
+2. Use different data types in a computer program. 
+3. Design programs involving decision structures, loops and functions. 
+4. Implement Arrays, String, and Structure 
+5. Describe the dynamics of memory by the use of pointers. 
+6. Use different data structures and create/update basic data files. 
+ 
+DETAILED SYLLABUS 
+ 
+Sr. 
+No. 
+Module 
+Detailed Content 
+Hours LO 
+mapping
+
+--- PAGE 44 ---
+
+48 
+ 
+ 
+1 
+ 
+ 
+ 
+Fundament
+als of C-
+Programmi
+ng 
+1.1 Character Set, Identifiers and keywords, Data 
+types, Constants, Variables. 
+1.2 Operators-Arithmetic, Relational and logical,
+ Assignment, Unary, Conditional, Bitwise, Comma, 
+other operators. 
+Expression, statements, Library Functions, 
+Preprocessor. 
+1.3 Data Input and Output – getchar( ), putchar( ), 
+scanf( ), printf( ), gets( ), puts( ), Structure of C 
+program. 
+ 
+ 
+ 
+06 
+ 
+ 
+LO1, 
+LO2 
+ 
+ 
+2 
+ 
+ 
+Control 
+Structures 
+2.1 Branching - If statement, If-else Statement, Multiway 
+decision. 
+2.2 Looping – while, do-while, for 
+2.3 Nested control structure- Switch statement, 
+Continue statement Break statement, Goto 
+statement. 
+ 
+ 
+05 
+LO3 
+ 
+ 
+3 
+ 
+Functions 
+and 
+Paramete
+r 
+3.1 Function -Introduction of Function, Function Main, 
+defining a Function, accessing a Function, Function 
+Prototype, Passing Arguments to a Function, 
+Recursion. 
+3.2 Storage Classes –Auto, Extern, Static, Register 
+ 
+ 
+05 
+LO3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+Arrays, 
+String 
+Structure 
+4.1 Array-Concepts, 
+Declaration, Definition,
+Accessing 
+array element, One-dimensional 
+and Multidimensional array. 
+4.2 String- Basic of String, Array of String, Functions in 
+String.h 
+4.3 Structure- Declaration, Initialization, structure 
+within structure, Operation on structures, Array of 
+Structure. 
+ 
+ 
+ 
+ 
+05 
+LO4 
+ 
+5 
+ 
+Pointer 
+5.1 Pointer: Introduction, Definition and uses of 
+Pointers, Address Operator, Pointer Variables, 
+Dereferencing Pointer, Void Pointer, Pointer 
+Arithmetic, Pointers to Pointers, Pointers and Array. 
+ 
+03 
+LO5 
+6 
+Files 
+6.1 Files: File operation- Opening, Closing, Creating, 
+Reading, Processing File. 
+02 
+LO6 
+ 
+Text Books 
+1. “Basics of Computer Science”, by BehrouzForouzan, Cengage Learning.
+
+--- PAGE 45 ---
+
+49 
+ 
+2. “Programming Techniques through C”, by M. G. Venkateshmurthy, Pearson Publication. 
+3. “Programming in ANSI C”, by E. Balaguruswamy, Tata McGraw-Hill Education. 
+4. “Programming in C”, by Pradeep Day and Manas Gosh, Oxford University Press. 
+5. “Let Us C”, by Yashwant Kanetkar, BPB Publication. 
+Reference Books 
+ 
+1. "The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie, Publisher: 
+Prentice Hall 
+Publication Date: February 22, 1988,ISBN-13: 978-0131103627, 
+2. "C Programming: A Modern Approach" by K. N. King, Publisher: W. W. Norton & Company 
+Publication Date: April 26, 2008 (2nd Edition), ISBN-13: 978-0393979503 
+3. "C Primer Plus" by Stephen Prata, Publisher: Addison-Wesley Professional Publication Date: 
+December 27, 2013 (6th Edition) ISBN-13: 978-0321928429 
+4. "Programming in C" by Stephen G. Kochan Publisher: Addison-Wesley Professional 
+Publication Date: August 18, 2014 (4th Edition) ISBN-13: 978-0321776419 
+ 
+Online Resources: 
+ 
+Sr. No. 
+Website Name 
+ 1. 
+Learn C - This website offers a free, interactive tutorial to learn C programming, 
+covering both basic and advanced topics. 
+2. 
+Codecademy - Codecademy provides a comprehensive, interactive course for learning 
+C, complete with real-world projects and skill paths. 
+3. 
+Coursera - Coursera, in collaboration with Duke University, offers a specialization in C 
+programming, including hands-on projects and a certificate upon completion. 
+4. 
+edX - This course, offered by edX, covers C programming with a focus on Linux, 
+including professional certification. 
+ 
+ 
+Sr 
+No 
+Suggested List of 
+Experiments 
+H
+rs 
+ 
+ 
+01 
+ 
+a) Program to demonstrate Operators Data Input and Output – 
+getchar( ), putchar( ), scanf( ), printf( ), gets( ), puts( ) 
+b) Program to demonstrate Operators-Arithmetic, Relational and 
+logical, Assignment, Unary, Conditional, Bitwise, Comma, other 
+operators. 
+ 
+ 
+02 
+ 
+ 
+02 
+a) Program to demonstrate Branching - If statement, If-else 
+Statement, Multiway decision. 
+b) Program to demonstrate Looping – while, do-while 
+ 
+ 
+02 
+03 
+a) Program to demonstrate Nested control structure- Switch 
+statement, Continue statement, Break statement, Goto statement 
+ 02 
+ 
+04 
+a) Program to demonstrate Function, Passing Arguments to a Function 
+(call by value and call by reference 
+ 
+02
+
+--- PAGE 46 ---
+
+50 
+ 
+05 
+a) Implement an iterative function for factorial/ Fibonacci etc. 
+b) Implement a recursive function for factorial/ Fibonacci etc. 
+ 02 
+06 
+a) Program to demonstrate Storage Classes –Auto, Extern, Static, 
+Register 
+ 02 
+07 
+c) Program to demonstrate Array 1D, 
+d) Program to demonstrate Array 2D 
+02 
+08 
+e) Program to demonstrate String 
+f) Program to demonstrate String arrays of string 
+02 
+09 
+Program to demonstrate Structure 
+ Write a program to store and display information of a student/employee 
+etc. 
+ using structures. 
+a) Define a structure. 
+b) Read and store details. 
+c) Display the stored information. 
+02 
+10 
+Program to demonstrate pointers 
+a) Define a node structure. 
+b) Implement functions to insert, delete, and display nodes. 
+02 
+11 
+Program to demonstrate files 
+Write a program to maintain a simple student/employee etc. database using 
+file handling. 
+a) Open a file to store student records. 
+b) Implement functions to add, update, and display records. 
+c) Ensure data persistence by saving changes to the file. 
+02 
+12 
+Implement one small application using Function, Files, Structure and 
+Pointers concepts you have learnt in C (eg.: Simple Library Management 
+System 
+1.Functions: Add, display, and search books. 2. Files: Store and retrieve 
+book data. 3. Structures: Represent a book. 4. Pointers: Manage the list of 
+books dynamically 
+ 
+02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr No 
+List of Assignments / Tutorials 
+Hrs 
+01 
+Flowcharts for programs 
+02 
+02 
+Functions and Parameter 
+03 
+Control Structures 
+04 
+Functions and Parameter 
+05 
+Arrays, String Structure and Union 
+06 
+Pointer and Files
+
+--- PAGE 47 ---
+
+51 
+ 
+Assessment: 
+ 
+Term Work: Term Work shall consist of at least 10 to 12 practicals’ based on the above list. Also, 
+Term work Journal must include at least 2 assignments. 
+ 
+Term Work Marks: 25 Marks (Total marks) = 15 Marks (Experiment) + 5 Marks (Assignments) + 
+5 Marks (Attendance) 
+ 
+Practical & Oral Exam: An Oral & Practical exam will be held based on the above syllabus.
+
+--- PAGE 48 ---
+
+52 
+ 
+ 
+ 
+ 
+Course 
+Code 
+Course Name 
+Theory 
+Term 
+work 
+Pract / 
+Oral 
+Total 
+Internal 
+Assessment Test 
+(IAT) 
+End 
+Sem 
+Exam 
+Exam 
+Duration 
+(in Hrs) 
+IAT-I 
+ 
+ 
+IAT-II 
+IAT-I + 
+IAT-II 
+(Total) 
+CC101 
+Induction cum 
+Universal 
+Human Values 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+ 
+Rationale: 
+“The purpose of the education system is to develop good human beings capable of rational thought 
+and action, possessing compassion and empathy…, with sound ethical moorings and values. It aims at 
+producing engaged, productive, and contributing citizens for building an equitable, inclusive, and 
+plural society as envisaged by our Constitution. Education must develop not only cognitive capacities... 
+but also social, ethical, and emotional capacities and dispositions…. Education is fundamental for 
+achieving full human potential, developing an equitable and just society, and promoting national 
+development… A holistic and multidisciplinary education would aim to develop all capacities of 
+human beings – intellectual, aesthetic, social, physical, emotional, and moral in an integrated manner” 
+[NEP 2020, p 4]. 
+UHV courses are intended to help students to develop a holistic, humane world vision. A self-
+reflective, explorational methodology is adopted. All content discussed is universal, rational, and 
+verifiable, and leads to harmony. 
+Holistic education inculcates the following three aspects in the student: 
+1. Holistic, Humane Vision of Life – harmonious individual to cosmos 
+2. Human Values– human feelings, participation based on holistic vision 
+3. Skills– required to live with these values in mutual relationship at all levels of human existence 
+ 
+Course Objectives: 
+The objective of the course is: 
+1. Development of a holistic perspective based on self-exploration about themselves (human 
+being), family, society and nature/existence. 
+2. Understanding (or developing clarity) of the harmony in the human being, family, society and 
+nature/existence 
+3. Strengthening of self-reflection. 
+4. Development of commitment and courage to act. 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Contact Hours) 
+Credits Assigned 
+Theory 
+Pract. 
+Tut. 
+Theory 
+Pract. 
+Tut. 
+Total 
+CC101 
+Induction cum 
+Universal Human 
+Values 
+2# 
+- 
+- 
+- 
+- 
+- 
+2
+
+--- PAGE 49 ---
+
+53 
+ 
+5. Prepare learner for achieving full human potential who can be contribute for developing an 
+equitable and just society, and promoting national development 
+6. developing clarity of these fundamental universal human values to help the learner in 
+understanding and living by the various specific expressions. E.g., National values enshrined 
+in the Constitution, aspirations articulated in NEP 2020, UN MDGs and SDGs... 
+Course Outcomes: After completion of the course learner will be able to 
+1. Identify basic human aspirations and programme for its fulfilment. 
+2. Express existing reality of Human being 
+3. Explain the values in human-human relationship and program for its fulfilment to ensure 
+mutual happiness. 
+4. Describe harmony in surroundings family and society. 
+5. Explain harmony nature, existence as coexistence and become more responsible in life, in 
+handling problems with sustainable solutions. 
+6. Apply what they have learnt to their own self in day-to-day life and utilize the professional 
+competence for augmenting universal human order, develop holistic technologies, management 
+models and production systems. 
+ 
+Prerequisite: There is no prerequisite for this course. 
+ 
+DETAILED SYLLABUS: 
+ 
+Sr. 
+No. 
+Name of Module 
+Detailed Content 
+Hours 
+CO 
+Mapping 
+0 
+Prerequisite 
+No prerequisite 
+ 
+ 
+I 
+Introduction - 
+Need, Basic 
+Guidelines, 
+Content and 
+Process for Value 
+Education 
+Purpose and motivation for the course, Self-
+Exploration, 
+Continuous 
+Happiness 
+and 
+Prosperity- the basic Human Aspirations, Right 
+understanding, 
+Relationship 
+and 
+Physical 
+Facility- the basic requirements for fulfilment of 
+aspirations, 
+Understanding 
+Happiness 
+and 
+Prosperity correctly- A critical appraisal of the 
+current scenario, Method to fulfil the above 
+human aspirations. 
+05 
+CO1 
+II 
+Understanding 
+Harmony in the 
+Human Being 
+ 
+Understanding human being as a co-existence of 
+the sentient ‘I’ and the material ‘Body’. 
+Understanding the needs of Self (‘I’) and ‘Body’ 
+- happiness and physical facility. the Body as an 
+instrument of ‘I’, characteristics and activities of 
+‘I’ and harmony in ‘I’, harmony of I with the 
+Body: Self-regulation and Health; correct 
+appraisal of Physical needs, meaning of 
+Prosperity in detail, Programs to ensure Self-
+regulation and Health. 
+04 
+CO2 
+III 
+Understanding 
+Harmony in the 
+Family 
+Understanding 
+values 
+in 
+human-human 
+relationship and program for its fulfilment to 
+ensure mutual happiness; Trust and Respect as the 
+foundational values of relationship, the other 
+salient values in relationship 
+07 
+CO3
+
+--- PAGE 50 ---
+
+54 
+ 
+IV 
+Understanding 
+Harmony in the 
+Society 
+ 
+Understanding the harmony in the society 
+(society 
+being 
+an 
+extension 
+of 
+family): 
+Resolution, Prosperity, fearlessness (trust) and 
+co-existence as comprehensive Human Goals, 
+Visualizing a universal harmonious order in 
+society- Undivided Society, Universal Order- 
+from family to world family. 
+03 
+CO4 
+V 
+Understanding 
+Harmony in the 
+Nature and 
+Existence - Whole 
+existence as 
+Coexistence 
+ 
+Understanding the harmony in the Nature, 
+Interconnectedness and mutual fulfilment among 
+the four orders of nature, cyclability and self-
+regulation in nature. Understanding Existence as 
+Co-existence of mutually interacting units in all 
+pervasive space, Holistic perception of harmony 
+at all levels of existence. 
+04 
+CO5 
+VI 
+Implications of 
+the Holistic 
+Understanding of 
+Harmony on 
+Professional 
+Ethics 
+ 
+Natural 
+acceptance 
+of 
+human 
+values, 
+Definitiveness of Ethical Human Conduct, Basis 
+for 
+Humanistic 
+Education, 
+Humanistic 
+Constitution and Humanistic. Universal Order, 
+Competence in professional ethics: Ability to 
+utilize 
+the 
+professional 
+competence 
+for 
+augmenting universal human order and identify 
+the scope and characteristics of people friendly 
+and eco-friendly production systems. Ability to 
+identify and develop appropriate technologies and 
+management patterns for above production 
+systems. Case studies of typical holistic 
+technologies, 
+management 
+models 
+and 
+production systems, Strategy for transition from 
+the present state to Universal Human Order. Sum 
+up. 
+03 
+CO6 
+ 
+(In every module one lecture can be used for students sharing and discussion) 
+Text Books: 
+1. A Foundation Course in Human Values and Professional Ethics, R R Gaur, R Asthana, G P 
+Bagaria, 3rd Revised Edition, Excel Books, New Delhi, 2019. ISBN 978-93-87034-47-1 
+2. The Teacher’s Manual Teachers‟ Manual for A Foundation Course in Human Values and 
+Professional Ethics, R R Gaur, R Asthana, G P Bagaria, 2nd Revised Edition, Excel Books, 
+New Delhi, 2019. ISBN 978-93-87034-53-2 
+3. A Foundation Course in Holistic Human Health – Its Philosophy and Practice, Sharmila 
+Asthana, Akhilesh Shukla, T Sundara Raj Perumall, 1st Edition, October 2023, Published by 
+UHV Publications,, Kanpur, UP.7 
+ 
+A References: 
+1. Jeevan Vidya: Ek Parichaya, A Nagaraj, Jeevan Vidya 
+2. Prakashan, Amarkantak, 1999. 
+3. Human Values, A.N. Tripathi, New Age Intl. Publishers, New Delhi, 2004. 
+4. The Story of Stuff (Book). 
+5. The Story of My Experiments with Truth - by Mohandas Karamchand Gandhi 
+6. Small is Beautiful - E. F Schumacher.
+
+--- PAGE 51 ---
+
+55 
+ 
+7. Slow is Beautiful - Cecile Andrews 
+8. Economy of Permanence - J C Kumarappa 
+9. Bharat Mein Angreji Raj – Pandit Sunderlal 
+10. Rediscovering India - by Dharampal 
+11. Hind Swaraj or Indian Home Rule - by Mohandas K. Gandhi 
+12. India Wins Freedom - Maulana Abdul Kalam Azad 
+13. Vivekananda - Romain Rolland (English) 
+14. Gandhi - Romain Rolland (English) 
+Online References: 
+Sr. No. 
+Website Name 
+7. 
+https://uhv.org.in 
+Note: 
+1. This is an audit course. 
+2. This course is to be taught by faculty from every teaching department 
+3. Lecture hours are to be used for interactive discussion, placing the proposals about the topics 
+at hand and motivating students to reflect, explore and verify them. 
+4. In the discussions, the mentor encourages the student to connect with one’s own self and do 
+self-observation, self-reflection and self-exploration 
+5. One or two periods from each module may be used for tutorials. These are important for the 
+course. The difference is that the laboratory is everyday life, and practical are how you behave 
+and work in real life. 
+6. Depending on the nature of topics, worksheets, home assignment and/or activity can be 
+included. The practice sessions (tutorials) would also provide support to a student in 
+performing actions commensurate to his/her beliefs. It is intended that this would lead to 
+development of commitment, namely behaving and working based on basic human values.

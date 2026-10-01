@@ -1,0 +1,3812 @@
+--- PAGE 1 ---
+
+SELF STUDY REPORT
+ FOR
+1st CYCLE OF ACCREDITATION
+ 
+ 
+ANJUMAN-I-ISLAM'S M.H. SABOO SIDDIK COLLEGE
+OF ENGINEERING
+MHSS POLYTECHNIC ROAD, BYCULLA
+400008
+www.mhssce.ac.in
+Submitted To
+NATIONAL ASSESSMENT AND ACCREDITATION COUNCIL
+BANGALORE
+February 2024
+Page 1/76
+22-03-2024 11:38:24
+
+--- PAGE 2 ---
+
+1. EXECUTIVE SUMMARY
+1.1 INTRODUCTION 
+The Mohammed Haji Saboo Siddik Institute (A Muslim Minority Institution) owes its existence to the
+munificence of late Mohammed, son of Haji Saboo Siddik, who bequeathed a large sum of money for
+establishing, conducting and managing this Institution for imparting Vocational, Technical and Industrial
+training and education. The value of the assets, so bequeathed, exceeded Rupees Three Crore at the time of
+donation.
+The Institution is managed and administrated by the Anjuman-i-Islam as the sole trustee, appointed by the
+Bombay High Court's decree and scheme framed and sanctioned there under.
+M.H. Saboo Siddik College of Engineering was estabbilshed in 1984.
+The very well laid out college building accommodates workshops, laboratories, classrooms, lecture halls,
+drawing halls, students' common room, seminar hall, library, reading-rooms, offices, etc. with modern facilities.
+The College is accommodated in an exclusively newly-constructed spacious ground plus five floors building.
+The library of the College is housed in a separate building and is furnished with reference section and reading-
+rooms for students and staff. A equiped Seminar Hall was inaugurated by Dr. Raja Ramanna, an eminent
+scientist of our country on 9th April, 2001. A spacious cafeteria and a an extension counter of DCB Bank is
+also operative in the campus.
+The college was established with a definte mission to disseminate a value-oriented quality technical education
+among our youth to fulfil the increasing demand of human resources for the ever-growing engineering industry
+of our nation, which it has truly proved to the core.
+Vision 
+To be an institute of global repute committed to the cause of nation building through technology based
+education.
+Mission 
+To be enabler of creation and dissemination of futuristic knowledge in technology through research and quality
+education.
+1.2 Strength, Weakness, Opportunity and Challenges(SWOC)
+Institutional Strength 
+1. Located in prime area in Mumbai.
+2. Connectivity by local train and by road.
+Page 2/76
+22-03-2024 11:38:24
+
+--- PAGE 3 ---
+
+3. Vast global Alumni network.
+4. MoUs with Foreign Universities.
+5. Fully Wi-Fi enabled campus.
+6. EDC cell of the institute to promote knowledge based and technology-driven start-ups.
+7. Skill Enhancements with industry.
+8. Good staff Retention
+9. Financial assistance through Zakat Fund. 
+Institutional Weakness 
+1.There is scope for registering patents and increasing number of publications.
+2. Industry Supported Laboratories need to be Developed/increased.
+3.Use of Alumni engagement for the overall development of the college need to be improved.
+4.Less number of Consultancy Assignment.
+Institutional Opportunity 
+1. There is scope for inter-disciplinary research challenges and new trends in multidisciplinary
+professional education.
+2. Explore the benefits of various R&D & faculty development centric policies available through various
+funding agencies.
+3. Good industry connect
+4. Possibility of collaboration with National & Foreign universities and providing recognized degrees.
+Institutional Challenge 
+1. Constrint of academic structure & curriculum being an affiliating institute.
+2. Improving consultancy.
+3. Placements in core industries.
+4. Maintaining high percentage of attendance of students.
+1.3 CRITERIA WISE SUMMARY 
+Curricular Aspects 
+M.H. Saboo Siddik College of Engineering is a premier institute affiliated with the University of Mumbai
+(UOM). The college is committed to the effective implementation of the curriculum designed by the University,
+utilizing its own well-planned documented system. In addition, many of our faculty members actively
+contribute to curriculum design and syllabus revision.
+The academic teaching-learning process is a significant component of curriculum delivery, encompassing
+Page 3/76
+22-03-2024 11:38:24
+
+--- PAGE 4 ---
+
+academic preparedness. At the beginning of each semester, courses are allocated to faculty members based on
+their subject expertise. Simultaneously, the institute and respective departments prepare academic calendars in
+line with the university's provided schedule.
+As an affiliated institution, the college adheres to the curriculum designed by the UOM. However, the presence
+of experienced faculties enables the institute to execute the curriculum effectively. To further enrich the
+curriculum, the college provides additional facilities such as SWAYAM, FOSS, AWS Academy, and Oracle
+Academy, enabling students to develop a range of skills.
+The college organizes expert talks and industrial visits for students' overall development. In alignment with
+prevailing industry trends, the institute facilitates field projects and internships at various organizations for
+students. Beyond academics, the college addresses social challenges, including gender equality, environmental
+sustainability, human values, and professional ethics, fostering the overall development of creative and
+divergent competencies.
+The dissemination of plans and content delivery is ensured through the Academic Review Process, conducted
+twice in each semester and monitored by the academic dean. Timely feedback from different stakeholders of
+the institute, using its own formulated mechanism, provides valuable inputs for the design and review of the
+syllabus accordingly.
+Teaching-learning and Evaluation 
+Being a Minority Institution reservation policy of the state government is implemented and non-minority
+students are also enrolled. Detailed academic calendar which includes Schedule of Examinations and Test,
+Parent teacher meeting, Guest lectures, Answer script review, co-curricular activities and other important dates
+of academic relevance is provided to all departments on timely basis.
+Faculty members prepare an academic plan as per format provided by institute for their respective courses
+before commencement of the semester. Systematic curricular implementation is achieved by consern faculty
+allotment for courses, traditional and ICT based delivery methods, assessment methods including, formative
+and summative methods, performance analysis based on attainment of course and program outcomes. Mentor,
+faculty are assigned for their academic growth. The Institute conducts internal assessments transparently,
+project assessments, internal exams as per university norms and results are declared. Institution introduced
+valued answer scripts of End Semester Examination review by students to promote transparency and represent
+grievances in evaluation. The holistic improvements in the teaching learning process and assessment system by
+the reforms enable the faculty and students to enhance their capabilities.
+To address the issues in health, psychology, moral and ethical behaviour in learning paces of students both
+internal and external counseling, workshops, seminars are being conducted. Industrial visits and internships are
+arranged to bridge the gap between theoretical knowledge and real life scenario in industry.
+Research, Innovations and Extension 
+M H Saboo Siddik College of Engineering (MHSSCE) creates an enabling environment to promote research
+culture providing required research infrastructure and support. MHSSCE has Research & Development (R&D)
+committee to cater the needs of researchers and facilitate distribution of information related to funding schemes
+Page 4/76
+22-03-2024 11:38:24
+
+--- PAGE 5 ---
+
+and also enabling faculty members to formulate research proposal for funding.
+A dedicated EDC and R & D cell is established to help students and faculty members to inculcate research and
+entrepreneurship skills. MHSSCE promotes faculty engagement in authoring books, publication, organizing
+seminars, conferences, workshops, consultancy and training.
+MHSSCE conducts number of extension programmes like blood donation, Health checkups, arranging field
+training programme for students, conduct of environmental awareness workshops, working with government
+agencies to conduct swachhata abhiyan, etc.
+Institute has arranged several industrial visits for the students to understand and instill corporate deeds. Also the
+number of internships has been facilitating to students during their vacations. Institute has signed 13 MoUs with
+national institutions / industries, corporate houses for academic, training collaborations and consultancy.
+Infrastructure and Learning Resources 
+The institute boasts a robust infrastructure geared towards providing high-quality education. With twenty-one
+classrooms, well-equipped laboratories, workshops, and tutorial rooms, the facilities cater to effective teaching
+and learning. All classrooms are furnished with ICT tools and Wi-Fi, ensuring a conducive learning
+environment with ample ventilation and lighting. Adequate tutorial rooms facilitate smooth conduction of
+tutorial classes.
+The laboratories and workshops are equipped with updated and calibrated machinery to deliver the curriculum
+effectively. The institute prioritizes the use of the latest computer hardware and software in its laboratories,
+maintaining a refined computer center with a sufficient number of systems and software. Seminar halls,
+equipped with ICT and Wi-Fi facilities, support co-curricular activities such as conferences, expert lectures,
+workshops, and seminars.
+The entire campus is connected with Wi-Fi, and all computer systems and servers use genuine and up-to-date
+operating systems. The institute supports open-source software as an alternative and has incorporated it into
+various aspects of its operations. Commercial software like StaddPro, Microsoft SQL Server, Tally ERP, MS-
+Windows 10/11, MS-Office 2007, Oracle 10g/11g has also been procured based on subject requirements.
+The central library is fully computerized with library information management software (SLIM), offering a rich
+collection of print resources including books, periodicals, newspapers, magazines, reference books, journals,
+databases, rare books, encyclopedias, dictionaries, and handbooks. Additionally, the library provides e-
+resources such as e-journals, e-books, and a database with remote access.
+Sport facilities, including grounds for football and cricket, and a boys' common room, are well-managed to
+support students' physical well-being. The institute emphasizes proper maintenance of academic and support
+facilities through a dedicated maintenance cell and store section, utilizing internal and external sources
+regularly or as needed.
+Student Support and Progression 
+Student Support and Progression discusses the support provided by the institution in terms of finance and career
+Page 5/76
+22-03-2024 11:38:24
+
+--- PAGE 6 ---
+
+development for the students. The institution gives financial support to students, such as those from financially
+weaker sections, single-parent children, etc. Category-wise government scholarships are provided. Skill
+development programs are conducted, including soft skills training, language, and communication
+development, which help and support them in their placement. Life skills development programs like yoga,
+health, and hygiene-related programs are conducted. Software training or workshops are conducted to help
+students learn the latest software in the field, apart from that given in their curriculum.
+ 
+We have constituted multiple committees in alignment with statutory norms set by various regulatory bodies to
+safeguard the interests of students and student redressal processes. A sufficient display of signboards of various
+redressal mechanisms and an online student grievance facility are also part of the college website. The institute
+extends all possible support to students in academic guidance and progression to higher studies and career. We,
+as an institute, are committed to promoting sports and cultural activities, essentially helping pupils practice
+collaborative activities and imbibe a sense of cooperation, sportsmanship, team building, and leadership.
+ 
+Students participate in inter-collegiate sports and cultural competitions and bring laurels to the institute. Our
+success in numerous "Hackathons" organized at the national level by AICTE/Ministry of Education gets
+publicized on various communication platforms and brings credibility to the education process followed in the
+institute. The institute has a very strong alumni network, and we leverage their experience and understanding to
+set standards for various curricular and co-curricular activities. They act as goodwill ambassadors to industries
+and various government and non-governmental agencies. Alumni share their industry experience, the latest
+technology used in companies, and how to approach companies for placement with their juniors. In several
+departments, alumni are invited as resource persons for seminars and workshops to benefit juniors. Quite a few
+alumni are serving as faculty members in the college.
+Governance, Leadership and Management 
+Anjuman I Islam’s M.H.SABOO SIDDIK COLLEGE OF ENGINEERING has like many other Engineering
+colleges is governed by AICTE, University of Mumbai, DTE Maharashtra and Anjuman I Islam. We have a
+very clear vision and mission established. 
+Certain short term and long term goals are the foundation for its perspective plan and the responsibilities
+assigned to various committees. Institute following academics as prescribed by University of Mumbai and
+waiting for Instructions regarding NEP.
+Ragging free campus, good final year results, of statutory benefits like gratuity, leave encashment, festival
+advance to non teaching staff and student Group Insurance, LTC are the positive points.
+As long as e governance is concerned it is to be considered that admission process for First Year Engineering
+and Second Year Direct Admission are handled by DTE the process is completely online and our college is
+facilitation centre
+Our FE and BE exams are having students application, question paper down loading, reports filling,
+assessment and marks uploading for Term work, oral, project etc is completely online Financial front we have
+Page 6/76
+22-03-2024 11:38:24
+
+--- PAGE 7 ---
+
+been using software Telly.
+Our main source of income is fees collected from the students. The utilization of funds is primarily for staff
+salary and other statutory fees, infrastructure maintenance and lab setups.
+As IQAC is established in July 2023 we are yet to have measurable impact on teaching learning process but at
+the same time NBA visit is due in Feb/ March 2024, the teaching learning is as per the processes described in
+NBA.
+Institutional Values and Best Practices 
+Our institution is deeply committed to fostering a culture built upon strong institutional values and best
+practices that extend beyond traditional academic boundaries. In line with our core beliefs, we prioritize social
+responsibilities and aim to create a campus environment that is inclusive, sustainable, and socially conscious.
+ 
+Institutional Values:
+ 
+Social Responsibility: We recognize our role in society and actively engage in activities that contribute
+positively to our community. Our initiatives extend beyond academic pursuits to address societal needs,
+emphasizing the holistic development of our students.
+ 
+Gender Sensitivity: Our institution is dedicated to promoting gender sensitivity by providing facilities that cater
+to the diverse needs of all genders. We strive to create an inclusive and respectful atmosphere that values and
+empowers everyone.
+ 
+Waste Management: With a focus on environmental sustainability, we implement effective waste management
+strategies. Distinguishing between degradable and non-degradable waste, we aim to minimize our ecological
+footprint and set an example for responsible environmental stewardship.
+ 
+Green Campus Initiatives: Embracing the principles of sustainability, we actively pursue green campus
+initiatives. From energy-efficient practices to green spaces, our goal is to create a campus that harmonizes with
+nature, fostering a sense of responsibility for the environment among our students and staff.
+Disabled-Friendly Environment: We are committed to providing a barrier-free environment that is accessible to
+individuals with disabilities. Our infrastructure is designed to accommodate diverse needs, ensuring that every
+member of our community can fully participate in academic and extracurricular activities.
+Page 7/76
+22-03-2024 11:38:24
+
+--- PAGE 8 ---
+
+Page 8/76
+22-03-2024 11:38:24
+
+--- PAGE 9 ---
+
+2. PROFILE
+2.1 BASIC INFORMATION
+ Name and Address of the College
+Name
+ANJUMAN-I-ISLAM'S M.H. SABOO SIDDIK
+COLLEGE OF ENGINEERING
+Address
+MHSS Polytechnic Road, Byculla
+City
+Mumbai
+State
+Maharashtra
+Pin
+400008
+Website
+www.mhssce.ac.in
+ Contacts for Communication
+Designation
+Name
+Telephone with
+STD Code
+Mobile
+Fax
+ Email
+Principal(in-
+charge)
+Shaikh Javed
+Habib
+022-23012922
+8788942900
+022-2308264
+0
+aimhssce@mhssce.
+ac.in
+Professor
+Ashok Dhale
+022-23051356
+9422093722
+022-2308264
+0
+ashokdhale@mhssc
+e.ac.in
+ Status of the Institution
+Institution Status
+Self Financing
+ Type of Institution
+By Gender
+Co-education
+By Shift
+ Regular
+ 
+Page 9/76
+22-03-2024 11:38:24
+
+--- PAGE 10 ---
+
+Recognized Minority institution
+If it is a recognized minroity institution
+Yes
+Minority Certificate.pdf
+If Yes, Specify minority status
+Religious
+Muslim
+Linguistic
+Any Other
+ Establishment Details
+ State
+University name
+Document
+Maharashtra
+University of Mumbai
+View Document
+ Details of UGC recognition
+Under Section
+Date
+View Document
+2f of UGC
+12B of UGC
+ Details of recognition/approval by stationary/regulatory bodies like
+AICTE,NCTE,MCI,DCI,PCI,RCI etc(other than UGC)
+Statutory
+Regulatory
+Authority
+Recognition/Appr
+oval details Instit
+ution/Department
+programme
+Day,Month and
+year(dd-mm-
+yyyy)
+Validity in
+months
+Remarks
+AICTE
+View Document
+01-07-2023
+12
+ Recognitions
+ Is the College recognized by UGC as a College with
+Potential for Excellence(CPE)?
+No
+Is the College recognized for its performance by any
+other governmental agency?
+No
+ 
+Page 10/76
+22-03-2024 11:38:24
+
+--- PAGE 11 ---
+
+Location and Area of Campus
+Campus Type
+Address
+Location*
+Campus Area in
+Acres 
+Built up Area in
+sq.mts.
+Main campus
+area
+MHSS Polytechnic Road,
+Byculla
+Urban
+1.5
+17249
+2.2 ACADEMIC INFORMATION
+ Details of Programmes Offered by the College (Give Data for Current Academic year)
+Programme
+Level
+Name of Pro
+gramme/Co
+urse
+Duration in
+Months
+Entry
+Qualificatio
+n
+Medium of
+Instruction
+Sanctioned
+Strength
+ No.of
+Students
+Admitted
+UG
+BE,Civil
+Engineering,
+48
+XII and
+Entrance
+Exam
+Diploma
+English
+60
+22
+UG
+BE,Compute
+r
+Engineering,
+48
+XII and
+Entrance
+Exam
+Diploma
+English
+60
+56
+UG
+BE,Compute
+r Science
+And
+Engineering
+Internet Of
+Things And
+Cyber
+Security
+Including
+Block Chain
+Tech,
+48
+XII and
+Entrance
+Exam
+Diploma
+English
+60
+51
+UG
+BE,Compute
+r Science
+And
+Engineering
+Artificial
+Intelligence
+And Machine
+Learning,
+48
+XII and
+Entrance
+Exam
+Diploma
+English
+60
+59
+UG
+BE,Electroni
+cs And Telec
+48
+XII and
+Entrance
+English
+60
+41
+Page 11/76
+22-03-2024 11:38:24
+
+--- PAGE 12 ---
+
+ommunicatio
+ns
+Engineering,
+Exam
+Diploma
+UG
+BE,Informati
+on
+Technology,
+48
+XII and
+Entrance
+Exam
+Diploma
+English
+60
+55
+UG
+BE,Mechanic
+al
+Engineering,
+48
+XII and
+Entrance
+Exam
+Diploma
+English
+60
+26
+Position Details of Faculty & Staff in the College
+ 
+Teaching Faculty
+Professor
+Associate Professor
+Assistant Professor
+Male 
+Female
+Others
+Total
+Male
+Female
+Others
+Total
+Male
+Female
+Others
+Total
+Sanctioned by the
+UGC /University
+State Government 
+8
+19
+56
+Recruited
+3
+0
+0
+3
+8
+2
+0
+10
+21
+35
+0
+56
+Yet to Recruit
+5
+9
+0
+Sanctioned by the 
+Management/Soci
+ety or Other
+Authorized
+Bodies
+0
+0
+22
+Recruited
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Yet to Recruit
+0
+0
+22
+ 
+Page 12/76
+22-03-2024 11:38:24
+
+--- PAGE 13 ---
+
+Non-Teaching Staff
+Male
+Female
+Others
+Total
+Sanctioned by the UGC
+/University State
+Government 
+50
+Recruited 
+46
+4
+0
+50
+Yet to Recruit 
+0
+Sanctioned by the
+Management/Society or
+Other Authorized
+Bodies 
+0
+Recruited 
+0
+0
+0
+0
+Yet to Recruit 
+0
+ 
+Technical Staff
+Male
+Female
+Others
+Total
+Sanctioned by the UGC
+/University State
+Government 
+36
+Recruited 
+34
+2
+0
+36
+Yet to Recruit 
+0
+Sanctioned by the
+Management/Society or
+Other Authorized
+Bodies 
+0
+Recruited 
+0
+0
+0
+0
+Yet to Recruit 
+0
+Qualification Details of the Teaching Staff
+ 
+Page 13/76
+22-03-2024 11:38:24
+
+--- PAGE 14 ---
+
+Permanent Teachers
+Highest
+Qualificatio
+n
+Professor
+Associate Professor
+Assistant Professor
+Male
+Female
+Others
+Male
+Female
+Others
+Male
+Female
+Others
+Total
+D.sc/D.Litt/
+LLD/DM/M
+CH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Ph.D.
+3
+0
+0
+6
+2
+0
+11
+5
+0
+27
+M.Phil.
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+PG
+0
+0
+0
+2
+0
+0
+33
+29
+0
+64
+UG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ 
+Temporary Teachers
+Highest
+Qualificatio
+n
+Professor
+Associate Professor
+Assistant Professor
+Male
+Female
+Others
+Male
+Female
+Others
+Male
+Female
+Others
+Total
+D.sc/D.Litt/
+LLD/DM/M
+CH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Ph.D.
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M.Phil.
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+PG
+0
+0
+0
+0
+0
+0
+1
+1
+0
+2
+UG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ 
+Page 14/76
+22-03-2024 11:38:24
+
+--- PAGE 15 ---
+
+Part Time Teachers
+Highest
+Qualificatio
+n
+Professor
+Associate Professor
+Assistant Professor
+Male
+Female
+Others
+Male
+Female
+Others
+Male
+Female
+Others
+Total
+D.sc/D.Litt/
+LLD/DM/M
+CH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Ph.D.
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M.Phil.
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+PG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+UG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ Details of Visting/Guest Faculties
+Number of Visiting/Guest Faculty
+engaged with the college?
+Male
+Female
+Others
+Total
+0
+0
+0
+0
+Provide the Following Details of Students Enrolled in the College During the Current Academic Year
+ Programme
+From the State
+Where College
+is Located
+From Other
+States of India
+NRI Students
+Foreign
+Students
+Total
+UG
+Male
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+Others
+0
+0
+0
+0
+0
+ 
+Page 15/76
+22-03-2024 11:38:24
+
+--- PAGE 16 ---
+
+Provide the Following Details of Students admitted to the College During the last four Academic
+Years
+Category
+Year 1
+Year 2
+Year 3
+Year 4
+SC
+Male
+31
+29
+23
+20
+Female
+6
+6
+7
+5
+Others
+0
+0
+0
+0
+ST
+Male
+20
+21
+18
+13
+Female
+2
+1
+1
+2
+Others
+0
+0
+0
+0
+OBC
+Male
+79
+71
+78
+72
+Female
+16
+17
+16
+10
+Others
+0
+0
+0
+0
+General
+Male
+1228
+1250
+1311
+1193
+Female
+191
+190
+215
+236
+Others
+0
+0
+0
+0
+Others
+Male
+7
+8
+8
+5
+Female
+1
+0
+0
+0
+Others
+0
+0
+0
+0
+Total
+1581
+1593
+1677
+1556
+Institutional preparedness for NEP
+1. Multidisciplinary/interdisciplinary:
+NIL
+2. Academic bank of credits (ABC):
+All the students have generated Academic Bank: of
+Credits (ABC ID), (except those who have issues
+with their Aadhar Card/ contact number). We have
+submitted their ABC id to University of Mumbai.
+3. Skill development:
+NIL
+4. Appropriate integration of Indian Knowledge
+system (teaching in Indian Language, culture, using
+online course):
+NIL
+5. Focus on Outcome based education (OBE):
+Outcome Based education(OBE) is education in
+which an emphasis is laid on a clearly articulated idea
+Page 16/76
+22-03-2024 11:38:24
+
+--- PAGE 17 ---
+
+of what students are expected to know and be able to
+do, that is, what skills and knowledge they need to
+have, when they complete the course and programme.
+As per University of Mumbai syllabus every course
+has its objective defined as well the course outcome
+(CO) for theory subject and for Laboratory course,
+and we have Laboratory objective (LO). In some
+cases it is the faculty member who is in position to
+modify the CO/ LO s. Each of the COs / LOs is
+mapped with Programme outcome (PO) and their
+attainment is calculated. The attainment of the CO
+PO mapping is divided into two parts (a) Direct
+attainment: It is based on Internal assessment
+Examination (IAE) score, End Semester Examination
+(ESE) scores (b) Indirect assessment wherein we
+consider the course exit surveys. The same is
+followed for LO, PO again here we have (c) Direct
+assessment wherein we have experiment/ project
+work (d) Course exit survey collected online / off
+line. All POs are taken for the next level along with
+the Program Specific Objectives (PSOs) to mapped
+with Program Education Objectives (PEOs).
+Subsequently the path leads us to Mission and
+Vision. At every level philosophy of OBE is visible.
+Now since our Vision, Mission, PEOs, PSOs, POs,
+and all COs are well defined and their mapping is in
+place, we strongly feel that our teaching learning is
+focused on OBE.
+6. Distance education/online education:
+NIL
+Institutional Initiatives for Electoral Literacy
+1. Whether Electoral Literacy Club (ELC) has been
+set up in the College?
+NIL
+2. Whether students’ co-ordinator and co-ordinating
+faculty members are appointed by the College and
+whether the ELCs are functional? Whether the ELCs
+are representative in character?
+NIL
+3. What innovative programmes and initiatives
+undertaken by the ELCs? These may include
+voluntary contribution by the students in electoral
+processes-participation in voter registration of
+students and communities where they come from,
+NIL
+Page 17/76
+22-03-2024 11:38:24
+
+--- PAGE 18 ---
+
+assisting district election administration in conduct of
+poll, voter awareness campaigns, promotion of
+ethical voting, enhancing participation of the under
+privileged sections of society especially transgender,
+commercial sex workers, disabled persons, senior
+citizens, etc.
+4. Any socially relevant projects/initiatives taken by
+College in electoral related issues especially research
+projects, surveys, awareness drives, creating content,
+publications highlighting their contribution to
+advancing democratic values and participation in
+electoral processes, etc.
+NIL
+5. Extent of students above 18 years who are yet to be
+enrolled as voters in the electoral roll and efforts by
+ELCs as well as efforts by the College to
+institutionalize mechanisms to register eligible
+students as voters.
+NIL
+Page 18/76
+22-03-2024 11:38:24
+
+--- PAGE 19 ---
+
+Extended Profile
+1 Students
+1.1
+Number of students year wise during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+1582
+1593
+1679
+1560
+1623
+File Description
+Document
+Institutional data in prescribed format
+View Document
+2 Teachers
+2.1
+Number of teaching staff / full time teachers during the last five years (Without repeat count):
+Response: 104 File Description
+Document
+Institutional data in prescribed format
+View Document
+2.2
+Number of teaching staff / full time teachers year wise during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+91
+93
+94
+100
+102
+3 Institution
+3.1
+Expenditure excluding salary component year wise during the last five years (INR in lakhs)
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+375.05818
+195.08662
+456.45016
+277.43897
+324.73659
+File Description
+Document
+Upload Supporting Document
+View Document
+Page 19/76
+22-03-2024 11:38:24
+
+--- PAGE 20 ---
+
+Page 20/76
+22-03-2024 11:38:24
+
+--- PAGE 21 ---
+
+4. Quality Indicator Framework(QIF)
+Criterion 1 - Curricular Aspects
+ 
+1.1 Curricular Planning and Implementation
+ 1.1.1 
+The Institution ensures effective curriculum planning and delivery through a well-planned and
+documented process including Academic calendar and conduct of continuous internal Assessment
+Response: 
+M. H. Saboo Siddik College of Engineering continuously evolves strategies to provide quality education
+to fulfill the aspirations of the students and strive hard to achieve excellence in technical education. The
+institute has well qualified faculty to impart technical knowledge in a conducive learning environment.
+The institute is abide to follow the curriculum of all the programs designed by University of Mumbai and
+adopts its own strategy to ensure effective delivery which includes;
+A. Academic Preparedness 
+1. Before the commencement of each semester, courses are allocated to respective faculties based on
+their specialization, experience and subject choices given by them according to the contents of the
+syllabus..
+2. The institute prepares its own Academic Calendar aligned with the University’s calendar. Further
+based on the institute calendar every department prepares its own calendar considering curricular, co-
+curricular and extracurricular activities. The academic calendar provides the date of commencement of
+the academic session, the schedule of Internal Assessments Examinations (IAE), Parent Teacher
+meetings, mid-term and final submissions, practical/oral exams and End-Semester Examinations
+(ESE) etc.
+ 
+B. Teaching Learning Process
+1. To ensure the effective delivery of the curriculum individual faculty prepares teaching plan,
+laboratory plan and tutorial plan according to their courses assigned and gets executed through respective
+sessions as per the time table. 
+2. Faculty members also take utmost care to get completed academic projects according to the
+prescribed syllabus.
+3. To maintain the track of teaching learning activities each faculty maintains course files. 
+4. To support curriculum delivery the institute also follows few curriculum enrichment practices like
+industrial visits, expert talks of eminent personalities from reputed institutes and industries.
+Page 21/76
+22-03-2024 11:38:24
+
+--- PAGE 22 ---
+
+C. Academic Review for Monitoring the Effective Delivery 
+1. The principal and Dean of Academic Affairs (DAA) closely monitor the delivery of the courses and
+DAA carries midterm academic reviews twice in the semester along with HODs to verify the curriculum
+execution progress with the help of teaching progress report submitted by the individual faculty..
+2. Finally students’ feedback is taken on curriculum delivery by DAA on various parameters
+prescribed by the institute. 
+D. Domain Email id:
+1. All notifications are issued to the students through their official email IDs created using Google
+Teams for education belonging to mhssce.ac.in in the domain. Utilizing domain-specific email IDs in
+colleges enhances professionalism, credibility, and brand identity. It provides a secure and organized
+communication platform, fostering consistency and efficient interaction among students and faculty. The
+institution gains control over its email services, enabling integration with other platforms and facilitating
+the establishment of an alumni network. Overall, domain email IDs contribute to a positive and
+structured communication environment within the educational institution.
+ 
+ 
+File Description
+Document
+Upload Additional information
+View Document
+Provide Link for Additional information
+View Document
+ 
+1.2 Academic Flexibility
+ 1.2.1 
+Number of Certificate/Value added courses offered and online courses of MOOCs, SWAYAM,
+NPTEL etc. (where the students of the institution have enrolled and successfully completed during
+the last five years)
+Response: 28
+Page 22/76
+22-03-2024 11:38:25
+
+--- PAGE 23 ---
+
+File Description
+Document
+Institutional programme brochure/notice for
+Certificate/Value added programs with course
+modules and outcomes
+View Document
+Institutional data in the prescribed format
+View Document
+Provide Links for any other relevant document to
+support the claim (if any)
+View Document
+ 1.2.2 
+Percentage of students enrolled in Certificate/ Value added courses and also completed online courses
+of MOOCs, SWAYAM, NPTEL etc. as against the total number of students during the last five years 
+Response: 8.19
+1.2.2.1 Number of students enrolled in Certificate/ Value added courses and also completed online
+courses of MOOCs, SWAYAM, NPTEL etc. as against the total number of students during the last five
+years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+134
+118
+142
+136
+128
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 
+1.3 Curriculum Enrichment
+ 1.3.1 
+Institution integrates crosscutting issues relevant to Professional Ethics, Gender, Human Values,
+Environment and Sustainability in transacting the Curriculum
+Response: 
+GENDER SENSITIZATION:
+Equal opportunities are given to both genders in terms of admission, employment, training programs,
+sports, and other activities, thus curbing any gender-related issues. The college supports women faculty
+and students to become members of forums and encourages them to participate in events focusing on
+women's empowerment and promoting leadership qualities. Girls and boys participate in various co-
+curricular activities such as paper presentations, group discussions, and technical quizzes. Both, boys and
+Page 23/76
+22-03-2024 11:38:25
+
+--- PAGE 24 ---
+
+girls are made members of various clubs associated with academic, co-curricular, and extracurricular
+activities. Gender sensitization seminars are conducted by the Women Development Cell (WDC) for
+both faculty and students on topics such as ‘Eve teasing’, Nirbhaya Laws, etc., which not only
+emphasize the importance of virtue in life but also the need to respect women and ensure their comfort in
+the workplace, ensuring professional growth.
+ENVIRONMENTAL SUSTAINABILITY:
+Students have a compulsory course on environmental sustainability, such as Environmental Studies,
+Environmental Engineering I and II, Solid Waste Management, and Industrial Waste Treatment. They are
+taken for industrial visits to see Water Treatment Plants, Effluent Treatment Plants, and places that
+educate them on environmental management. Awareness programs are also initiated by the institute, and
+the Civil Engineering Department extensively carries out activities for environmental protection and
+ecological preservation. Our institution takes part in programs like Swachh Bharat Abhiyan, Summer
+Internship – 100 hours of Swachhata, Swachata Pakhwada, clean-up drives, exhibitions based on Water
+Supply Solutions and wastewater solutions, Risk Audit, and Zero waste campus for compost and waste
+segregation that have been successfully executed.
+HUMAN VALUES AND PROFESSIONAL ETHICS:
+The curriculum includes seminars on professional ethics and human values. Special lectures are arranged
+to create awareness on these issues by various technical bodies like ACM, CSI, CES, IETE, IEEE, etc.
+Eminent personnels, psychiatrists, and others are invited to educate the students on moral and ethical
+values. Apart from this, the most highlighting quality of this institute for educating the students and
+faculties about moral and ethical values and to become stress-free, the college has appointed a
+professional counselor. Employability and life skills training programs like Personality Development,
+Intra and Interpersonal Communication Skills are also conducted through the Training & Placement
+department. The institute also organized Intellectual Property Rights (IPR) awareness programs that help
+the faculties implement professional ethics by addressing issues like plagiarism and patent filing.
+In addition to curriculum, socially relevant courses like Project Management, Soft Skills, Business
+Communication Skills, trainings and orientations related to recruitment, etc., have been included to
+enhance the interdisciplinary skills. The enrichment practices provide an opportunity for intellectually
+curious students to develop their knowledge through the events like zero waste management, disaster
+management, Hackathon, environmental awareness during COVID-19, E-Waste management, Swachh
+Bharat internship, Swachh Pakhwara, Jal Shakti Abhiyan, and Women's Day celebration.
+File Description
+Document
+Upload Additional information
+View Document
+ 1.3.2 
+Percentage of students undertaking project work/field work/ internships (Data for the latest
+completed academic year)
+Page 24/76
+22-03-2024 11:38:25
+
+--- PAGE 25 ---
+
+Response: 0.06
+1.3.2.1 Number of students undertaking project work/field work / internships
+Response: 1
+File Description
+Document
+Upload supporting document
+View Document
+Institutional data in the prescribed format
+View Document
+ 
+1.4 Feedback System
+ 1.4.1 
+Institution obtains feedback on the academic performance and ambience of the institution from
+various stakeholders, such as Students, Teachers, Employers, Alumni etc. and action taken report on
+the feedback is made available on institutional website 
+Response: C. Feedback collected and analysed
+File Description
+Document
+Provide Links for any other relevant document to
+support the claim (if any)
+View Document
+Page 25/76
+22-03-2024 11:38:25
+
+--- PAGE 26 ---
+
+Criterion 2 - Teaching-learning and Evaluation
+ 
+2.1 Student Enrollment and Profile
+ 2.1.1 
+Enrolment percentage
+Response: 74.71
+2.1.1.1 Number of seats filled year wise during last five years (Only first year admissions to be
+considered)
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+310
+284
+340
+278
+357
+2.1.1.2 Number of sanctioned seats year wise during last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+420
+420
+420
+420
+420
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+Final admission list as published by the HEI and
+endorsed by the competent authority
+View Document
+Document related to sanction of intake from
+affiliating University/ Government/statutory body
+for first year’s students only.
+View Document
+ 2.1.2 
+Percentage of seats filled against reserved categories (SC, ST, OBC etc.) as per applicable reservation
+policy for the first year admission during the last five years
+Response: 100
+2.1.2.1 Number of actual students admitted from the reserved categories year wise during last five
+years (Exclusive of supernumerary seats) 
+ 
+Page 26/76
+22-03-2024 11:38:25
+
+--- PAGE 27 ---
+
+2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+27
+21
+38
+42
+18
+2.1.2.2 Number of seats earmarked for reserved category as per GOI/ State Govt rule year wise
+during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+27
+21
+38
+42
+18
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+Final admission list indicating the category as
+published by the HEI and endorsed by the
+competent authority.
+View Document
+Copy of communication issued by state govt. or
+Central Government indicating the reserved
+categories(SC,ST,OBC,Divyangjan,etc.) to be
+considered as per the state rule ( Translated copy in
+English to be provided as applicable)
+View Document
+ 
+2.2 Student Teacher Ratio
+ 2.2.1 
+Student – Full time Teacher Ratio
+(Data for the latest completed academic year)
+Response: 17.38
+ 
+2.3 Teaching- Learning Process
+ 2.3.1 
+Student centric methods, such as experiential learning, participative learning and problem solving
+methodologies are used for enhancing learning experiences and teachers use ICT- enabled tools
+including online resources for effective teaching and learning process 
+Response: 
+Page 27/76
+22-03-2024 11:38:25
+
+--- PAGE 28 ---
+
+The institution employs a student-centric teaching approach to enhance the effectiveness of the Teaching-
+Learning process. Emphasizing experiential learning, participative learning, and problem-solving
+methodologies, the role of the teacher is that of a facilitator, fostering a thirst for knowledge, overall
+development, and skill formation through various participatory learning activities, complementing
+traditional lecture methods.
+Experiential Learning:
+The institution facilitates field-based experiential learning, including internships, campus placements,
+outhouse projects, industrial visits, mock interviews, project competitions, and training programs on
+advanced technologies. Institute-based learning involves activities like 24/36 hour Hackathons,
+competitive coding tests, mini and major projects, promoting experiential learning. Students actively
+engage in laboratory experiments, workshops, and present projects in competitions, such as the
+University-level Avishkar Research Convention.
+Participative Learning:
+At MHSSCE, participative learning is a priority, fostering collaboration and skill enhancement among
+students. Techniques include mini and major project presentations, workshops, seminars, project
+competitions, hackathons, and paper presentations conducted by student-formed groups. The
+Entrepreneurship Development Cell (EDC) organizes student-centric activities and idea innovation
+contests, encouraging students to develop working models for their ideas. Mock interviews and
+interaction with industry professionals help students understand industry expectations. Student chapters
+and clubs, like IEEE, CSI, ACM, SAE, ISHRAE, AWS Academy, CES and the Programmers club,
+expose students to real-world trends. Various activities like interactive guest lectures, assignments, field
+visits, quizzes, industrial visits and social awareness campaigns further enhance participative learning.
+Problem-Solving Methodologies:
+The institute adopts a problem-based learning approach, encouraging students to engage in case studies,
+assignments, and projects with complex and challenging problems. The interdisciplinary approach fosters
+collaborative problem-solving.
+ICT-Enabled Tools:
+To enhance teaching and learning processes, the institution provides internet facilities in all labs and
+classrooms. Digital content development, including PowerPoint presentations and video-based teaching,
+is encouraged, supported by ICT-enabled classrooms. Faculty members are motivated to share subject
+data on platforms like Google Drive, maintain blogs, and conduct online quizzes for course exit surveys,
+providing insights into the understanding level of course outcomes. The promotion of Massive Open
+Online Courses (MOOC), such as Spoken Tutorial (FOSS) by IIT Bombay and enrollment in NPTEL
+and SWAYAM courses, is actively encouraged. Open-source simulation tools are utilized in practical
+sessions to provide hands-on experience and real-time exposure to students.
+Page 28/76
+22-03-2024 11:38:25
+
+--- PAGE 29 ---
+
+File Description
+Document
+Upload Additional information
+View Document
+Provide Link for Additional information
+View Document
+ 
+2.4 Teacher Profile and Quality
+ 2.4.1 
+Percentage of full-time teachers against sanctioned posts during the last five years
+Response: 100
+2.4.1.1 Number of sanctioned posts year wise during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+91
+93
+94
+100
+102
+File Description
+Document
+Sanction letters indicating number of posts
+sanctioned by the competent authority (including
+Management sanctioned posts)
+View Document
+ 2.4.2 
+Percentage of full time teachers with NET/SET/SLET/ Ph. D./D.Sc. / D.Litt./L.L.D. during the last
+five years (consider only highest degree for count)
+Response: 25
+2.4.2.1 Number of full time teachers with NET/SET/SLET/Ph. D./ D.Sc. / D.Litt./L.L.D year wise
+during the last five years 
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+27
+27
+21
+22
+23
+Page 29/76
+22-03-2024 11:38:25
+
+--- PAGE 30 ---
+
+File Description
+Document
+List of faculties having Ph. D. / D.Sc. / D.Litt./
+L.L.D along with particulars of degree awarding
+university, subject and the year of award per
+academic year.
+View Document
+Institution data in the prescribed format
+View Document
+Copies of Ph.D./D.Sc / D.Litt./ L.L.D awareded by
+UGC recognized universities
+View Document
+ 
+2.5 Evaluation Process and Reforms
+ 2.5.1 
+Mechanism of internal/ external assessment is transparent and the grievance redressal system is
+time- bound and efficient
+Response: 
+Our institute is committed to achieving higher standards in the assessment of teaching, learning, and the
+evaluation process through a comprehensive internal and external assessment system. Adhering to the
+guidelines set by the University of Mumbai (UoM), our institute prioritizes transparency and efficient
+grievance redressal with the following processes:
+Internal Assessment:
+Key parameters of internal assessment include:
+1.Continuous assessment of practicals, assignments, and tutorials.
+2.Two internal assessment examinations during the semester
+3.Projects.
+Practicals, assignments, and projects are evaluated based on rubrics such as time management, work
+quality, and understanding of topics, ensuring a transparent assessment process.
+The schedule for internal assessment exams is communicated through various channels like the academic
+calendar, student IAE blueprint, orientation programs, and digital communication media, ensuring quick
+and effective communication with all students.
+A transparent and time-bound mechanism is in place to address grievances related to internal assessment
+exams. Any reported issues, such as totaling mistakes or under-marking, are promptly resolved by the
+respective subject in-charge.
+External Assessment:
+The notice board and website of the college serves as a central hub for exam schedule announcements,
+Page 30/76
+22-03-2024 11:38:25
+
+--- PAGE 31 ---
+
+exam form registrations, result processing, revaluation, and photocopy applications. A centralized
+assessment process (CAP) is conducted post-examinations to maintain transparency and ensure timely
+result declarations.
+Grievances related to data inaccuracies on hall tickets or other pre-End Semester Examination (ESE)
+issues can be raised by students applying to the principal. The exam cell takes appropriate actions and
+informs students of any corrections made.
+During the ESE, any discrepancies or doubts in the question paper are immediately reported by Junior
+Supervisors to Senior Supervisors or the Chief Conductor. The Chief Conductor contacts University of
+Mumbai if necessary, and any corrections are communicated to students in their respective blocks.
+After the declaration of ESE results, students have a window of 10-12 working days to apply for
+photocopies or revaluation of answer sheets. If discrepancies are identified after receiving the photocopy,
+students can report grievances, and the exam cell ensures timely and effective resolution by coordinating
+with the examiner. Our commitment to a streamlined and effective grievance redressal process remains
+unwavering.
+ 
+File Description
+Document
+Upload Additional information
+View Document
+ 
+2.6 Student Performance and Learning Outcomes
+ 2.6.1 
+Programme Outcomes (POs) and Course Outcomes (COs) for all Programmes offered by the
+institution are stated and displayed on website
+Response: 
+Outcome-Based Education (OBE) is a learner-centric educational theory that places emphasis on the
+individual learner. It provides each student with opportunities to develop skills at their own pace, engage
+in collaboration, gather evidence of learning, and foster the attributes needed to become successful
+lifelong learners. In alignment with OBE principles, Program-Specific Outcomes (PSOs), Program
+Outcomes (POs), and Course Outcomes (COs) are formulated.
+Each department in our institute formulates its own PSOs and Program Educational Objectives (PEOs),
+aligning them with the Graduate Attributes mandated by the National Board of Accreditation (NBA).
+This process incorporates valuable inputs from stakeholders, taking into consideration the latest
+technological demands, job prospects, and societal requirements.
+Course outcomes are articulated statements that outlines the fundamental disciplinary knowledge and
+abilities, students should acquire, specifying the expected learning level upon completing a course.
+Page 31/76
+22-03-2024 11:38:25
+
+--- PAGE 32 ---
+
+The communication of Program Outcomes (POs) and Program-Specific Outcomes (PSOs) is
+disseminated through various channels, including:
+Use of Digital Media:
+Institute's Website
+Utilization of print media
+Term Work File
+File Description
+Document
+Provide Link for Additional information
+View Document
+ 2.6.2 
+Attainment of POs and COs are evaluated. 
+Explain with evidence in a maximum of 500 words
+Response: 
+The institute systematically assesses Program Outcomes (POs) and Course Outcomes (COs) to foster
+excellence in engineering education. The assessment process involves continuous data collection during
+each semester, evaluating students' knowledge and understanding of respective subjects. Continuous
+evaluation not only measures student performance but also provides an avenue for improving teaching-
+learning standards. Prescribed course outcomes from the university are adapted by different faculties to
+suit specific needs.
+Tools for Continuous Evaluation:
+Continuous evaluation tools are categorized into Direct Assessment and Indirect Assessment.
+Direct Assessment Components:
+1.IAE Exam: Two exams of 15/20 marks each are conducted in the semester, with the average
+marks considered. Question papers adhere to assessment patterns and blueprints.
+2.End Semester Exam: Results from end semester examinations contribute to the assessment.
+3.Experiments/Assignments: Designed for different modules to cover a wide range of COs and
+POs.
+4.Practical and Orals: Conducted according to the curriculum. These exams assess practical skills
+and oral communication.
+Indirect Assessment Components:
+Page 32/76
+22-03-2024 11:38:25
+
+--- PAGE 33 ---
+
+1.Course Exit Survey: A subject-wise survey conducted at the end of every semester provides
+insights into learning outcomes.
+For all assessment components, questions in IAE exams, assignments, and end semester exams are
+mapped to specific COs. CO attainment is calculated using a threshold value based on the average of
+internal and external evaluations for the current academic year. CO-wise cut-off values are determined,
+considering the highest marks secured for each CO. The number of students with internal marks above
+the cut-off value is considered for rating CO attainment on three levels such as Level 1, 2, or 3.
+Mapping of COs to POs and PSOs is done in a CO-PO matrix, evaluating curriculum and program
+outcomes at three levels. These levels determine the contribution of the course to achieving program
+outcomes. For example, Level 1, 2, or 3 is defined based on the percentage of students scoring above the
+calculated threshold value. After calculation, this level is multiplied by the respective weightage of that
+component to determine its attainment. If one PO is attained by COs from different tools, the average of
+these COs represent the PO attainment.
+This comprehensive approach ensures a thorough assessment that contributes to continuous improvement
+in engineering education programs.
+File Description
+Document
+Upload Additional information
+View Document
+ 2.6.3 
+Pass percentage of Students during last five years (excluding backlog students)
+Response: 94.94
+2.6.3.1 Number of final year students who passed the university examination year wise during the
+last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+373
+424
+504
+473
+457
+2.6.3.2 Number of final year students who appeared for the university examination year-wise
+during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+436
+455
+509
+473
+477
+Page 33/76
+22-03-2024 11:38:25
+
+--- PAGE 34 ---
+
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+Certified report from Controller Examination of the
+affiliating university indicating pass percentage of
+students of the final year (final semester) eligible
+for the degree programwise / year-wise.
+View Document
+ 
+2.7 Student Satisfaction Survey
+ 2.7.1 
+Online student satisfaction survey regarding teaching learning process
+Response: 3.44
+File Description
+Document
+Upload database of all students on roll as per data
+template
+View Document
+Page 34/76
+22-03-2024 11:38:25
+
+--- PAGE 35 ---
+
+Criterion 3 - Research, Innovations and Extension
+ 
+3.1 Resource Mobilization for Research
+ 3.1.1 
+Grants received from Government and non-governmental agencies for research projects / endowments
+in the institution during the last five years (INR in Lakhs)
+Response: 0
+3.1.1.1 Total Grants from Government and non-governmental agencies for research projects /
+endowments in the institution during the last five years (INR in Lakhs)
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+0
+0
+0
+0
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 
+3.2 Innovation Ecosystem
+ 3.2.1 
+Institution has created an ecosystem for innovations, Indian Knowledge System (IKS),including
+awareness about IPR, establishment of IPR cell, Incubation centre and other initiatives for the
+creation and transfer of knowledge/technology and the outcomes of the same are evident
+Response: 
+Innovation is the integration and utilization of value-added uniqueness in the growth of products and
+services. Incubation, a process stimulated through focused effort, yields novel ideas. Our institute fosters
+an enabling environment for a research culture, providing essential research infrastructure and support.
+The commitment to innovation and incubation is evident through the establishment of the Research and
+Development Cell (R&D Cell) and Entrepreneurship Development Cell (EDC). Through the Research &
+Development (R&D) committee, the institute addresses the needs of researchers, facilitates information
+distribution related to funding schemes, and empowers faculty members to formulate research proposals
+for funding.
+At the undergraduate level, the institute encourages students to undertake innovative projects, some of
+which involve real-time collaborations with industry and society. This approach has successfully
+nurtured a research-oriented environment. The library, well-equipped with reference books, standard
+National & International Journals, and e-Journals (del.net, NPTEL videos hard disc), facilitates extensive
+literature reviews. Students also have access to the IIT Bombay Library through annual membership,
+Page 35/76
+22-03-2024 11:38:25
+
+--- PAGE 36 ---
+
+providing them with opportunities to stay informed about global developments.
+The institute has established a platform for innovative projects through the EDC. The EDC organizes
+events such as EDC Week, Awareness Seminars on Startup Policies and Funding, Presentations of
+Innovative Ideas, Students Workforce Development Program, Intra-college Innovation Challenge, Poster
+Designing Competitions, Seminars on Business Models, Group Discussions, Business Skills Quizzes,
+and Innovative Idea Generation Competitions.
+The institute cultivates a research culture, with many faculty members and students actively engaged in
+research work. Presently, the faculty list boasts 21 doctorates, and ten faculty members are pursuing
+doctoral degrees. The institute encourages collaboration by allowing faculty from other institutes and
+industry experts to associate with our faculty for guidance and consultancy. Numerous workshops are
+organized to integrate and share knowledge for both teachers and students. Well-equipped laboratories
+provide the necessary infrastructure for research, and various initiatives for knowledge creation and
+transfer are undertaken, including a multitude of industry-related projects integrated into the academic
+curriculum.
+File Description
+Document
+Provide Link for Additional information
+View Document
+ 3.2.2 
+Number of workshops/seminars/conferences including on Research Methodology, Intellectual
+Property Rights (IPR) and entrepreneurship conducted during the last five years
+Response: 2
+3.2.2.1 Total number of workshops/seminars/conferences including programs conducted on
+Research Methodology, Intellectual Property Rights (IPR) and entrepreneurship year wise during
+last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+0
+0
+0
+2
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 
+3.3 Research Publications and Awards
+ 3.3.1 
+Page 36/76
+22-03-2024 11:38:25
+
+--- PAGE 37 ---
+
+Number of research papers published per teacher in the Journals notified on UGC care list during
+the last five years
+Response: 0.66
+3.3.1.1 Number of research papers in the Journals notified on UGC CARE list year wise during the
+last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+10
+16
+15
+3
+25
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 3.3.2 
+Number of books and chapters in edited volumes/books published and papers published in
+national/ international conference proceedings per teacher during last five years
+Response: 0.15
+3.3.2.1 Total number of books and chapters in edited volumes/books published and papers in
+national/ international conference proceedings year wise during last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+1
+4
+3
+4
+4
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 
+3.4 Extension Activities
+ 3.4.1 
+Outcomes of Extension activities in the neighborhood community in terms of impact and
+sensitizing the students to social issues for their holistic development during the last five years.
+Response: 
+Over the preceding five years, M. H. Saboo Siddik College of Engineering has served as a catalyst for
+Page 37/76
+22-03-2024 11:38:25
+
+--- PAGE 38 ---
+
+positive transformation within the local community through a range of impactful extension activities.
+These initiatives, including clean-up drives at Chowpatty Beach, blood donation campaigns, educational
+outreach programs, Swachh Bharat Summer Internship Courses, and plantation drives, highlight the
+college's active involvement in creating a lasting impact. This essay examines the outcomes of these
+extension activities.
+The clean-up drives orchestrated by M. H. Saboo Siddik College at Chowpatty Beach have significantly
+influenced both the environment and participating students. The consistent engagement of students in
+these activities has not only contributed to a cleaner and more visually appealing beach but has also
+instilled a sense of environmental responsibility among participants.
+The blood donation drives, organized by the Student’s Association of College of Engineering (SACE)
+committee in collaboration with Giants Group and BYL Nair Hospital Blood Bank, have resulted in
+significant positive outcomes. Beyond the lives saved through blood donations, these initiatives have
+sensitized students to the critical healthcare needs of the community. Participation in such activities
+instills a sense of empathy and social responsibility, making students more aware of their contribution to
+societal well-being.
+The K12 Program, designed to engage with school students, has left a lasting impact on both college
+students and youngsters in the local community. Through mentorship sessions, workshops, and
+interactive programs, college students have played a pivotal role in shaping the academic and personal
+development of school students. Positive outcomes include an increased aspiration for higher education,
+improved learning outcomes.
+The Swachh Bharat Summer Internship Course conducted by M. H. Saboo Siddik College has not only
+contributed to the national cleanliness agenda but has also sensitized students to broader issues of
+sanitation and hygiene. Engaging in practical activities during the internship, students have developed a
+deeper understanding of the challenges faced by communities in maintaining cleanliness. This first-hand
+experience has impacted students' perspectives and equipped them with the knowledge and motivation to
+be agents of change in promoting hygiene practices.
+The plantation drive within the college campus has yielded visible positive outcomes for both the
+environment and the students. The increased green cover not only contributes to a more sustainable
+campus but also serves as an educational tool. Students involved in the plantation drive have gained
+insights into environmental conservation and the significance of preserving biodiversity.
+Collectively, these extension activities have played a crucial role in sensitizing students to social issues
+and fostering their holistic development. These hands-on experiences extend beyond the traditional
+classroom setting, providing students with a practical understanding of societal challenges and their role
+in addressing them. The exposure to diverse community issues has contributed to the development of
+empathy, leadership skills, and a sense of civic responsibility among students.
+In conclusion, the outcomes of M. H. Saboo Siddik College of Engineering's extension activities over the
+last five years underscore the institution's commitment to community engagement and holistic student
+development.
+Page 38/76
+22-03-2024 11:38:25
+
+--- PAGE 39 ---
+
+File Description
+Document
+Provide Link for Additional information
+View Document
+ 3.4.2 
+Awards and recognitions received for extension activities from government / government
+recognised bodies
+Response: 
+M. H. Saboo Siddik College of Engineering, located in the vibrant city of Mumbai, has emerged as a
+beacon of social responsibility, spearheading numerous extension activities aimed at community
+development. The institution's dedication to impactful initiatives such as clean-up drives, blood donation
+campaigns, educational outreach programs, Swachh Bharat Summer Internship, and plantation drives,
+reflects its commitment to creating a positive and sustainable impact.
+M. H. Saboo Siddik College's commitment to environmental stewardship is evident through its annual
+clean-up drive at Chowpaty Beach. Engaging students and faculty, this initiative not only contributes to
+the physical cleanliness of the beach but also fosters a sense of environmental responsibility among
+participants. By actively involving the college community in such endeavours, the institution promotes a
+culture of respect for the environment and a commitment to maintaining the beauty of public spaces.
+The Student’s Association of College of Engineering (SACE) committee at M. H. Saboo Siddik College
+has played a pivotal role in organizing blood donation drives in collaboration with Giants Group of
+Byculla and BYL Nair Hospital Blood Bank, Mumbai. This initiative underscores the institution's
+dedication to addressing critical healthcare needs in the community.
+Recognizing the transformative power of education, M. H. Saboo Siddik College has instituted the K12
+program to engage with school students. Through workshops, mentorship sessions, and interactive
+programs, the college aims to enhance the academic and personal development of school students.
+In line with the national Swachh Bharat Abhiyan, M. H. Saboo Siddik College conducted a Swachh
+Bharat Summer Internship Course of 100 hours duration between 1st May to 31st July 2018. This
+initiative aimed at instilling a sense of civic responsibility and cleanliness among the participants.
+Recognizing the importance of green initiatives, M. H. Saboo Siddik College has actively participated in
+a plantation drive within its campus. By planting trees and promoting environmental consciousness, the
+college not only contributes to the local ecosystem but also educates students about the vital role they
+play in ensuring a sustainable future.
+While M. H. Saboo Siddik College has not received formal recognition from government or government-
+recognized bodies for these extension activities, the intrinsic value of these initiatives lies in the positive
+impact they have on the community. The absence of awards does not diminish the tangible benefits these
+programs bring to the environment, healthcare, education, and community well-being.
+M. H. Saboo Siddik College of Engineering exemplifies the spirit of compassionate engagement with the
+Page 39/76
+22-03-2024 11:38:25
+
+--- PAGE 40 ---
+
+community through its diverse extension activities. The institution's commitment to initiatives such as
+clean-up drives, blood donation campaigns, educational outreach, Swachh Bharat initiatives, and
+plantation drives reflects its dedication to creating a positive and sustainable impact on society.
+ 3.4.3 
+Number of extension and outreach programs conducted by the institution through organized forums
+including NSS/NCC with involvement of community during the last five years.
+Response: 9
+3.4.3.1 Number of extension and outreach Programs conducted in collaboration with industry,
+community, and Non- Government Organizations through NSS/ NCC etc., year wise during the
+last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+3
+2
+0
+2
+2
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 
+3.5 Collaboration
+ 3.5.1 
+Number of functional MoUs/linkages with institutions/ industries in India and abroad for internship,
+on-the-job training, project work, student / faculty exchange and collaborative research during the last
+five years.
+Response: 10
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+Page 40/76
+22-03-2024 11:38:25
+
+--- PAGE 41 ---
+
+Criterion 4 - Infrastructure and Learning Resources
+ 
+4.1 Physical Facilities
+ 4.1.1 
+The Institution has adequate infrastructure and other facilities for,
+teaching – learning, viz., classrooms, laboratories, computing equipment etc
+ICT – enabled facilities such as smart class, LMS etc. 
+Facilities for Cultural and sports activities, yoga centre, games (indoor and outdoor), Gymnasium,
+auditorium etc (Describe the adequacy of facilities in maximum of 500 words.)
+Response: 
+The college offers a comprehensive range of physical facilities, encompassing classrooms, laboratories,
+and computer resources, to cater to the needs of enrolled students. These facilities, which include boards
+and furniture, serve not only the student body but are also made accessible to government and non-
+government organizations for conducting examinations. The institution boasts a sufficient number of
+desktops equipped with internet facilities, enabling both students and staff to utilize computer systems
+for various purposes.
+The presence of ICT classrooms equipped with LCD projectors enhances the overall learning experience
+across all classrooms. Additionally, the college places emphasis on cultural and sports activities to foster
+the holistic personality development of students. A well-furnished and spacious Gymnasium on the 4th
+floor, provides indoor sports such as Pool Table, Table Tennis, Carom, and Chess. Outdoor sports
+facilities, including box cricket, volleyball, throw ball, ring football, pro kabaddi, and tug of war, are
+available on the college grounds. For specific events, additional venues are rented.
+The institution annually hosts an Inter-college sports festival named "ASPIRE," featuring a diverse array
+of indoor and outdoor games. The college has arranged sports such as Box Cricket, Ring Football, Throw
+ball, Table Tennis, Carom, Chess, Arm Wrestling, Badminton, and more. The college has organized the
+Pro-Kabaddi event in collaboration with the Maharashtra Kabaddi Association and Mumbai Upnagar
+Kabaddi Association, drawing participation from teams across different colleges and securing
+sponsorships.
+Furthermore, students actively engage in sports tournaments organized by the University of Mumbai and
+at the inter-collegiate level. Yoga activities contribute to the overall well-being of students and are
+conducted in the Alma Latifi hall of the Institute."
+ 
+ 4.1.2 
+Percentage of expenditure for infrastructure development and augmentation excluding salary during
+the last five years 
+Page 41/76
+22-03-2024 11:38:25
+
+--- PAGE 42 ---
+
+Response: 18.77
+4.1.2.1 Expenditure for infrastructure development and augmentation, excluding salary year wise
+during last five years (INR in lakhs) 
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+8.31168
+5.53037
+76.46408
+46.38705
+169.08320
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 
+4.2 Library as a Learning Resource
+ 4.2.1 
+Library is automated with digital facilities using Integrated Library Management System (ILMS),
+adequate subscriptions to e-resources and journals are made. The library is optimally used by the
+faculty and students
+Response: 
+The institute's central library is fully computerized with the Library Information Management Software
+(SLIM). It houses an extensive collection of print resources, including books, periodicals, newspapers,
+magazines, reference materials, journals, databases, and more. The computerization of the library
+commenced in 2002 with SLIM++, later upgraded to SLIM21.
+The central library boasts a significant collection of rare books, encyclopedias, dictionaries, and
+handbooks. It is well-equipped with e-resources such as e-journals, e-books, and databases with remote
+access capabilities. The reading room, accommodating one hundred and fifty seats, is well-maintained.
+Rare Books: The library holds around 100 rare books, including 50 books published by Mir Publishers,
+with a link on the website for books from the Soviet Era.
+Encyclopedias / Atlases: Notable collections include the McGraw Hill Encyclopedia of Science and
+Technology (20 Volumes), Colliers Encyclopedia (24 Volumes), and other single-volume encyclopedias,
+totaling 55 volumes, along with one world Atlas.
+Dictionaries: The library possesses language, visual, encyclopedic, and technical terms dictionaries,
+totaling more than 30.
+Handbooks: An excellent collection of handbooks, numbering more than 260, is available in the central
+library.
+Reference Books: The central library houses more than 32,258 (Total titles - 13,149) print books, with
+Page 42/76
+22-03-2024 11:38:25
+
+--- PAGE 43 ---
+
+approximately 6,885 of them categorized as reference books.
+The institution subscribes to e-resources, including e-journals, e-Shodh Sindhu, Shodhganga
+membership, e-books, and databases.
+Remote Access to E-Resources: To extend access beyond physical locations, the library provides off-
+campus (remote) access to subscribed e-resources through RemoteXS service. This user-friendly service
+requires no configuration or specific devices, allowing registered users - faculty and students - to access e-
+resources directly after a simple registration process.
+Federated Search: The library offers federated search technology, allowing simultaneous searches
+across multiple databases, enhancing users' ability to find relevant information efficiently. This feature is
+facilitated through RemoteXS.
+E-Book Bank Facility: Every student has an access to over 800 Indian e-books and 6,100 international
+reference and textbooks 24/7.
+Top of Form
+ 
+ 
+File Description
+Document
+Provide Link for Additional information
+View Document
+ 
+4.3 IT Infrastructure
+ 4.3.1 
+Institution frequently updates its IT facilities and provides sufficient bandwidth for internet
+connection
+Describe IT facilities including Wi-Fi with date and nature of updation, available internet bandwidth
+within a maximum of 500 words
+Response: 
+Technology plays a pivotal role in the field of engineering, and our IT infrastructure is designed to cater
+to the diverse needs of stakeholders. The hardware component comprises high-configuration servers, a
+Gajshield GS160dc firewall for enhanced security, access points, and a computing fleet of 790 machines,
+encompassing both desktops and laptops from reputable brands such as Dell, Lenovo, and HP.
+On the software front, each system is equipped with genuine operating systems, featuring licensed
+software tailored to syllabus requirements. The institute promotes the use of open-source software,
+Page 43/76
+22-03-2024 11:38:25
+
+--- PAGE 44 ---
+
+incorporating Linux-based Ubuntu in some labs, and utilizes alternatives like Libre Office, Sci Lab 7zip,
+and Chrome. In addition to above, softwares including, Solid works, ANSYS, StaddPro, Microsoft SQL
+Server, and Tally ERP, is procured as per the specific needs of academic and research activities.
+For internet connectivity, the institute offers a high-speed leased line connection from reputable
+providers such as Jio/AirTel. The robust infrastructure includes reliable fiber optic cables distributed
+across the campus, complemented by non-fiber media. High-speed CAT 6 cables and D-Link switches
+efficiently support internet and intranet connections, configured based on specific requirements.
+In addition to wired connectivity, the institute ensures wireless access through a partnership with Jio
+Digital Life/Airtel, providing 24/7 free Wi-Fi for students and staff. This initiative, aligning with the
+digital India campaign, offers 35 MB of daily free usage per user for one year, extendable as needed. To
+adhere to Government of India directives, access to objectionable websites is restricted. The institution is
+equipped with a bandwidth upto 1GB, ensuring seamless internet services to meet the demands of our
+academic and research endeavors.
+ 4.3.2 
+Student – Computer ratio (Data for the latest completed academic year)
+Response: 2.83
+4.3.2.1 Number of computers available for students usage during the latest completed academic
+year:
+Response: 560
+File Description
+Document
+Purchased Bills/Copies highlighting the number of
+computers purchased
+View Document
+Extracts stock register/ highlighting the computers
+issued to respective departments for student’s
+usage.
+View Document
+ 
+4.4 Maintenance of Campus Infrastructure
+ 4.4.1 
+Percentage expenditure incurred on maintenance of physical facilities and academic support facilities
+excluding salary component, during the last five years (INR in Lakhs)
+Response: 2.91
+4.4.1.1 Expenditure incurred on maintenance of infrastructure (physical facilities and academic
+support facilities) excluding salary component year wise during the last five years (INR in lakhs)
+Page 44/76
+22-03-2024 11:38:25
+
+--- PAGE 45 ---
+
+2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+7.46936
+10.22094
+3.52728
+16.65057
+9.56358
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+Page 45/76
+22-03-2024 11:38:25
+
+--- PAGE 46 ---
+
+Criterion 5 - Student Support and Progression
+ 
+5.1 Student Support
+ 5.1.1 
+Percentage of students benefited by scholarships and freeships provided by the institution, government
+and non-government bodies, industries, individuals, philanthropists during the last five years
+Response: 78.55
+5.1.1.1 Number of students benefited by scholarships and freeships provided by the institution,
+Government and non-government bodies, industries, individuals, philanthropists during the last
+five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+1131
+1137
+1392
+1408
+1245
+File Description
+Document
+Year-wise list of beneficiary students in each
+scheme duly signed by the competent authority.
+View Document
+Upload Sanction letter of scholarship and free ships
+(along with English translated version if it is in
+regional language).
+View Document
+Upload policy document of the HEI for award of
+scholarship and freeships.
+View Document
+Institutional data in the prescribed format
+View Document
+ 5.1.2 
+Following capacity development and skills enhancement activities are organised for improving
+students’ capability 
+1.Soft skills 
+2.Language and communication skills 
+3.Life skills (Yoga, physical fitness, health and hygiene) 
+4.ICT/computing skills
+Response: A. All of the above
+Page 46/76
+22-03-2024 11:38:25
+
+--- PAGE 47 ---
+
+File Description
+Document
+Report with photographs on Programmes /activities
+conducted to enhance soft skills, Language and
+communication skills, and Life skills (Yoga,
+physical fitness, health and hygiene, self-
+employment and entrepreneurial skills)
+View Document
+Report with photographs on ICT/computing skills
+enhancement programs
+View Document
+Institutional data in the prescribed format
+View Document
+ 5.1.3 
+Percentage of students benefitted by guidance for competitive examinations and career counseling
+offered by the Institution during the last five years
+Response: 27.91
+5.1.3.1 Number of students benefitted by guidance for competitive examinations and career
+counselling offered by the institution year wise during last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+196
+498
+599
+144
+806
+File Description
+Document
+Upload supporting document
+View Document
+Institutional data in the prescribed format
+View Document
+ 5.1.4 
+The institution adopts the following for redressal of student grievances including sexual harassment
+and ragging cases 
+1.Implementation of guidelines of statutory/regulatory bodies 
+2.Organisation wide awareness and undertakings on policies with zero tolerance 
+3.Mechanisms for submission of online/offline students’ grievances 
+4.Timely redressal of the grievances through appropriate committees
+Response: A. All of the above
+Page 47/76
+22-03-2024 11:38:25
+
+--- PAGE 48 ---
+
+File Description
+Document
+Proof w.r.t Organisation wide awareness and
+undertakings on policies with zero tolerance
+View Document
+Proof related to Mechanisms for submission of
+online/offline students’ grievances
+View Document
+Proof for Implementation of guidelines of
+statutory/regulatory bodies
+View Document
+Details of statutory/regulatory Committees (to be
+notified in institutional website also)
+View Document
+Annual report of the committee motioning the
+activities and number of grievances redressed to
+prove timely redressal of the grievances
+View Document
+ 
+5.2 Student Progression
+ 5.2.1 
+Percentage of placement of outgoing students and students progressing to higher education during
+the last five years
+Response: 37.56
+5.2.1.1 Number of outgoing students placed and / or progressed to higher education year wise
+during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+97
+219
+197
+182
+143
+5.2.1.2 Number of outgoing students year wise during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+373
+424
+504
+473
+457
+Page 48/76
+22-03-2024 11:38:25
+
+--- PAGE 49 ---
+
+File Description
+Document
+Number and List of students placed along with
+placement details such as name of the company,
+compensation, etc and links to Placement order(the
+above list should be available on institutional
+website)
+View Document
+List of students progressing for Higher Education,
+with details of program and institution that they
+are/have enrolled along with links to proof of
+continuation in higher education.(the above list
+should be available on institutional website)
+View Document
+Institutional data in the prescribed format
+View Document
+ 5.2.2 
+Percentage of students qualifying in state/national/ international level examinations during the last
+five years 
+Response: 3.16
+5.2.2.1 Number of students qualifying in state/ national/ international level examinations year wise
+during last five years (eg: IIT/JAM/NET/SLET/GATE/GMAT/GPAT/CLAT/CAT/ GRE/TOEFL/
+IELTS/Civil Services/State government examinations etc.)
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+8
+7
+9
+10
+10
+File Description
+Document
+List of students qualified year wise under each
+category and links to Qualifying Certificates of the
+students taking the examination
+View Document
+Institutional data in the prescribed format
+View Document
+ 
+5.3 Student Participation and Activities
+ 5.3.1 
+Number of awards/medals for outstanding performance in sports/ cultural activities at University /
+state/ national / international level (award for a team event should be counted as one) during the
+last five years
+Page 49/76
+22-03-2024 11:38:25
+
+--- PAGE 50 ---
+
+Response: 14
+5.3.1.1 Number of awards/medals for outstanding performance in sports/cultural activities at 
+national/international level (award for a team event should be counted as one) year wise during the
+last five years 
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+5
+2
+1
+6
+File Description
+Document
+Upload supporting document
+View Document
+Institutional data in the prescribed format
+View Document
+ 5.3.2 
+Average number of sports and cultural programs in which students of the Institution participated
+during last five years (organised by the institution/other institutions)
+Response: 3
+5.3.2.1 Number of sports and cultural programs in which students of the Institution participated
+year wise during last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+6
+6
+0
+0
+3
+File Description
+Document
+Upload supporting document
+View Document
+Institutional data in the prescribed format
+View Document
+ 
+5.4 Alumni Engagement
+ 5.4.1 
+There is a registered Alumni Association that contributes significantly to the development of the
+institution through financial and/or other support services
+Response: 
+Page 50/76
+22-03-2024 11:38:25
+
+--- PAGE 51 ---
+
+The College has registered an Alumni Association with Registration No. F-63234(MUMBAI). While
+rejuvenating the memories of the college, a network of old student’s was achieved. The institution rests
+on the rich history of the student’s success and glory. It is the flag bearer in the developments of the
+institution. The Alumni organize lectures on various topics such as personality development, guidance
+related to higher studies and career development. The alumni also help the institution by influencing
+industries and other agencies in getting placements fests for the institution. The alumni appear for various
+activities and their suggestions are taken into account. The Institution has a social networking page and a
+separate link in the website where the Alumni can register and connect to share their ideas.
+Alumni Benefits for Students:
+1.Personality Development Program
+2.Career Advising
+3.Industry Institute Interaction
+4.Placement assistance, Project Assistance for final year students
+5.Arranging seminar for TE/BE students
+6.Financial Aid for paying Fees in case of Needy Students.
+Alumni Objectives:
+To promote networking amongst A.I’s M.H.S.S.C.O.E. Alumni world-wide.
+To bridge the gap between students and industry by sharing alumni experiences.
+To interact with Alumni and invite them to different college events (Seminars, Workshops,
+Faculty Development Programme(FDP), Short term training programme(STTP) etc) for academia
+improvement.
+To explore opportunities for training and placement.
+To generate information about products and services that alumni can offer for college and its
+students.
+ 
+ 
+File Description
+Document
+Upload Additional information
+View Document
+Page 51/76
+22-03-2024 11:38:25
+
+--- PAGE 52 ---
+
+Criterion 6 - Governance, Leadership and Management
+ 
+6.1 Institutional Vision and Leadership
+ 6.1.1 
+The institutional governance and leadership are in accordance with the vision and mission of the
+Institution and it is visible in various institutional practices such as NEP implementation, sustained
+institutional growth, decentralization, participation in the institutional governance and in their short
+term and long term Institutional Perspective Plan.
+Response: 
+Anjuman-I-Islam, Mumbai was founded in the year 1874 by a small group of devout and progressive
+Muslims led by none other than Dr. Badruddin Tyabji, Third President of Indian National Congress and
+the First Acting Indian Chief Justice of Bombay High Court, with a ‘desire to see the Muslim
+Community advance in education and social standing’.
+Vision of the Institute: 
+To be an institute of global repute committed to the cause of nation building through technology based
+education.
+Mission of the Institute:
+To be enabler of creation and dissemination of futuristic knowledge in technology through research and
+quality education.
+MHSSCE is governed by its Vision and Mission. The Vision and Mission have been developed with the
+active participation of all internal members and stakeholders. It is set taking into consideration the
+present day technical needs of the society and forecasting the future requirements in various
+technological fields so as to become an element in the growth of the society and nation.
+The strong leadership of Management keeps the watch through Board of Vocational Training and
+Education (BVTE) which is represented by Honorary Director and Principal, BVTE meetings are held
+every quarterly and that monitors the formation of policies, implementations and regular function of the
+institute as per the vision and Mission mentioned above.
+As such the college is affiliated to University of Mumbai (UoM), syllabus and examinations are
+governed by UoM, however certain recommendations of NEP are already implemented few of them are:
+(1) Creation of ABC ID (Academic Bank of Credits) for almost all students (2) Internship (3) Opting the
+branches related to AI, IOT, Cyber security and Block Chain Technology (4) Free and Open Source
+Software (FOSS).
+Institutional governance is successful in maintaining 30 long years trust among its all stakeholders. The
+institute that started in 1984 with merely three branches and intake of 180 seats is now a success story by
+itself with intake of 420 seats and seven branches. In accordance with the mission, new or futuristic
+branches have been introduced and to make room for them few old branches have been closed without
+Page 52/76
+22-03-2024 11:38:25
+
+--- PAGE 53 ---
+
+impacting the livelihood of teaching/non teaching staff.
+The Institute has formed various committees that are constituted by various staff members and headed by
+the Principal to promote academic leadership. Many committees also have representation of students on
+the body. Some of the committees that are presently functioning in the institute are as follows –
+1 College Development Committee (CDC)
+2 IQAC
+3. Examination Committee
+4 Training and Placement
+5 Research and Development Committee
+ 6 Student Council (SACE)
+7. Purchase Committee
+8. Student Grievance Committee
+9. Anti Ragging Committee
+10. Internal Complaints Committee
+11. Woman Grievance Redressal Committee
+12. SC/ST committee
+ 
+6.2 Strategy Development and Deployment
+ 6.2.1 
+The institutional perspective plan is effectively deployed and functioning of the institutional bodies is
+effective and efficient as visible from policies, administrative setup, appointment, service rules, and
+procedures, etc
+Response: 
+The perspective plan of the institute is developed based on Vision and Mission of the Institute in
+consultation with stakeholders, management, College Development Committee (CDC) that includes
+representation of members from industries, Principal, society representatives, three members elected
+from teaching faculty, one member of non-teaching staff and student representatives keeping various
+challenges and future needs.
+Page 53/76
+22-03-2024 11:38:25
+
+--- PAGE 54 ---
+
+The perspective plan: 
+The perspective plan includes policies, short and long term goals and a mechanism to implement the
+policies and regularly monitor the progress in achieving the status of short term and long term goals.
+The goals are listed below:
+Sr. No
+Short Term Goals Status
+Long Term Goals Status 
+1
+NBA Accreditation
+to 
+all 
+ 
+eligible
+branches and NAAC
+for Institute
+Expected 
+visit 
+in
+Feb/Mar 2024 for
+NBA
+Full Admission in
+Civil 
+and
+Mechanical
+Engineering
+Branches
+Achieved 
+in
+Remaining Branches
+only.
+2
+100% BE results in
+all the branches
+95% Achieved
+Placement 
+to 
+all
+except those who are
+going 
+for 
+higher
+studies
+Not yet achieved
+3
+Ragging 
+free
+campus
+Achieved
+Best 
+in 
+class
+infrastructure.
+Not yet achieved
+4.
+Availability 
+of
+Industrial mentors to
+each of the final year
+student.
+Partially Achieved
+Post 
+graduation
+facilities
+Not yet achieved
+5
+Two 
+MoUs 
+with
+Industries 
+for 
+all
+branches
+Achieved
+Research 
+and
+Development Centre
+Not yet achieved
+6
+Research funds from
+Govt./ 
+Industries
+schemes.
+Not satisfactory
+At 
+least 
+one
+International patent
+every year
+Not yet achieved
+7
+Faculty 
+Training
+program every year
+Partially Achieved At least two research
+papers in SCOPUS /
+peer 
+reviewed
+Journals by faculty
+members 
+Achieved
+ 
+Perspective plan:
+Planning and implementing quality enhancement initiative in the institution.
+Planning and implementation of ICT enabled labs, class rooms and preparation of teaching
+material accordingly.
+Planning and implementation of paperless administration.
+To make ERP effective in teaching.
+Planning and implementation of Research activities essential for students and good number of
+Page 54/76
+22-03-2024 11:38:25
+
+--- PAGE 55 ---
+
+publication in reputed journals.
+To plan for 100% placement.
+To have MoU’s with Industries.
+To have Centre of Excellence.
+Functioning bodies are classified in following categories:
+[A] Administrative:
+For Teaching and Non-teaching Staff all administrative Rules, Procedures and Policies are as per
+directives or Norms of All India Council for Technical Education AICTE), New Delhi. GR from DTE,
+Government of Maharashtra. Maharashtra University Act 2016 Statute of University of Mumbai and
+other applicable governing authorities.
+ [B] Academic:
+Implementation of Academic policies and functioning as per policies is implemented through
+Departmental Advisory Committee (DAC) and department level committees/ portfolios like Attendance,
+Time table, Exam etc.
+[C] Students support: Internship and Placement 
+The Training and Placement Section provides a launch pad for students to make it to the
+best organizations in the fields of software, core industries, management, etc.
+Leading Recruiters:
+TCS, L&T Infotech,Capgemini, Hexaware,Teradata which are software giants in corporate are the
+leading recruiter for IT, Computer, EXTC and Electronic students. Mahindra & Mahindra Rustomjee,
+Shaman Group and catapult reality is leading recruiter for Mechanical, Automobile and Civil engineering
+students.
+ 6.2.2 
+Institution implements e-governance in its operations 
+1.Administration 
+2.Finance and Accounts 
+3.Student Admission and Support 
+4.Examination
+Response: D. 1 of the above
+Page 55/76
+22-03-2024 11:38:25
+
+--- PAGE 56 ---
+
+File Description
+Document
+Screen shots of user interfaces of each module
+reflecting the name of the HEI
+View Document
+ 
+6.3 Faculty Empowerment Strategies
+ 6.3.1 
+The institution has performance appraisal system, effective welfare measures for teaching and non-
+teaching staff and avenues for career development/progression
+Response: 
+The institutes follow CAS rules laid down by University of Mumbai. Eligible staff members are required
+to apply once they are eligible with all supporting details. The file is forwarded to a committee meant for
+scrutiny and based on the recommendation CAS benefits are sanctioned.
+The Institution has effective welfare measures for teaching & non-teaching staff
+Institute has adopted following staff welfare measures –
+1. Gratuity is paid to Teaching & Non Teaching Staff, as per The Payment of Gratuity Act, 1972.
+2. Benefits of Provident fund are extended to all employees with contributory pension under Employees’
+Provident Funds and Miscellaneous Provident Act, 1952
+3. Earned Leave Encashment is disbursed to staff.
+4. Leave Travel Concession (LTC) facility is available to staff once in block period of two years.
+5. Maternity leave facility – the benefits are extended to female employees as per norms.
+6. Special long leaves under singular situations like cancer treatment.
+7. Staff Insurance - Management, Anjuman-i-Islam has kindly consented to Employees Group Insurance
+covering two policies viz Mediclaim Policy (Sum Insured Rs. 1,50,000/- per person) and Workmen’s
+Welfare Policy (Sum Insured Rs.1,00,000/- per person). The policies are having features like
+hospitalization expenses (cashless/ reimbursement) reasonable and necessarily incurred for treatment of
+illness/ disease or injury contracted/ sustaining during the policy period and covering Accidental death
+Rs. 1 Lakh/ Permanent total disablement Rs. 1.50 Lakhs/ Accidental medical expenses cover Rs. 1 Lakh
+respectively subject to the Exclusions and terms explained as per the copy of proposal from National
+Insurance Co. Ltd., enclosed for perusal of the staff. The Insurance premium expenses for each individual
+staff member are to be borne by the College and no deduction is made from employees’ salary.
+8. Book Allowance to staff is reimbursed once claim is received from them.
+Page 56/76
+22-03-2024 11:38:25
+
+--- PAGE 57 ---
+
+9. Festival Advance facility is available to staff as per option availed by them.
+10. Anjuman-I.Islam's Employees Coop. Credit Society, personal loan deduction facility is available to
+member staff at a very low rate of interest.
+A table containing data for last 5 years towards expenditure on account of various staff welfare measures,
+scheme and facility (stated above), is produced below.
+ Faculty Empowerment Strategies
+Service benefits, facility and welfare measures for Staff (All data in INR)
+ 
+ Particular
+2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+Gratuity
+25,89,348
+7159546
+10627729
+2422952
+8292286
+Management
+Cont. 
+to
+Provident Fund
+46,81,619
+3884639
+4239810
+3603148
+3144745
+Leave
+Encashment
+90,573
+-
+-
+-
+1563129
+Leave 
+Travel
+Concession 
+–
+LTC
+41,335
+17234
+-
+-
+23736
+Maternity Leave
+to staff
+-
+535066
+562496
+2150738
+2639636
+Book Allowance 779
+8268
+1390
+-
+-
+Festival Advance
+to Staff
+14,40,000
+1520000
+-
+-
+1280000
+Insurance – Staff 4,77,128.00
+477128
+495229
+-
+-
+Minority
+Research Grant
+84,000
+307998
+-
+-
+28622
+A.I. 
+Employees
+Coop 
+Credit
+Society - loan
+deduction
+25,99,811
+3061315
+3519249
+3932637
+4206656
+Meeting 
+&
+Seminar 
+(Staff/
+Students etc)
+5,47,843
+599066
+156069
+161451
+420545
+ 6.3.2 
+Percentage of teachers provided with financial support to attend conferences/workshops and
+towards membership fee of professional bodies during the last five years
+Response: 2.29
+6.3.2.1 Number of teachers provided with financial support to attend conferences/workshops and
+Page 57/76
+22-03-2024 11:38:25
+
+--- PAGE 58 ---
+
+towards membership fee of professional bodies year wise during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+0
+0
+4
+7
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+ 6.3.3 
+Percentage of teaching and non-teaching staff participating in Faculty development Programmes
+(FDP), Management Development Programmes (MDPs) professional development /administrative
+training programs during the last five years
+Response: 10.71
+6.3.3.1 Total number of teaching and non-teaching staff participating in Faculty development
+Programmes (FDP), Management Development Programmes (MDPs) professional development
+/administrative training programs during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+16
+22
+28
+30
+7
+6.3.3.2 Number of non-teaching staff year wise during the last five years
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+91
+93
+95
+99
+104
+File Description
+Document
+Institutional data in the prescribed format
+View Document
+Copy of the certificates of the program attended by
+teachers.
+View Document
+ 
+6.4 Financial Management and Resource Mobilization
+ 6.4.1 
+Page 58/76
+22-03-2024 11:38:25
+
+--- PAGE 59 ---
+
+Institution has strategies for mobilization and optimal utilization of resources and funds from
+various sources (government/ nongovernment organizations) and it conducts financial audits
+regularly (internal and external)
+Response: 
+Funds are mobilized through –
+Fee – Approved by Fee Regulating Authority (FRA)., Maharashtra (Tuition Fee and
+Development Fee)
+Fee for University levies - towards eligibility fees, enrolment fees, registration fees etc
+Minority Research Grant – Received from University of Mumbai for research work of staff
+Mobilization of Additional Funds & Resources – Revenue generated from technical services to
+outside agencies is infused into organizational cash flow through utilization of existing
+infrastructure, as under:
+Project work, technical consultancy services as sanctioned by the Management, Anjuman-i-Islam,
+to different departments and faculty members
+Rental for conducting Seminar, Conference, Exams of outside agencies and organizations at the
+institute
+Financial assistance and scholarship to students (from Govt and financial support from private
+agencies and NGOs to support students and research activities), through drives and setting up
+special cells and concentrated efforts to support weaker sections of the students pay their fee
+without disturbing their studies and also helping institute to keep its cash flow intact through
+regular fee collection during academic year.
+Sponsorship from vendors, bankers and outside agencies to conduct seminar, workshop, students
+fest, cultural and sports activities etc.
+Utilization of Funds and Resources is mainly for:
+Students – providing them adequate infrastructure, lab equipments, tools, consumables,
+computers, campus facility, books, internet, medical cover and other amenities etc.; as per norms
+and guidelines of University/ AICTE and other authorities, besides sponsoring Team MHSSCE
+for various competitions and competitive technical events at both National and International
+levels.
+Staff – Salary (including allowances, gratuity, provident fund), medical cover, orientation
+programs, workshop, FDPs, training program that ensure quality education
+Infrastructure and Campus Development – Interior, renovation of labs and class rooms,
+campus facilities and maintenance of Infrastructure.
+Maintenance of Infrastructure, Admin and Revenue Expenses – AMC for computers, lift, Air-
+condition, and other assets, advertisement, and other operational expenses, overheads etc.
+File Description
+Document
+Upload Additional information
+View Document
+Page 59/76
+22-03-2024 11:38:25
+
+--- PAGE 60 ---
+
+6.5 Internal Quality Assurance System
+ 6.5.1 
+Internal Quality Assurance Cell (IQAC) has contributed significantly for institutionalizing the
+quality assurance strategies and processes. It reviews teaching learning process, structures &
+methodologies of operations and learning outcomes at periodic intervals and records the
+incremental improvement in various activities
+Response: 
+IQAC is formed in July 2023 and one meeting of IQAC has taken place in Oct 2023. Important points
+that include (a) Mentoring the mentors (b) Academic audit (c) Placement especially in those branches
+wherein poor placement record is reported were discussed. Impact of these steps are yet to be measured.
+File Description
+Document
+Upload Additional information
+View Document
+ 6.5.2 
+Quality assurance initiatives of the institution include:
+1.Regular meeting of Internal Quality Assurance Cell (IQAC); quality improvement
+initiatives identified and implemented
+2.Academic and Administrative Audit (AAA) and follow-up action taken
+3.Collaborative quality initiatives with other institution(s)
+4.Participation in NIRF and other recognized rankings
+5.Any other quality audit/accreditation recognized by state, national or international agencies
+such as NAAC, NBA etc.
+Response: C. Any 2 of the above
+File Description
+Document
+List of Collaborative quality initiatives with other
+institution(s) along with brochures and geo-tagged
+photos with caption and date.
+View Document
+Link to Minute of IQAC meetings, hosted on
+HEI website
+View Document
+Page 60/76
+22-03-2024 11:38:25
+
+--- PAGE 61 ---
+
+Criterion 7 - Institutional Values and Best Practices
+ 
+7.1 Institutional Values and Social Responsibilities
+ 7.1.1 
+Institution has initiated the Gender Audit and measures for the promotion of gender equity during
+the last five years.
+Describe the gender equity & sensitization in curricular and co-curricular activities, facilities for
+women on campus etc., within 500 words
+Response: 
+M H Saboo Siddik College of Engineering, nestled in the vibrant city of Mumbai, stands as a beacon of
+education, and within its walls it proudly embraces and exemplifies gender sensitivity through a myriad
+of well-thought-out facilities and initiatives. Safety and Security, Counseling, Common Room, and the
+Women's Development Cell are testaments to the institution's commitment to creating an inclusive and
+supportive environment for all its students.
+ a) Safety and Security:
+M H Saboo Siddik College recognizes the importance of fostering an environment where every student
+feels secure. We provide a healthy and safe educational environment for our students. The college invests
+in robust safety measures, including well-lit pathways, strategically placed surveillance cameras, and
+dedicated security personnel. Special attention is given to areas that might be considered vulnerable, such
+as parking lots and secluded spots within the campus. We are maintaining discipline which makes them
+comfortable and focused on studies as well as co-curricular activities. For safety purposes, expensive
+jewelry and articles are prohibited. Ragging is banned on campus and undertaking is filled online on the
+following websites www.antiragging.com and www.amanmovement.org provided by AICTE.
+b) Counseling:
+Institute has appointed counselors for counseling the students and staff that address the diverse needs
+and challenges faced by students, with trained professionals.These counseling services extend beyond
+academic advice to encompass mental health, stress management, and career guidance. Confidentiality is
+paramount in the counseling services offered by the college, ensuring that students feel comfortable
+sharing their concerns and seeking help without fear of judgment. Workshops and sessions on mental
+health and well-being are organized regularly, fostering a culture of openness and proactive mental health
+care thereby ensuring confidentiality and a non-judgmental atmosphere.
+ 
+ c) Common Room:
+Common room facility is provided for both boys and girls separately, creating inclusive common spaces
+that cater to the diverse needs of all students.Furnishing these areas with comfortable seating, study
+spaces, and recreational activities.The college ensures that the Common Room is not just a place for
+Page 61/76
+22-03-2024 11:38:25
+
+--- PAGE 62 ---
+
+leisure but also a space that reflects the cultural and gender diversity of its student population. By
+creating an inclusive and welcoming environment, college fosters a sense of belonging among its
+students, regardless of their gender.
+d) Women's Development Cell:
+Women's Development Cell (WDC) formed in the year 2019 serves as a catalyst for the holistic
+development and empowerment of female students and staff. Through a series of workshops, seminars,
+and events, the WDC addresses pertinent issues related to gender, career development and women safety.
+The cell provides a platform for open communication, allowing female students to express their
+concerns, aspirations, and ideas. It acts as a support system, ensuring that female students have access to
+resources and opportunities that contribute to their overall growth and success. By establishing the WDC,
+M H Saboo Siddik College not only acknowledges the unique challenges faced by women but actively
+works towards creating an environment where they can thrive.
+File Description
+Document
+Upload Additional information
+View Document
+Provide Link for Additional information
+View Document
+ 7.1.2 
+The Institution has facilities and initiatives for 
+1.Alternate sources of energy and energy conservation measures 
+2.Management of the various types of degradable and nondegradable waste 
+3.Water conservation 
+4.Green campus initiatives 
+5.Disabled-friendly, barrier free environment
+Response: A. 4 or All of the above
+File Description
+Document
+Geo-tagged photographs/videos of the facilities.
+View Document
+Circulars and report of activities for the
+implementation of the initiatives document
+View Document
+Bills for the purchase of equipment’s for the
+facilities created under this metric
+View Document
+ 7.1.3 
+Quality audits on environment and energy regularly undertaken by the Institution. The
+institutional environment and energy initiatives are confirmed through the following 
+Page 62/76
+22-03-2024 11:38:25
+
+--- PAGE 63 ---
+
+1.Green audit / Environment audit 
+2.Energy audit 
+3.Clean and green campus initiatives 
+4.Beyond the campus environmental promotion activities
+Response: D. Any 1 of the above
+File Description
+Document
+Green audit/environmental audit report from
+recognized bodies
+View Document
+Certificates of the awards received from recognized
+agency (if any).
+View Document
+ 7.1.4 
+Describe the Institutional efforts/initiatives in providing an inclusive environment i.e., tolerance
+and harmony towards cultural, regional, linguistic, communal socioeconomic and Sensitization of
+students and employees to the constitutional obligations: values, rights, duties and responsibilities
+of citizens (Within 500 words)
+Response: 
+India is a country of Multiculturalism where people belong to different religious, racial, cultural and
+lingual identities. Maintaining harmony and tolerance is not always easy as not everyone will share your
+opinions, your lifestyle, and your beliefs. Nevertheless, the number one key to maintaining is Love,
+Respect and Empathy for everyone. To promote harmony, our institute organizes many events for social
+and community service.
+Institution organizes national festivals and birth / death anniversaries of the great Indian personalities.
+Teachers Day is celebrated in the college as a tribute to the national hero Dr. S. Radhakrishnan on his
+birth anniversary 5th September. Students and staff organize the event and teachers are felicitated on this
+occasion. The college also celebrates Engineers Day on 15th September every year as a tribute to the
+great Indian Engineer Bharat Ratna Mokshagundam Visvesvaraya. Students and staff organize different
+activities for this day.
+Students and Staff organize events to imbibe universal values amongst the students. A social and
+community service event provides students with the opportunity to become active members of their
+community and has a lasting and positive impact on society at large. Community service events enable
+students to acquire life skills and knowledge as well as provide a service to those who need it most.
+a. Blood Donation Drive: M. H. Saboo Siddik College of Engineering organizes blood donation drive
+in association with Giants Group Byculla, private NGO and Nair Government Hospital, Mumbai
+b. Charity Event for orphans: A charity event serves two purposes: to raise awareness and raise money.
+Donating to charity promotes love and empathy and encourages the other donors. Social Community
+Service was conducted at Vatsalya Foundation & Orphanage at Madanpura, Mumbai.
+Page 63/76
+22-03-2024 11:38:26
+
+--- PAGE 64 ---
+
+c. Cultural Events: The key to respect, acceptance and appreciation of our forms of expression, our
+ways of being human and of our rich diversity within cultures, is tolerance. To foster a spirit of tolerance,
+it is important to engage in a diverse outlook of knowledge, openness, and communication, freedom of
+thought and conscience. To celebrate it we have different cultural events at our college fest named
+Ambrosia to develop the students emotionally and enhance their communal, social skills. Events like
+rose day, saree day, traditional day, Gang Day are organized every year. Eid and Diwali Milan, Azadi ka
+amrit Mahotsav is also celebrated. The Amrit Kalash Yatra, organized as part of the “Meri Mati Mera
+Desh” campaign, was a significant and successful event aimed at promoting environmental awareness
+and sustainability within our community.
+d. Seminars and workshops on Physical and Mental Health and Wellness: Poor mental health is a
+risk factor for chronic physical conditions. It includes lifestyle behavior choices to ensure health, avoid
+preventable diseases and conditions, and to live in a balanced state of body, mind, and spirit. M.H.Saboo
+Siddik College of Engineering organizes workshops and seminars to help keep people aware of the
+importance of good physical and mental health to have a happy and sound society.
+File Description
+Document
+Upload Additional information
+View Document
+ 
+7.2 Best Practices
+ 7.2.1 
+Describe two best practices successfully implemented by the Institution as per NAAC format
+provided in the Manual
+Response: 
+1.Environmental Awareness
+Title of the Practice: Motivating Students to create environmental awareness.
+Objective of the Practice: To create awareness among the students and apply engineering skills to
+protect the environment.
+The Context: Growing environmental pollution has urged us to involve engineering students to be aware
+and apply their skills to mitigate the impacts caused on humans and daily life stresses. It is necessary to
+understand the environment as well as societal behavior to make the students understand the root cause.
+We have tried this by organizing cleanup drives and making students participate in Swachh Bharat
+Abhiyan Summer Internship 2018. Social knowledge and engineering skills are helping the students to
+design the remedies for issues of polluted water and solid waste management.
+The Practice: We organize a cleanup drive at Girgaum Chowpatty, Mumbai every year post Ganesh
+Visarjan on Anant Chaturdashi. Students along with the staff members are accompanied on the Girgaum
+Beach after the Visarjan cleanup drive takes place for cleaning the beach from solid waste in association
+Page 64/76
+22-03-2024 11:38:26
+
+--- PAGE 65 ---
+
+with BrihanMumbai Mahanagarpalika. The programme Swachh Bharat Abhiyan Summer Internship was
+inaugurated with Pledge taking ceremony and inauguration of compost pit and ornamentation of the
+college through plantation drive and paintings were done in the college campus.
+Major list of event taken for “ZERO PREMISES PROMOTION”
+1. Inauguration of Compost Pit on 11 th Oct 2017 - Environmental Awareness Workshop with a motive
+of transforming our campus into a ZERO solid waste producing campus and educating its affiliates about
+the environmental concerns and waste segregation.
+2. Ornamentation inside campus – Paintings, posters for awareness plantation, cleanup drive and
+exhibition.
+3. Swachh Bharat Summer Internship-SBSI-2018-100HRS- Ministry of Human Resource Development
+in association with the Ministry of Drinking Water and Sanitation has launched the Swachh Bharat
+Summer Internship – 100 Hours of Swachhata. Adopted village kolhare, Dist Raigad and 53 students
+with 16 staff members and Nodal Officer successfully completed 100 hours internship of SBSI.
+4. Cleanup Drive- Post Ganesh Visarjan at Girgaon Chowpatty on 24th September 2018 was conducted
+with 100 students and staff. This drive has been conducted since 2010 till date.
+5. Innovative ideas based on waste and engineering- Papercrete- The purpose of our project was to
+make use of those solid wastes in construction by making eco-friendly light weight composite paper
+bricks called “PAPERCRETE BRICKS” from recycled paper cups used in canteen. This includes the
+production and to study the characteristics, strength parameter and durability of papercrete bricks in order
+to use effectively and commercially in the construction industry so as to serve the purpose of solid waste
+management and to protect the environment considerably reducing the quantity of waste generation.
+Evidence of Success:
+There is increase in number of students participating in environment awareness program last five years.
+Also students are taking multidisciplinary approach by doing projects in it and core branches and
+environment.
+ 
+ 
+ 
+2. Employability
+Title of the Practice: Program for Student Skills Development.
+Goal: To develop student’s skills required in the form of technical skills, soft skills, aptitude etc.
+The Context: Students of our institute are from different backgrounds, culture and environment and are
+groomed for industry readiness. There is a lack of balance in University curriculum and the expectation
+Page 65/76
+22-03-2024 11:38:26
+
+--- PAGE 66 ---
+
+of the industry, so the skills that are required and that will help to bridge the gap between the Institute
+and Industry are taught to create a balance.
+The Practice: There is a well defined program conducted every year for pre final year students in order
+to make them interview and test ready for industry. Training sessions are organized for the students for
+their skill development. Seminars are conducted by industry experts for soft skills development. Mock
+interviews are conducted by inviting industry experts from various domains through experiential learning
+students develop their interview and communication skills.
+This well defined program is conducted every year for pre final year students in order to make them
+interview and test ready for industry. Class room training helps the students in improving their aptitude
+skills that is usually the first step in the placement drive. To improvise soft skills, workshops and training
+are held. The institute believes that soft skills is what will make the student represent themselves and
+institute better to the outside world.
+Major list of program taken are as follows
+1. “Student’s Training with Industry Leaders” (STIL) - The M. H. Saboo Siddik College of
+Engineering has introduced a training program titled “Student’s Training with Industry Leaders” (STIL)
+for the final year students from the academic year SH-2023-2024.
+The objective of the training through seminars/webinars and workshops is to enhance and improve the
+skill set and knowledge of engineering students. The training will boost their performance and
+consequently benefit them to meet their career objectives. The Training helps learners to acquire the
+latest techniques, skills, and methodologies and to build a strong foundation for their career growth.
+2. Industry Mentoring Program (IMP)– An Industry Mentoring Program is a structured initiative that
+connects students with experienced mentors from their respective industry. This program aims to foster
+professional development by providing guidance, knowledge transfer, and networking opportunities,
+ultimately enhancing the mentees' career prospects. Through regular interactions and personalized
+guidance, participants in an Industry Mentoring Program gain valuable insights, build industry
+connections, and navigate their career paths with greater confidence and success.
+Evidence of Success: The institute not only focuses on placement but also promotes higher studies. The
+record of the last five years is given below.
+Year
+2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+Total 
+No. 
+of
+students
+373
+424
+504
+473
+457
+No.of 
+outgoing
+students
+placed/higher
+education
+106
+240
+237
+231
+171
+ 
+ 
+Page 66/76
+22-03-2024 11:38:26
+
+--- PAGE 67 ---
+
+File Description
+Document
+Best practices as hosted on the Institutional
+website
+View Document
+ 
+7.3 Institutional Distinctiveness
+ 7.3.1 
+Portray the performance of the Institution in one area distinctive to its priority and thrust within
+1000 words
+Response: 
+Upliftment of Minority Community towards globally competent Cultural and educational rights of the
+minorities are very important and essential which works as a tool for the upliftment of the minorities.Culture plays a vital role for the congenial development of children who belong to the community of the
+minorities and that is why the preservation of the culture, language and script are important.Without
+education the progress of the community is not possible and the transformation of a society depends on
+education. Institute is a well known and reputed Muslim minority college for the last 35 years. It has
+made a huge contribution to the society upliftment.Its alumni are spread all over the globe and perform
+their utmost. Not only does the institute provide quality technical education but also imparts social and
+cultural morality to create its peers, accountable citizens and good human beings. It opposes minorities in
+educational backwardness. It also works hard to decrease unemployment among Muslim youth. It
+improves the minority’s consciousness of their social and legal rights.
+This institute has set the finest example of secularism and integration by appointing employees of all
+cultures and cast. It provides a healthy environment suitable for education. The students are comfortable
+and feel safe. There is no discrimination of caste and religion seen on campus. In order to make its peers
+competent it imparts good communication skills to its peers. The institute facilitates participation in co-
+curricular activities by providing access to complete infrastructure and manpower. It also offers complete
+guidance for the enhancement of technical skills by organizing technical workshops, seminars and expert
+lectures in every academic session. In order to eliminate unemployment it has established a TPO cell.
+The TPO cell trains the students for better placement and interview. Many well known companies are
+visiting college campuses and offering jobs to the students. It also encourages students for startup
+through EDC. The young talent is encouraged and funded for their startup. In order to develop social
+responsibility it organizes health camps, clean up drives, and Independence Day celebrations. It has done
+a great contribution to the local community by organizing blood donation drives, old age homes and
+orphanage visits. All these activities create a great sense of response and humanity among students.
+In alignment with the Anjuman – I – Islam’s vision of uplifting the status of Muslim minorities in
+particular and fellow citizens in general by creating and promoting World class educational system. M H
+Saboo Siddik’s vision, to bring the whole Muslim Community from the quagmire of poverty and
+educational backwardness and encourage its members to be useful citizens who will contribute to make a
+prosperous nation and to promote national integration by giving equal opportunity to all communities for
+their promotion and progress, institute strives to attain it by providing and facilitating students towards
+their financial needs.
+Page 67/76
+22-03-2024 11:38:26
+
+--- PAGE 68 ---
+
+M H Saboo Siddik College of engineering is a well known institute not only for imparting quality
+education to the young minds but also financially supporting students from minority class. Cost of taking
+education in private institutions is high and state and central governmental bodies help talented and
+needy students by providing funds through various schemes and policies. The students from this
+institution receive, in addition to these scholarships / funds, financial help from various private and
+public trusts, specifically from Anjuman-I Islam's own funds. Many charitable trusts have shown faith in
+the students of M H Saboo Siddik College of Engineering that they are continuously supporting our
+students for many years till now, Aziza Gaya Trust, Khidmat Charitable Trust, MESCO Charitable Trust
+to name few.
+The process of facilitating the students for fulfilling all the requirements of getting various
+scholarships/aid is streamlined such that students find it very convenient to apply smoothly for these aids.
+From filling out forms to apply for any scholarship up to disbursement of funds, the institute provides
+help in any kind.
+In addition to providing support for financial needs of students –directly or indirectly- the institute
+imparts a healthy atmosphere with both culturally rich and socially aware. Because of this healthy
+atmosphere to learn and grow towards better professional and cultural life many students –mostly girls-
+from minority class are now able to lead successful lives and even many of them proved themselves on
+state and national levels by winning prizes in many government or private run competitions,
+Hackathons, conferences etc, who otherwise would not even have had continued their education due to
+lack of social awareness of their elder generations. 
+ 
+Page 68/76
+22-03-2024 11:38:26
+
+--- PAGE 69 ---
+
+5. CONCLUSION
+Additional Information: 
+M. H. Saboo Siddik College of Engineering boasts an array of clubs, chapters, and societies at both the
+department and college levels, fostering holistic student development. Notable organizations include SAE
+India, CES/ISSE, CSI, IETE, ACM, ISHRAE, MESA, SACE, and AWS.
+SAEINDIA Collegiate Clubs provide a platform for students to organize programs, seminars, workshops, and
+activities, nurturing leadership skills. Members enjoy benefits such as free/subsidized workshops, webinars, and
+guest lectures.
+The Civil Engineering Society, established in 2000 as the Construction Engineering Society, imparts technical
+knowledge to civil engineering students.
+CSI-MHSSCE, active since 2004, prioritizes all-round student development, aiming to strike a balance between
+academics and co-curricular activities. The chapter assigns various roles to students, fostering a positive and
+healthy environment.
+IETE, recognized by the Government of India as a Scientific and Industrial Research Organization, focuses on
+advancing electronics, telecommunication, computers, and IT. It sponsors technical events nationwide.
+MHSSCOE-ACM, a student chapter of the world's largest computing society, ACM, was founded in 2014.
+Committed to excellence, the committee organizes technical and extra-curricular events, workshops, and
+competitions, providing a platform for students to enhance their skills.
+ISHRAE, established in 1981, organizes industrial visits and seminars in heating, refrigeration, and air
+conditioning, offering valuable insights to students.
+SACE operates in a democratic setup, working "for the students," "by the students," and "of the students,"
+focusing on extracurricular activities at the college level.
+The college's participation in AWS Academy enhances students' readiness for careers in cloud computing,
+providing a curriculum and AWS Certifications.
+IEEE, founded in 1884, is the world’s largest technical organization dedicated to advancing technology for
+humanity. As a non-profit organization, IEEE consolidates ideas related to electro-technology.
+In essence, these clubs and societies create a dynamic environment at M. H. Saboo Siddik College of
+Engineering, enriching students' academic journey and preparing them for diverse professional paths.
+Concluding Remarks: 
+India being a country which has committed to be among the developed countries in near future, the challenges
+on the path must be identified and solved at priority basis. It is not only a dream for all of us but we need to find
+how to stay there. One of the possible solutions is to maintain highest standards of Quality in professional and
+Page 69/76
+22-03-2024 11:38:26
+
+--- PAGE 70 ---
+
+higher education.
+Our college mission and perspective plan statements are aligned with mission statements of NAAC as long as
+quality education is concerned. Since ours is an Engineering college, we have already qualified for National
+Board of Accreditation (NBA) twice for some of our branches. We strongly believe, Accreditation by NAAC
+or NBA or both, will certainly help us to meet global standards and credibility.
+ We are affiliated to University of Mumbai (UoM) teaching _ learning process is governed by norms laid by
+UoM. As no guidelines are issued by UoM for NEP, we are waiting for the same. However, like Academic
+Bank of Credits (ABC) have been collected from students and forwarded to UoM officials. Participation and
+winning accolade in various national level Hackathons arranged by various government agencies is the
+indication that we foster global competence among students and make them contribute in national development.
+Our MoUs with National and International institutes / agencies indicate the understanding of importance of
+being innovative, creative and entrepreneurial.
+Blood donation, clean up drive, ragging free campus and establishment of NSS unit are examples that we saw
+seeds of social responsibility at the early age of student’s life. By having entire campus covered by CCTV
+network, student’s safety is maintained. Improved facilities in common room for indoor sports increases the
+index of happiness of students. Training programmes for students at campus and participation of FDP’s etc by
+teachers help us upgrade their skills. We being an engineering college, emphasis on use of technology are
+inbuilt.
+We strongly feel Institutional Accreditation by NAAC will certainly help both: the institute and national
+interest.
+ 
+Page 70/76
+22-03-2024 11:38:26
+
+--- PAGE 71 ---
+
+6.ANNEXURE
+1.Metrics Level Deviations
+Metric ID Sub Questions and Answers before and after DVV Verification
+1.2.1
+Number of Certificate/Value added courses offered and online courses of MOOCs, SWAYAM,
+NPTEL etc. (where the students of the institution have enrolled and successfully completed
+during the last five years)
+ Answer before DVV Verification: 
+ Answer After DVV Verification:28 
+ Remark: DVV has made the changes by not consider Orientation Program about - Training and
+Placement department 2023 Batch Campus Placement Preparedness 2023 batch and similar kind of
+programmes.
+1.2.2
+Percentage of students enrolled in Certificate/ Value added courses and also completed online
+courses of MOOCs, SWAYAM, NPTEL etc. as against the total number of students during the last
+five years 
+ 1.2.2.1. Number of students enrolled in Certificate/ Value added courses and also completed
+online courses of MOOCs, SWAYAM, NPTEL etc. as against the total number of students during the
+last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+341
+220
+378
+293
+215
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+134
+118
+142
+136
+128
+ Remark: DVV has made the changes by not consider Orientation Program about - Training and
+Placement department 2023 Batch Campus Placement Preparedness 2023 batch and similar kind of
+programmes.
+1.3.2
+Percentage of students undertaking project work/field work/ internships (Data for the latest
+completed academic year)
+ 1.3.2.1. Number of students undertaking project work/field work / internships
+ Answer before DVV Verification: 1272 
+ Answer after DVV Verification: 1 
+ Remark: Internship certificates not shared by HEI as per SOP. DVV has made some necessary
+changes.
+3.1.1
+Grants received from Government and non-governmental agencies for research projects /
+endowments in the institution during the last five years (INR in Lakhs)
+Page 71/76
+22-03-2024 11:38:26
+
+--- PAGE 72 ---
+
+3.1.1.1. Total Grants from Government and non-governmental agencies for research
+projects / endowments in the institution during the last five years (INR in Lakhs)
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+0
+0
+1.25
+11
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+0
+0
+0
+0
+ Remark: DVV has made the changes by not considered grant letter of 2017.
+3.3.2
+Number of books and chapters in edited volumes/books published and papers published in
+national/ international conference proceedings per teacher during last five years
+ 3.3.2.1. Total number of books and chapters in edited volumes/books published and papers
+in national/ international conference proceedings year wise during last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+1
+4
+6
+4
+6
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+1
+4
+3
+4
+4
+ Remark: DVV has made the changes shared report by HEI.
+3.4.3
+Number of extension and outreach programs conducted by the institution through organized
+forums including NSS/NCC with involvement of community during the last five years.
+ 3.4.3.1. Number of extension and outreach Programs conducted in collaboration with
+industry, community, and Non- Government Organizations through NSS/ NCC etc., year
+wise during the last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+3
+3
+0
+4
+2
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+3
+2
+0
+2
+2
+Page 72/76
+22-03-2024 11:38:26
+
+--- PAGE 73 ---
+
+Remark: DVV has made the changes according to the data template document.
+3.5.1
+Number of functional MoUs/linkages with institutions/ industries in India and abroad for
+internship, on-the-job training, project work, student / faculty exchange and collaborative
+research during the last five years.
+ Answer before DVV Verification: 
+ Answer After DVV Verification:10 
+ Remark: DVV has made the changes acccording to the data template document.
+4.3.2
+Student – Computer ratio (Data for the latest completed academic year)
+ 4.3.2.1. Number of computers available for students usage during the latest completed
+academic year:
+ Answer before DVV Verification: 850 
+ Answer after DVV Verification: 560 
+ Remark: DVV has made the changes according to the document.
+5.1.3
+Percentage of students benefitted by guidance for competitive examinations and career
+counseling offered by the Institution during the last five years
+ 5.1.3.1. Number of students benefitted by guidance for competitive examinations and career
+counselling offered by the institution year wise during last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+196
+498
+669
+264
+806
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+196
+498
+599
+144
+806
+ Remark: DVV has made the changes according to the data template document.
+5.2.1
+Percentage of placement of outgoing students and students progressing to higher education
+during the last five years
+ 5.2.1.1. Number of outgoing students placed and / or progressed to higher education year
+wise during the last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+106
+240
+237
+231
+171
+Page 73/76
+22-03-2024 11:38:26
+
+--- PAGE 74 ---
+
+Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+97
+219
+197
+182
+143
+ 5.2.1.2. Number of outgoing students year wise during the last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+373
+424
+504
+473
+457
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+373
+424
+504
+473
+457
+ Remark: DVV has made the changes according to the data template document.
+5.2.2
+Percentage of students qualifying in state/national/ international level examinations during the
+last five years 
+ 5.2.2.1. Number of students qualifying in state/ national/ international level examinations 
+year wise during last five years (eg: IIT/JAM/NET/SLET/GATE/GMAT/GPAT/CLAT/CAT/
+GRE/TOEFL/ IELTS/Civil Services/State government examinations etc.)
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+8
+9
+9
+23
+29
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+8
+7
+9
+10
+10
+ Remark: DVV has made the changes according to the data template document.
+5.3.1
+Number of awards/medals for outstanding performance in sports/ cultural activities at
+University / state/ national / international level (award for a team event should be counted as
+one) during the last five years
+ 5.3.1.1. Number of awards/medals for outstanding performance in sports/cultural activities at 
+national/international level (award for a team event should be counted as one) year wise during
+the last five years 
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+8
+4
+1
+6
+Page 74/76
+22-03-2024 11:38:26
+
+--- PAGE 75 ---
+
+Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+0
+5
+2
+1
+6
+ Remark: DVV has mae the changes according to the data template document.
+5.3.2
+Average number of sports and cultural programs in which students of the Institution
+participated during last five years (organised by the institution/other institutions)
+ 5.3.2.1. Number of sports and cultural programs in which students of the Institution
+participated year wise during last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+9
+9
+0
+1
+10
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+6
+6
+0
+0
+3
+ Remark: DVV has made the changes according to the data template document.
+6.3.3
+Percentage of teaching and non-teaching staff participating in Faculty development Programmes
+(FDP), Management Development Programmes (MDPs) professional development /administrative
+training programs during the last five years
+ 6.3.3.1. Total number of teaching and non-teaching staff participating in Faculty
+development Programmes (FDP), Management Development Programmes (MDPs) professional
+development /administrative training programs during the last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+21
+31
+61
+74
+8
+ Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+16
+22
+28
+30
+7
+ 6.3.3.2. Number of non-teaching staff year wise during the last five years
+ Answer before DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+91
+93
+95
+99
+104
+Page 75/76
+22-03-2024 11:38:26
+
+--- PAGE 76 ---
+
+Answer After DVV Verification:
+ 2022-23
+2021-22
+2020-21
+2019-20
+2018-19
+91
+93
+95
+99
+104
+ Remark: DVV has made the changes according to the data template document.
+7.1.3
+Quality audits on environment and energy regularly undertaken by the Institution. The
+institutional environment and energy initiatives are confirmed through the following 
+1. Green audit / Environment audit 
+2. Energy audit 
+3. Clean and green campus initiatives 
+4. Beyond the campus environmental promotion activities
+ Answer before DVV Verification: B. Any 3 of the above 
+ Answer After DVV Verification: D. Any 1 of the above
+ Remark: DVV has select D. Any 1 of the above as per supporting report for SL. NO. 4 by HEI.
+2.Extended Profile Deviations
+Extended Profile Deviations
+No Deviations
+Powered by TCPDF (www.tcpdf.org)
+Page 76/76
+22-03-2024 11:38:26

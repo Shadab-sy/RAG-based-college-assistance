@@ -1,0 +1,14 @@
+# Local Python environment
+.venv/
+
+# Python bytecode and test/type-check caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets and runtime artifacts
+backend/.env
+backend/chroma_db/
+backend/*.log
