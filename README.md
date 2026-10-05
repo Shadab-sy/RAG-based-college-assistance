@@ -25,7 +25,20 @@ py -m venv .venv
 python -m pip install -r backend\requirements.txt
 ```
 
-Copy `backend/.env.example` to `backend/.env` and set `GEMINI_API_KEY` if generated answers are needed. Retrieval and evaluation can run without the key.
+Copy `backend/.env.example` to `backend/.env` and set `OPENROUTER_API_KEY` for generated answers. The backend uses OpenRouter with `qwen/qwen3.8-27b:free` through `https://openrouter.ai/api/v1`. Optional comma-separated fallbacks can be configured with `OPENROUTER_FALLBACK_MODELS`; they receive the same retrieved evidence as the primary. Retrieval and evaluation can run without the key. The free model can have provider and rate-limit availability constraints and is intended for development/demo use.
+
+## Frontend (React + Vite)
+
+A chat-style frontend is included in `frontend/` for the existing FastAPI backend.
+
+```powershell
+cd frontend
+npm install
+copy .env.example .env
+npm run dev -- --host 0.0.0.0
+```
+
+The frontend calls the FastAPI backend at `http://127.0.0.1:8000` by default and reads `VITE_API_URL` from the environment.
 
 ## Common commands
 

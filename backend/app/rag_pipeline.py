@@ -93,7 +93,7 @@ class RAGPipeline:
     def _source_package(response: RetrievalResponse, include_scores: bool = False) -> tuple[List[ChatSource], List[Dict[str, Any]]]:
         sources: List[ChatSource] = []
         evidence: List[Dict[str, Any]] = []
-        for index, chunk in enumerate(response.results[: settings.GEMINI_MAX_EVIDENCE_CHUNKS], 1):
+        for index, chunk in enumerate(response.results[: settings.OPENROUTER_MAX_EVIDENCE_CHUNKS], 1):
             source_id = f"S{index}"
             sources.append(ChatSource(
                 document=chunk.document,
@@ -208,7 +208,7 @@ class RAGPipeline:
             conflicting_evidence=retrieval.conflicting_evidence,
             requires_personal_context=retrieval.requires_personal_context,
             confidence_note=retrieval.confidence_note,
-            generation="gemini",
+            generation="openrouter",
         )
 
     def prepare_llm_input(self, query: str, top_k: int = 5) -> Dict[str, Any]:

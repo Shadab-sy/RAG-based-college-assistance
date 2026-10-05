@@ -28,12 +28,17 @@ class Settings(BaseSettings):
     CROSS_ENCODER_ENABLED: bool = False
     CROSS_ENCODER_ALLOW_HYBRID_FALLBACK: bool = True
 
-    # Gemini answer generation; the API key is optional at startup and checked lazily.
-    GEMINI_API_KEY: Optional[str] = Field(default=None, validation_alias="GEMINI_API_KEY")
-    GEMINI_MODEL: str = Field(default="gemini-3.8-flash", validation_alias="GEMINI_MODEL")
-    GEMINI_MAX_EVIDENCE_CHUNKS: int = Field(default=5, validation_alias="GEMINI_MAX_EVIDENCE_CHUNKS")
-    GEMINI_MAX_CHUNK_CHARS: int = Field(default=1800, validation_alias="GEMINI_MAX_CHUNK_CHARS")
-    GEMINI_MAX_OUTPUT_TOKENS: int = Field(default=512, validation_alias="GEMINI_MAX_OUTPUT_TOKENS")
+    # OpenRouter generation; the key is optional at startup and checked lazily.
+    OPENROUTER_API_KEY: Optional[str] = Field(default=None, validation_alias="OPENROUTER_API_KEY")
+    OPENROUTER_MODEL: str = Field(
+        default="qwen/qwen3.8-27b:free",
+        validation_alias="OPENROUTER_MODEL",
+    )
+    OPENROUTER_FALLBACK_MODELS: str = Field(default="", validation_alias="OPENROUTER_FALLBACK_MODELS")
+    OPENROUTER_MAX_EVIDENCE_CHUNKS: int = Field(default=5, validation_alias="OPENROUTER_MAX_EVIDENCE_CHUNKS")
+    OPENROUTER_MAX_CHUNK_CHARS: int = Field(default=1800, validation_alias="OPENROUTER_MAX_CHUNK_CHARS")
+    OPENROUTER_MAX_OUTPUT_TOKENS: int = Field(default=4096, validation_alias="OPENROUTER_MAX_OUTPUT_TOKENS")
+    OPENROUTER_TEMPERATURE: float = Field(default=0.2, validation_alias="OPENROUTER_TEMPERATURE")
 
     # Hybrid Retrieval Weights (Normalized sum = 1.0)
     # final_score = W_SEMANTIC * semantic + W_LEXICAL * lexical + W_METADATA * metadata
@@ -59,6 +64,7 @@ class Settings(BaseSettings):
         env_prefix="RAG_",
         env_file=Path(__file__).resolve().parents[1] / ".env",
         env_file_encoding="utf-8",
+        extra="ignore",
         arbitrary_types_allowed=True,
     )
 

@@ -1,15 +1,26 @@
 from fastapi import FastAPI, Query, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from app.config import settings
 from app.retrieval import retrieve_documents, retrieve_with_evaluation, RetrievalResponse
 from app.rag_pipeline import RAGPipeline, ChatAnswerResponse
-from app.llm import GeminiAPIError, LLMConfigurationError
+from app.llm import LLMConfigurationError, OpenRouterAPIError
 from app.vector_store import get_vector_store
 
 app = FastAPI(
     title="MHSSCE RAG Assistant Backend API",
     description="Backend retrieval and RAG API for M. H. Saboo Siddik College of Engineering Knowledge Assistant",
     version="1.0.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ],
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
 )
 
 pipeline = RAGPipeline()
@@ -53,8 +64,8 @@ def ask(
         return pipeline.ask(question, top_k=top_k, include_scores=include_scores)
     except LLMConfigurationError as error:
         raise HTTPException(status_code=503, detail=str(error)) from error
-    except GeminiAPIError as error:
-        raise HTTPException(status_code=502, detail=str(error)) from error
+    except OpenRouterAPIError as error:
+        raise HTTPException(status_code=error.http_status, detail=str(error)) from error
 
 @app.get("/retrieve", response_model=RetrievalResponse)
 def retrieve(

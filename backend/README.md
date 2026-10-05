@@ -36,7 +36,7 @@ The architecture follows a modular, decoupled pipeline designed for reproducibil
 [Answerability / Conflict Checks] (app/retrieval.py)
      │
      ├── insufficient evidence -> controlled abstention
-     └── supported or conflicting evidence -> Gemini grounded generation (app/llm.py)
+     └── supported or conflicting evidence -> OpenRouter/Qwen grounded generation (app/llm.py)
              │
              ▼
 [API & Testing Interface] (FastAPI app/main.py)
@@ -94,7 +94,7 @@ backend/
 │   ├── vector_store.py     # ChromaDB client & persistent collection manager
 │   ├── retrieval.py        # Top-k vector retrieval & confidence evaluation
 │   ├── reranker.py         # Lazy, process-wide Cross-Encoder reranker
-│   ├── llm.py              # Grounded Gemini generation and citation validation
+│   ├── llm.py              # Grounded OpenRouter generation
 │   ├── rag_pipeline.py     # Retrieval, answerability, and grounded answer orchestration
 │   └── main.py             # FastAPI REST endpoints
 │
@@ -170,16 +170,16 @@ The evaluator records baseline and reranked top-five results, relevance-at-1/3/5
 
 ---
 
-## 8. Gemini Setup and Chat API
+## 8. OpenRouter Setup and Chat API
 
-Install the backend requirements, then paste your Gemini key into `backend/.env` on the `GEMINI_API_KEY=` line. The settings loader reads that file regardless of the current working directory. The key is read lazily, so retrieval and the API can start without it; supported questions that require generation return a clear `503` configuration error until it is set. `backend/.env` is ignored by Git; use `backend/.env.example` as the safe template.
+Install the backend requirements, then copy `.env.example` to `.env` and add your OpenRouter API key. The settings loader reads that file regardless of the current working directory. The key is read lazily, so retrieval and the API can start without it; supported questions that require generation return a clear `503` configuration error until it is set. `.env` is ignored by Git; use `.env.example` as the safe template.
 
 ```powershell
 python -m pip install -r backend/requirements.txt
 python -m uvicorn app.main:app --app-dir backend --reload
 ```
 
-`GEMINI_MODEL` is set to `gemini-3.8-flash` in the template and can be changed there. To retain the experimental Cross-Encoder path for a benchmark, set `RAG_CROSS_ENCODER_ENABLED=true` in the process environment; production retrieval uses hybrid ranking by default.
+The generation provider is OpenRouter, using the OpenAI-compatible API at `https://openrouter.ai/api/v1` and the default model `qwen/qwen3.8-27b:free`. Configure `OPENROUTER_API_KEY`, `OPENROUTER_MODEL`, `OPENROUTER_MAX_OUTPUT_TOKENS`, and `OPENROUTER_TEMPERATURE` in `.env`; the default output budget is 4096 tokens and reasoning effort is set to `low` so internal reasoning does not consume the full answer budget. The answer is taken directly from `choices[0].message.content`; reasoning fields are ignored, and empty content is treated as unsuccessful generation. Optional fallback models are a comma-separated `OPENROUTER_FALLBACK_MODELS` list; the default is empty. A transient rate limit, timeout, connection failure, provider error, or empty response moves to the next configured model using the exact same prompt and evidence, without rerunning retrieval. Authentication/configuration failures do not trigger fallback. Keep the key on the backend only. The free model may have provider availability and rate-limit constraints and is intended for development/demo use. To retain the experimental Cross-Encoder path for a benchmark, set `RAG_CROSS_ENCODER_ENABLED=true` in the process environment; production retrieval uses hybrid ranking by default.
 
 Ask a question with `POST /api/ask`:
 
@@ -187,16 +187,28 @@ Ask a question with `POST /api/ask`:
 {"question": "Who is the HOD of Information Technology?"}
 ```
 
-The response includes `answer`, retrieval `status`, and `sources` containing document, page, academic year, and chunk ID. Internal scores are omitted unless `include_scores=true` is passed as a query parameter. Unsupported questions abstain without calling Gemini; conflicting records are sent with their evidence and must be described without selecting a winner. Gemini answers use citations generated from retrieval source IDs, so document names and page numbers come from metadata.
+The response includes `answer`, retrieval `status`, and `sources` containing document, page, academic year, and chunk ID. Internal scores are omitted unless `include_scores=true` is passed as a query parameter. Unsupported questions abstain without calling OpenRouter; conflicting records are sent with their evidence and must be described without selecting a winner. The answer is taken directly from OpenRouter's `choices[0].message.content`; reasoning fields are ignored, and an empty or missing content value is treated as an unsuccessful generation. Retrieval sources remain available separately in the response.
 
-Run the offline grounded-answer checks without a Gemini key:
+Run the offline grounded-answer and retrieval checks without an OpenRouter key:
 
 ```bash
 python backend/scripts/test_llm.py
+```
+
+Check provider connectivity with:
+
+```powershell
+python backend\test_openrouter.py
+```
+
+Run the four reported live RAG questions with:
+
+```powershell
+python backend\scripts\test_llm.py --live
 ```
 
 ## 9. Current Limitations & Next Steps
 
 1. **OCR Artifacts**: Scanned PDFs (`fee structure 2026-27.pdf` and `Pragati_Saksham_scholarship scheme 2026-27.pdf`) contain occasional character errors from OCR (e.g., `Refino.` or formatting noise in fee tables). While semantic retrieval finds these pages reliably, tabular fee parsing benefits from metadata-assisted table extraction.
 2. **Keyword vs. Semantic Specificity**: Very specific course code searches (e.g., "CSC701") may benefit from hybrid BM25 + dense retrieval.
-3. **Gemini Grounding**: Citation markers are checked against retrieved source metadata, but factual grounding still depends on the model following the evidence instructions; the pipeline safely abstains when citations are missing or invalid.
+3. **LLM Grounding**: The prompt restricts generation to retrieved evidence, but factual grounding still depends on the model following those instructions. Retrieved sources are returned separately; generated answer text is not parsed for a citation format.
