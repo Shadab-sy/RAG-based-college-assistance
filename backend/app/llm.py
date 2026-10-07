@@ -164,9 +164,33 @@ class OpenRouterGroundedGenerator:
             ), True
         if isinstance(error, APIStatusError):
             status_code = error.status_code
+            # OpenRouter's response body contains the useful cause for 4xx
+            # failures (for example an unsupported parameter). Keep a short
+            # sanitized summary in the API detail and backend log instead of
+            # replacing every rejection with the same generic message.
+            body = getattr(error, "body", None)
+            provider_detail = ""
+            if isinstance(body, Mapping):
+                payload = body.get("error", body)
+                if isinstance(payload, Mapping):
+                    detail_parts = [
+                        str(payload.get(key, "")).strip()
+                        for key in ("message", "code")
+                        if payload.get(key)
+                    ]
+                    provider_detail = ": ".join(detail_parts)
+            if not provider_detail:
+                provider_detail = str(error).strip()
+            provider_detail = " ".join(provider_detail.split())[:400]
+            logger.warning(
+                "OpenRouter request rejected (status=%s): %s",
+                status_code,
+                provider_detail or "no provider detail returned",
+            )
             if status_code == 429:
                 return OpenRouterAPIError(
-                    "OpenRouter rate limit reached. Please retry shortly.",
+                    "OpenRouter rate limit reached (HTTP 429). "
+                    f"{provider_detail or 'The account or selected provider is throttling requests.'}",
                     http_status=429,
                 ), True
             if status_code == 408 or status_code >= 500:
@@ -175,7 +199,8 @@ class OpenRouterGroundedGenerator:
                     http_status=502,
                 ), True
             return OpenRouterAPIError(
-                "OpenRouter rejected the generation request. Check the configured model and request settings.",
+                "OpenRouter rejected the generation request (HTTP "
+                f"{status_code}). {provider_detail or 'Check the backend log for details.'}",
                 http_status=502,
             ), False
         return OpenRouterAPIError("OpenRouter generation failed. Please try again later."), False
